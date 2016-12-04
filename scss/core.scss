@@ -1,0 +1,347 @@
+$header-size: 40px;
+$main: #000;
+$accent: #f35588;
+$line: #eee;
+
+@mixin lists {
+  display: flex;
+  flex-direction: row;
+}
+
+@mixin list {
+  flex: 1;
+  margin: 0 15px;
+}
+
+@mixin list-item {
+  border-bottom: 1px solid $line;
+  font-size: 15px;
+  color: rgba(0, 0, 0, 0.87);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: white;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, sans-serif;
+  font-weight: 200;
+}
+
+button, a.button {
+  $tr-time: 0.2s;
+
+  border: 1px solid $line;
+  border-radius: 3px;
+  text-transform: uppercase;
+  background: #fff;
+  color: $main;
+  padding: 8px 16px;
+  font-size: 16px;
+  font-weight: 400;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background-color ease-in $tr-time, border ease-in $tr-time, color ease-in $tr-time;
+
+  &[disabled] {
+    cursor: default;
+    background-color: #ccc;
+  }
+
+  &:hover:enabled, &:active:enabled {
+    background-color: $accent;
+    border-color: $accent;
+    color: #fff;
+  }
+  &:active:enabled {
+    background-color: darken($accent, 20%);
+  }
+}
+
+.page {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.movies-page {
+  &--content {
+    @include lists;
+  }
+
+  &--checked {
+    @include list;
+
+    padding-top: 56px;
+  }
+
+  &--unchecked {
+    @include list;
+  }
+}
+
+.movies {
+  &--empty {
+    text-align: center;
+  }
+
+  &--action {
+    text-align: center;
+    margin-top: 20px;
+  }
+}
+
+.movie {
+  @include list-item;
+
+  transition: margin linear 150ms;
+
+  &--content {
+    padding: 5px ($header-size / 2 * 3);
+    line-height: 25px;
+  }
+
+  &--label {
+    float:left;
+    width: 70px;
+  }
+
+  &--value {
+    font-weight: bold;
+    margin-left: 80px;
+    margin-bottom: 4px;
+  }
+}
+
+.locations-page {
+  &--content {
+    @include lists;
+  }
+
+  &--checked {
+    @include list;
+  }
+
+  &--unchecked {
+    @include list;
+  }
+
+  &--number {
+    color: $accent;
+  }
+
+  &--action {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  &--empty {
+    text-align: center;
+  }
+}
+
+.location {
+  @include list-item;
+
+  transition: margin linear 150ms;
+
+  &--content {
+    line-height: 25px;
+  }
+
+  &--facts {
+    padding: 5px ($header-size / 2 * 3);
+  }
+
+  &--image {
+    width: 100%;
+    height: 120px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  &_opened {
+    margin-bottom: 12px;
+  }
+}
+
+.item-header {
+  display: flex;
+  flex-direction: row;
+  height: $header-size;
+
+  &--title {
+    flex: 1;
+    display: inline;
+    font-size: 16px;
+    line-height: $header-size;
+    margin: 0;
+    cursor: pointer;
+    overflow: hidden;
+  }
+
+  &--open {
+    width: $header-size;
+    margin-right: $header-size / 2;
+    font-size: $header-size / 4 * 3;
+    line-height: $header-size - 2px;
+    text-align: center;
+    transition: transform 150ms ease;
+    cursor: pointer;
+    user-select: none;
+
+    &_yes {
+      transform: rotate(-180deg);
+    }
+  }
+
+  &--toggle {
+    width: $header-size;
+    height: $header-size;
+    font-size: $header-size / 4 * 3;
+    line-height: $header-size;
+    text-align: center;
+    margin-left: $header-size / 2;
+    cursor: pointer;
+    user-select: none;
+
+    &:hover {
+      color: $accent;
+    }
+  }
+}
+
+.route {
+  height: 700px;
+
+}
+
+.stepper {
+  display: flex;
+  flex-direction: row;
+  margin: 20px 0;
+
+  @media print {
+    display: none;
+  }
+
+  &--step {
+    flex: 1;
+    text-align: center;
+    margin: 0 30px;
+    transition: color ease-in 0.5s;
+    cursor: pointer;
+
+    &:hover {
+      border-bottom: 3px solid rgba($accent, 0.3);
+    }
+    &_selected, &_selected:hover {
+      border-bottom: 3px solid $accent;
+    }
+    &_disabled {
+      color: lighten($main, 60%);
+      cursor: default;
+
+      &:hover {
+        border: none;
+      }
+    }
+  }
+
+  &--delim {
+    flex: 1;
+    border-bottom: 1px solid #e8e8e8;
+    height: 10px;
+    margin: 0 30px;
+  }
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 30px;
+
+  &--text {
+    font-size: 24px;
+    font-weight: 100;
+    margin-top: 40px;
+  }
+
+  @media print {
+    display: none;
+  }
+}
+
+.search {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  border-radius: 40px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+  padding: 8px 16px;
+  outline: none;
+}
+
+.results-page {
+  &--content {
+    display: flex;
+    flex-direction: row;
+  }
+  &--route {
+    flex: 1;
+  }
+  &--variants {
+    flex: 1;
+    margin-left: 30px;
+    text-align: center;
+    @media print {
+      display: none;
+    }
+  }
+  &--variant {
+    font-size: 18px;
+
+    & + & {
+      border-top: 1px solid $line;
+      padding-top: 20px;
+      margin-top: 20px;
+    }
+  }
+}
+
+.print-list {
+  display: none;
+
+  @media print {
+    display: block;
+  }
+
+  &--item {
+    margin-top: 30px;
+  }
+}
+
+
+.landing {
+  margin: 0;
+  background: url(/public/images/bike.jpg) no-repeat;
+  background-size: cover;
+
+  &--header {
+    margin: 100px auto 0;
+    text-align: center;
+    font-size: 60px;
+    color: $accent;
+    background: #fff;
+    padding: 20px 0 30px;
+  }
+
+  &--list {
+    font-size: 30px;
+    list-style: none;
+    font-weight: 300;
+    padding: 0;
+  }
+}
+

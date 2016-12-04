@@ -1,0 +1,4052 @@
+{
+  "2552 Hyde Street" : {
+    "facts" : null,
+    "lng" : -122.419872,
+    "lat" : 37.804561
+  },
+  "Pier 14 San Francisco" : {
+    "facts" : null,
+    "lng" : -122.3913269,
+    "lat" : 37.7935796
+  },
+  "60 Potomac" : {
+    "facts" : null,
+    "lng" : -117.7718755,
+    "lat" : 33.7071611
+  },
+  "Larkin & Fulton" : {
+    "facts" : null,
+    "lng" : -122.4167887,
+    "lat" : 37.7795923
+  },
+  "772 Commercial Street at Kearney" : {
+    "facts" : "Called \"Man Loh's Oriental Roof Garden\" in the film.",
+    "lng" : -123.043993,
+    "lat" : 44.9322179
+  },
+  "Fairmont Hotel (950 Mason Street, Nob Hill)" : {
+    "facts" : "In 1945 the Fairmont hosted the United Nations Conference on International Organization as delegates arrived to draft a charter for the organization. The U.S. Secretary of State, Edward Stettinius drafted the charter in the hotel's Garden Room.",
+    "lng" : -122.4100354,
+    "lat" : 37.7924959
+  },
+  "Sacramento St., Between Pierce & Broderick Streets " : {
+    "facts" : null,
+    "lng" : -121.4943996,
+    "lat" : 38.5815719
+  },
+  "Vallejo Street at Sansome" : {
+    "facts" : null,
+    "lng" : -122.4024386,
+    "lat" : 37.7993922
+  },
+  "Building 924, Presidio (Golden Gate National Recreation Area)" : {
+    "facts" : "In 1776, Spain made the Presidio a fortified area. The area was then given to Mexico, but then given to the US in 1848. The 1994 demilitarization of the area in 1994 marked the end of its 219 years of military use. ",
+    "lng" : -122.472438,
+    "lat" : 37.8016839
+  },
+  "Dolores Park, San Francisco" : {
+    "facts" : "Russell Tovey originally auditioned for the role of Patrick, but was unsuccessful. After the show got picked up, the character of Kevin was written with him in mind.",
+    "lng" : -122.427063,
+    "lat" : 37.7597727
+  },
+  "California St from Mason to Kearny" : {
+    "facts" : null,
+    "lng" : -74.1454214,
+    "lat" : 40.7684342
+  },
+  "Pier 96" : {
+    "facts" : null,
+    "lng" : -157.890986,
+    "lat" : 21.3236066
+  },
+  "1821 Alabama Street" : {
+    "facts" : null,
+    "lng" : -122.4101619,
+    "lat" : 37.7439999
+  },
+  "2930 Vallejo Street" : {
+    "facts" : null,
+    "lng" : -122.445704,
+    "lat" : 37.794164
+  },
+  "California at Jones" : {
+    "facts" : null,
+    "lng" : -122.4141308,
+    "lat" : 37.791424
+  },
+  "Leavenworth at Green" : {
+    "facts" : null,
+    "lng" : -122.4172437,
+    "lat" : 37.7985017
+  },
+  "66 Potomac" : {
+    "facts" : null,
+    "lng" : -117.7718708,
+    "lat" : 33.7071668
+  },
+  "Octavia at Grove Street" : {
+    "facts" : null,
+    "lng" : -122.4248359,
+    "lat" : 37.777618
+  },
+  "Powell St at Geary St" : {
+    "facts" : null,
+    "lng" : -122.4082412,
+    "lat" : 37.7873819
+  },
+  "Marina Green (Marina District)" : {
+    "facts" : "Before the 1906 earthquake, the land on which Marina Green sits was a tidal marsh, and rubble from the earthquake was dumped on the site. However, the site was filled in to provide land for the 1915 Panama-Pacific Exhibition. ",
+    "lng" : -122.4393511,
+    "lat" : 37.8069514
+  },
+  "1138 Filbert Street" : {
+    "facts" : null,
+    "lng" : -122.418279,
+    "lat" : 37.800566
+  },
+  "Kearney Street (Telegraph Hill)" : {
+    "facts" : null,
+    "lng" : -122.4062152,
+    "lat" : 37.8016977
+  },
+  "Sutter & Baker Streets" : {
+    "facts" : null,
+    "lng" : -122.4432077,
+    "lat" : 37.7848308
+  },
+  "Nob Hill" : {
+    "facts" : "Railroad tycoons like Leland Stanford (founder of Stanford University) lived in Nob Hill at the turn of the 20th Century. The 1906 earthquake completely destroyed Nob Hill, with the exception of the wall that surrounded the mansions of Stanford and his neighbor Mark Hopkins. ",
+    "lng" : -122.416113,
+    "lat" : 37.793014
+  },
+  "Lombard & Hyde" : {
+    "facts" : null,
+    "lng" : -122.419635,
+    "lat" : 37.8020051
+  },
+  "Potomac and Waller" : {
+    "facts" : null,
+    "lng" : -122.4327506,
+    "lat" : 37.7708691
+  },
+  "200 Post St. " : {
+    "facts" : null,
+    "lng" : -75.336148,
+    "lat" : 43.48844099999999
+  },
+  "3355 Geary Blvd." : {
+    "facts" : null,
+    "lng" : -122.4548989,
+    "lat" : 37.7811314
+  },
+  "Café Trieste (609 Vallejo)" : {
+    "facts" : "Francis Ford Coppola allegedly wrote large portions of \"The Godfather\" trilogy in Café Trieste.",
+    "lng" : -122.2566367,
+    "lat" : 38.1040864
+  },
+  "Pacific & Divisadero" : {
+    "facts" : null,
+    "lng" : -122.44136,
+    "lat" : 37.7925186
+  },
+  "101 Henry Adams Place, 4th Floor" : {
+    "facts" : null,
+    "lng" : -122.4033689,
+    "lat" : 37.7681227
+  },
+  "Merchant Exchange Building" : {
+    "facts" : null,
+    "lng" : -122.4021715,
+    "lat" : 37.792255
+  },
+  "1155 Filbert Street at Hyde" : {
+    "facts" : null,
+    "lng" : -122.4192673,
+    "lat" : 37.800137
+  },
+  "1458 33rd Ave." : {
+    "facts" : null,
+    "lng" : -122.491592,
+    "lat" : 37.759951
+  },
+  "Vermont Street between 20th and 22nd Streets" : {
+    "facts" : null,
+    "lng" : -72.57784149999999,
+    "lat" : 44.5588028
+  },
+  "Taylor and Jefferson Streets (Fisherman's Wharf)" : {
+    "facts" : null,
+    "lng" : -122.4158081,
+    "lat" : 37.8082214
+  },
+  "Intersection of York & Peralta (Bernal Heights)" : {
+    "facts" : null,
+    "lng" : -122.4068812,
+    "lat" : 37.747484
+  },
+  "8 Octavia Street" : {
+    "facts" : null,
+    "lng" : -122.4234298,
+    "lat" : 37.7725981
+  },
+  "Chaya / Perry's 132 Embarcadero" : {
+    "facts" : null,
+    "lng" : -122.3976732,
+    "lat" : 37.7992627
+  },
+  "200 Kansas St." : {
+    "facts" : null,
+    "lng" : -122.4042173,
+    "lat" : 37.7667651
+  },
+  "The Women's Building, 3543 18th St." : {
+    "facts" : "The mural painted outside the building was painted by 7 women artists including Juana Alicia, Miranda Bergman and Meera Desai. The computer lab scene was filmed inside the building.",
+    "lng" : 73.7441066,
+    "lat" : 32.9542245
+  },
+  "Japanese Tea Garden (Hagiwara Tea Garden Drive, Golden Gate Park)" : {
+    "facts" : "The Japanese Hagiwara family invented \"Chinese\" fortune cookies in the tea-garden",
+    "lng" : -122.4683597,
+    "lat" : 37.770862
+  },
+  "Fort Point, Presidio" : {
+    "facts" : "Built in 1853, Fort Point is the only West Coast fort built by the Union Army. Though the Confederate army planned to attack San Francisco, the commanding Confederate general learned that the war had ended while end route to SF.",
+    "lng" : -122.4771093,
+    "lat" : 37.8105931
+  },
+  "Candlestick Park" : {
+    "facts" : "Then Vice President Richard Nixon threw out the first pitch when Candlestick opened in 1960. On August 29, 1966, The Beatles played their last concert for paying fans at Candlestick Park.",
+    "lng" : -122.3861392,
+    "lat" : 37.7135308
+  },
+  "Union Square" : {
+    "facts" : "During the Civil War, pro-Union rallies were held in the Square, and thus the area was called \"Union Square\". ",
+    "lng" : -71.0957461,
+    "lat" : 42.3796723
+  },
+  "Clementina & Sumner Streets" : {
+    "facts" : null,
+    "lng" : -122.4100241,
+    "lat" : 37.7759045
+  },
+  "1000 Mason St." : {
+    "facts" : null,
+    "lng" : -122.4107104,
+    "lat" : 37.7930742
+  },
+  "Chrissy Field" : {
+    "facts" : "Chrissy Field was originally an airfield for the Presidio Army Base. ",
+    "lng" : -122.4640618,
+    "lat" : 37.8039069
+  },
+  "Saints Peter & Paul Church" : {
+    "facts" : null,
+    "lng" : -105.071691,
+    "lat" : 39.7710224
+  },
+  "32 Napier Lane" : {
+    "facts" : null,
+    "lng" : -122.403852,
+    "lat" : 37.802602
+  },
+  "Kearny & Pacific Streets" : {
+    "facts" : null,
+    "lng" : -122.4053483,
+    "lat" : 37.7970984
+  },
+  "Embarcadero Street at Washington Street" : {
+    "facts" : null,
+    "lng" : -122.3956093,
+    "lat" : 37.7966899
+  },
+  "Fisherman's Wharf pier near Chapel (Port Walk #19)" : {
+    "facts" : null,
+    "lng" : -122.4096802,
+    "lat" : 37.8083825
+  },
+  "1328 Portola" : {
+    "facts" : null,
+    "lng" : -122.464446,
+    "lat" : 37.74017800000001
+  },
+  "Market at Mason" : {
+    "facts" : null,
+    "lng" : -75.4006501,
+    "lat" : 38.1724943
+  },
+  "San Francisco Drydock (20th and Illinois Streets)" : {
+    "facts" : null,
+    "lng" : -122.4194155,
+    "lat" : 37.7749295
+  },
+  "100 Block of Lombard Street" : {
+    "facts" : "Lombard Street is not actually the most crooked in SF. That honor goes to Potrero Hill's Vermont Street between 22nd and 23rd.",
+    "lng" : -122.403387,
+    "lat" : 37.8040671
+  },
+  "21st and Sanchez St" : {
+    "facts" : null,
+    "lng" : -122.4301273,
+    "lat" : 37.756369
+  },
+  "Washington between Stockton and Kearny" : {
+    "facts" : null,
+    "lng" : -74.1454214,
+    "lat" : 40.7684342
+  },
+  "1153-57 Taylor Street" : {
+    "facts" : "Embarcadero Freeway, which was featured in the film was demolished in 1989 because of structural damage from the 1989 Loma Prieta Earthquake)",
+    "lng" : -122.4109508,
+    "lat" : 37.7829257
+  },
+  "2810 Pacific Avenue" : {
+    "facts" : null,
+    "lng" : -122.442084,
+    "lat" : 37.792743
+  },
+  "Grant Avenue (North Beach)" : {
+    "facts" : null,
+    "lng" : -122.4081043,
+    "lat" : 37.8030891
+  },
+  "87 Cervantes Blvd (beach)" : {
+    "facts" : null,
+    "lng" : -117.8534429,
+    "lat" : 33.6332472
+  },
+  "Stockton Tunnel Southern Approach Overhang (Bush & Stockton Streets, Chinatown)" : {
+    "facts" : "Opened in 1914, the Stockton Tunnel was built to provide North Beach residents access to the thriving downtown area.",
+    "lng" : -121.2907796,
+    "lat" : 37.9577016
+  },
+  "The Holding Company (now called Patriot House Pub), 2 Embarcadero Ctr, San Francisco, CA 94111" : {
+    "facts" : "\"Loose Lips Loose Tips\"",
+    "lng" : -122.4000032,
+    "lat" : 37.79593620000001
+  },
+  "33 Spruce St" : {
+    "facts" : null,
+    "lng" : -122.4543691,
+    "lat" : 37.7903215
+  },
+  "Embarcadero between Pier 2 and Harrison" : {
+    "facts" : null,
+    "lng" : -122.3976732,
+    "lat" : 37.7992627
+  },
+  "2632 Larkin Street at Lombard" : {
+    "facts" : null,
+    "lng" : -122.4212677,
+    "lat" : 37.80178069999999
+  },
+  "California Palace of the Legion of Honor (34th Avenue & Clement, Lincoln Park)" : {
+    "facts" : "Built in 1924, the Legion of Honor is a 3/4 replica of the Parisian Palais de la Legion d'Honneur. ",
+    "lng" : -119.4179324,
+    "lat" : 36.778261
+  },
+  "Sansome Street (The Embarcadero)" : {
+    "facts" : null,
+    "lng" : -122.4035879,
+    "lat" : 37.8052089
+  },
+  "Private alley along 20th St. between Tennessee and Minnesota" : {
+    "facts" : null,
+    "lng" : -94.6858998,
+    "lat" : 46.729553
+  },
+  "Harrison & 20th" : {
+    "facts" : "Driving shots",
+    "lng" : -91.63143559999999,
+    "lat" : 35.76953779999999
+  },
+  "17th and Arkansas" : {
+    "facts" : null,
+    "lng" : -122.3987168,
+    "lat" : 37.7650337
+  },
+  "Pierce & California Streets (Pacific Heights)" : {
+    "facts" : null,
+    "lng" : -122.4371527,
+    "lat" : 37.7884977
+  },
+  "The End Up, 401 6th Streeet" : {
+    "facts" : null,
+    "lng" : 31.2777781,
+    "lat" : 30.015837
+  },
+  "100 Market Street at 6th Street" : {
+    "facts" : null,
+    "lng" : -122.410354,
+    "lat" : 37.7822106
+  },
+  "Jones @ Broadway" : {
+    "facts" : null,
+    "lng" : -122.4152099,
+    "lat" : 37.7968072
+  },
+  "Intersection of Broadway at Kearney" : {
+    "facts" : "Driving shots",
+    "lng" : -122.4823065,
+    "lat" : 48.7639758
+  },
+  "Pierce St. & Golden Gate Avenue (Hayes Valley)" : {
+    "facts" : null,
+    "lng" : -122.4352667,
+    "lat" : 37.7791548
+  },
+  "1069 Tennessee Street" : {
+    "facts" : null,
+    "lng" : -122.388981,
+    "lat" : 37.75836899999999
+  },
+  "St. Paul's Church (Church Street, Noe Valley)" : {
+    "facts" : null,
+    "lng" : -122.4272279,
+    "lat" : 37.7492948
+  },
+  "516 Green Street" : {
+    "facts" : null,
+    "lng" : -122.4078056,
+    "lat" : 37.7998378
+  },
+  "Mission Arts Center" : {
+    "facts" : null,
+    "lng" : -122.4209167,
+    "lat" : 37.7785899
+  },
+  "Vallejo St. Garage, 766 Vallejo St." : {
+    "facts" : "Characters watch from roof of garage as tsunami hits SF waterfront",
+    "lng" : -122.2566367,
+    "lat" : 38.1040864
+  },
+  "60 Leavenworth St." : {
+    "facts" : null,
+    "lng" : -122.4135524,
+    "lat" : 37.7811707
+  },
+  "Aquatic Park (Jefferson Street)" : {
+    "facts" : "Located at one end of Fisherman's Wharf, Aquatic Park was built as part of FDR's Works Progress Administration Project.",
+    "lng" : -74.9629736,
+    "lat" : 40.0400042
+  },
+  "San Francisco International Airport" : {
+    "facts" : "SFO has a museum dedicated to aviation history. ",
+    "lng" : -122.3789554,
+    "lat" : 37.6213129
+  },
+  "Greenwich St at Battery St" : {
+    "facts" : null,
+    "lng" : -122.4020093,
+    "lat" : 37.8032569
+  },
+  "13 Lucky Street" : {
+    "facts" : null,
+    "lng" : -122.413388,
+    "lat" : 37.752228
+  },
+  "Mason St from Pine to Sacramento" : {
+    "facts" : null,
+    "lng" : -121.4943996,
+    "lat" : 38.5815719
+  },
+  "1601 Lane St." : {
+    "facts" : null,
+    "lng" : -80.597796,
+    "lat" : 35.50233
+  },
+  "Baker Beach" : {
+    "facts" : null,
+    "lng" : -101.0113132,
+    "lat" : 39.1063305
+  },
+  "29th and Dolores Street" : {
+    "facts" : null,
+    "lng" : -122.4244836,
+    "lat" : 37.7438243
+  },
+  "Intersection of Lombard and Hyde" : {
+    "facts" : null,
+    "lng" : -122.419635,
+    "lat" : 37.8020051
+  },
+  "Clayton Post Office, 554 Clayton St." : {
+    "facts" : null,
+    "lng" : -1.5676927,
+    "lat" : 55.1406386
+  },
+  "Eddy @ Polk Street" : {
+    "facts" : null,
+    "lng" : -122.419195,
+    "lat" : 37.7831079
+  },
+  "California St from Taylor to Powell" : {
+    "facts" : null,
+    "lng" : -119.4179324,
+    "lat" : 36.778261
+  },
+  "Washington Street & Waverly Place (Chinatown)" : {
+    "facts" : null,
+    "lng" : -122.4070174,
+    "lat" : 37.7950851
+  },
+  "Bay St. at Polk" : {
+    "facts" : null,
+    "lng" : -122.4234796,
+    "lat" : 37.8043727
+  },
+  "225 California Street" : {
+    "facts" : null,
+    "lng" : -122.3993082,
+    "lat" : 37.7932953
+  },
+  "722 Steiner Street (Postcard Row, Alamo Square, Hayes Valley)" : {
+    "facts" : "The 6 Victorian homes across from Alamo Square Park are among the few Victorians to survive the Great Fire.",
+    "lng" : -122.4245247,
+    "lat" : 37.7759073
+  },
+  "Twin Peaks Blvd." : {
+    "facts" : null,
+    "lng" : -108.2591388,
+    "lat" : 36.7610501
+  },
+  "Church @ Duboce Street" : {
+    "facts" : null,
+    "lng" : -122.4289847,
+    "lat" : 37.7692029
+  },
+  "2107 Union Street" : {
+    "facts" : null,
+    "lng" : -122.4340934,
+    "lat" : 37.7971178
+  },
+  "Buena Vista Park" : {
+    "facts" : null,
+    "lng" : -122.4414145,
+    "lat" : 37.7684046
+  },
+  "Jefferson St. at Powell St." : {
+    "facts" : null,
+    "lng" : -122.4125358,
+    "lat" : 37.8085974
+  },
+  "Washington Square Park" : {
+    "facts" : null,
+    "lng" : -70.8906824,
+    "lat" : 42.5237296
+  },
+  "500 Block of Pacific Avenue (Chinatown)" : {
+    "facts" : null,
+    "lng" : -122.4038353,
+    "lat" : 37.797336
+  },
+  "Bush St. at Stockton St." : {
+    "facts" : null,
+    "lng" : -122.4071706,
+    "lat" : 37.790372
+  },
+  "Eros" : {
+    "facts" : null,
+    "lng" : -92.4240322,
+    "lat" : 32.3923731
+  },
+  "Flint & 16th (Castro)" : {
+    "facts" : null,
+    "lng" : -122.4365551,
+    "lat" : 37.7639946
+  },
+  "420 Jones St. at Ellis St." : {
+    "facts" : null,
+    "lng" : -122.4128063,
+    "lat" : 37.784875
+  },
+  "Taylor & Green St." : {
+    "facts" : null,
+    "lng" : -82.7404708,
+    "lat" : 42.6787062
+  },
+  "Mission Street @ 22nd Street" : {
+    "facts" : null,
+    "lng" : -122.4187761,
+    "lat" : 37.7554447
+  },
+  "90 Gold Street" : {
+    "facts" : null,
+    "lng" : -74.00387549999999,
+    "lat" : 40.7098202
+  },
+  "23rd & Capp Streets (Mission District)" : {
+    "facts" : null,
+    "lng" : -122.4175294,
+    "lat" : 37.7539117
+  },
+  "1400 18th Street" : {
+    "facts" : null,
+    "lng" : -122.3968104,
+    "lat" : 37.76270640000001
+  },
+  "Gough & Eddy Streets (Western Addition)" : {
+    "facts" : null,
+    "lng" : -122.4241254,
+    "lat" : 37.7824854
+  },
+  "Turk Street between Mason & Leavenworth" : {
+    "facts" : null,
+    "lng" : -94.9224637,
+    "lat" : 39.3111112
+  },
+  "555 California" : {
+    "facts" : "Characters walk out of broken window of 555 California out to Kearny St. Splinter unit films a car driving into the garage at 555 California",
+    "lng" : -97.8722063,
+    "lat" : 36.4399904
+  },
+  "Coit Tower" : {
+    "facts" : "The Tower was funded by a gift bequeathed by Lillie Hitchcock Coit, a socialite who reportedly liked to chase fires. Though the tower resembles a firehose nozzle, it was not designed this way.",
+    "lng" : -122.4058222,
+    "lat" : 37.8023949
+  },
+  "Lombard & Hyde Streets" : {
+    "facts" : null,
+    "lng" : -122.419635,
+    "lat" : 37.8020051
+  },
+  "Mt. Davidson" : {
+    "facts" : "Mt. Davidson is highest point in San Francisco (938 feet).",
+    "lng" : -122.4540461,
+    "lat" : 37.739132
+  },
+  "Powell & California Streets" : {
+    "facts" : null,
+    "lng" : -82.4612722,
+    "lat" : 28.4919844
+  },
+  "Laguna & Sacramento Streets (Pacific Heights)" : {
+    "facts" : null,
+    "lng" : -122.4291211,
+    "lat" : 37.7904717
+  },
+  "York Hotel (940 Sutter Street)" : {
+    "facts" : null,
+    "lng" : -1.0872979,
+    "lat" : 53.95996510000001
+  },
+  "Alcatraz Island" : {
+    "facts" : "Alcatraz Island was a military fort before it became a prison.",
+    "lng" : -122.4229555,
+    "lat" : 37.8269775
+  },
+  "Montgomery Street at Post Street" : {
+    "facts" : null,
+    "lng" : -122.4020365,
+    "lat" : 37.7891114
+  },
+  "California at Mason" : {
+    "facts" : null,
+    "lng" : -122.4108428,
+    "lat" : 37.7918421
+  },
+  "1201 Columbus Avenue" : {
+    "facts" : null,
+    "lng" : -122.4178646,
+    "lat" : 37.8053125
+  },
+  "Van Ness Avenue" : {
+    "facts" : null,
+    "lng" : -122.4226118,
+    "lat" : 37.7913054
+  },
+  "Civic Center Plaza" : {
+    "facts" : null,
+    "lng" : -117.8251399,
+    "lat" : 33.6868108
+  },
+  "Mecca Restaurant (2029 Market Street)" : {
+    "facts" : null,
+    "lng" : 39.8579118,
+    "lat" : 21.3890824
+  },
+  "Powell St. from Geary to Sacramento" : {
+    "facts" : null,
+    "lng" : -121.4943996,
+    "lat" : 38.5815719
+  },
+  "Piers 30-32" : {
+    "facts" : null,
+    "lng" : -75.13839349999999,
+    "lat" : 39.95896090000001
+  },
+  "160 Church Street" : {
+    "facts" : null,
+    "lng" : -81.6169448,
+    "lat" : 34.5055801
+  },
+  "SF Zoo, 2945 Sloat Blvd" : {
+    "facts" : null,
+    "lng" : -122.4194155,
+    "lat" : 37.7749295
+  },
+  "Tiburon Hiking Trail, Tiburon, CA" : {
+    "facts" : null,
+    "lng" : -122.4566392,
+    "lat" : 37.8735377
+  },
+  "17th & Market Street" : {
+    "facts" : null,
+    "lng" : -122.4352084,
+    "lat" : 37.762738
+  },
+  "5th Ave @ Fulton Street in Golden Gate Park" : {
+    "facts" : null,
+    "lng" : -122.4627045,
+    "lat" : 37.7737373
+  },
+  "The Cannery (281 Leavenworth Street, Fisherman's Wharf)" : {
+    "facts" : null,
+    "lng" : -122.4142978,
+    "lat" : 37.7838053
+  },
+  "2601 Lyon Street" : {
+    "facts" : null,
+    "lng" : -122.446996,
+    "lat" : 37.794673
+  },
+  "Cliff House (1090 Point Lobos Avenue)" : {
+    "facts" : "The Musee Mechanique, which Julie Andrews' character visits in the movie, was at the time housed under the Cliff House.",
+    "lng" : -108.6228863,
+    "lat" : 32.970382
+  },
+  "628 Cole Street" : {
+    "facts" : null,
+    "lng" : -122.4504325,
+    "lat" : 37.769226
+  },
+  "Harrison Street (The Embarcadero)" : {
+    "facts" : null,
+    "lng" : -122.3887406,
+    "lat" : 37.78937150000001
+  },
+  "3567 18th Street" : {
+    "facts" : null,
+    "lng" : -90.4986438,
+    "lat" : 41.5584128
+  },
+  "Fillmore and Waller" : {
+    "facts" : null,
+    "lng" : -122.4302841,
+    "lat" : 37.7711891
+  },
+  "California & Davis St" : {
+    "facts" : null,
+    "lng" : -122.3976275,
+    "lat" : 37.7935225
+  },
+  "SF General Hospital Center (1001 Potrero Avenue, Potrero Hill)" : {
+    "facts" : "SF General Hospital is the only Level I Trauma Center serving San Francisco and northern San Mateo County. ",
+    "lng" : -122.4194155,
+    "lat" : 37.7749295
+  },
+  "Former Hall of Justice (750 Kearny Street at Washington)" : {
+    "facts" : null,
+    "lng" : -77.0368707,
+    "lat" : 38.9071923
+  },
+  "400 Montgomery Street" : {
+    "facts" : null,
+    "lng" : -122.4025849,
+    "lat" : 37.7931409
+  },
+  "1801 Laguna at Bush" : {
+    "facts" : null,
+    "lng" : -122.428551,
+    "lat" : 37.7876567
+  },
+  "Pier 7/ Embarcadero" : {
+    "facts" : null,
+    "lng" : -122.3955956,
+    "lat" : 37.7993901
+  },
+  "State Garage, 818 Leavenworth" : {
+    "facts" : null,
+    "lng" : -94.9224637,
+    "lat" : 39.3111112
+  },
+  "Post & Jones St." : {
+    "facts" : null,
+    "lng" : -122.4133747,
+    "lat" : 37.78768170000001
+  },
+  "Battery Spencer" : {
+    "facts" : null,
+    "lng" : -122.4817826,
+    "lat" : 37.8276975
+  },
+  "Romain St." : {
+    "facts" : "Bicycle chase scene",
+    "lng" : -90.0482747,
+    "lat" : 29.9249813
+  },
+  "5546 Geary Ave" : {
+    "facts" : null,
+    "lng" : -122.4792052,
+    "lat" : 37.7806041
+  },
+  "Market Street" : {
+    "facts" : null,
+    "lng" : -122.4212212,
+    "lat" : 37.7735248
+  },
+  "Maritime Museum, Building 201 (Fort Mason)" : {
+    "facts" : null,
+    "lng" : -122.4242067,
+    "lat" : 37.8063932
+  },
+  "1461 Page St." : {
+    "facts" : null,
+    "lng" : -122.4448162,
+    "lat" : 37.7710343
+  },
+  "Pennsylvania Avenue at 19th Street" : {
+    "facts" : null,
+    "lng" : -122.3935108,
+    "lat" : 37.7614837
+  },
+  "1 Bush Street" : {
+    "facts" : null,
+    "lng" : -122.4000152,
+    "lat" : 37.7909622
+  },
+  "Potrero Hill Recreation Center (801 Arkansas Street)" : {
+    "facts" : null,
+    "lng" : -122.3972493,
+    "lat" : 37.7561624
+  },
+  "475 Diamond St." : {
+    "facts" : null,
+    "lng" : -75.3005534,
+    "lat" : 40.3531597
+  },
+  "Hayes Street at Laguna" : {
+    "facts" : null,
+    "lng" : -122.4262854,
+    "lat" : 37.7764699
+  },
+  "900 Lombard Street" : {
+    "facts" : "Lombard Street is not actually the most crooked in SF. That honor goes to Potrero Hill's Vermont Street between 22nd and 23rd.",
+    "lng" : -122.4166335,
+    "lat" : 37.8024756
+  },
+  "40 Prentiss Street" : {
+    "facts" : null,
+    "lng" : -71.15622239999999,
+    "lat" : 42.37391
+  },
+  "21st St & Sanchez" : {
+    "facts" : null,
+    "lng" : -122.4301273,
+    "lat" : 37.756369
+  },
+  "Intersection of California at Polk" : {
+    "facts" : "Driving shots",
+    "lng" : -122.4206988,
+    "lat" : 37.7905896
+  },
+  "1080 Natoma Street" : {
+    "facts" : null,
+    "lng" : -122.4171274,
+    "lat" : 37.7726957
+  },
+  "Tank Hill Park" : {
+    "facts" : null,
+    "lng" : -122.4477854,
+    "lat" : 37.7600983
+  },
+  "745 Treat Ave" : {
+    "facts" : null,
+    "lng" : -122.4130598,
+    "lat" : 37.7582073
+  },
+  "2007 Franklin Street" : {
+    "facts" : null,
+    "lng" : -122.4249718,
+    "lat" : 37.7932727
+  },
+  "Broadway & Columbus" : {
+    "facts" : null,
+    "lng" : -73.9823131,
+    "lat" : 40.772627
+  },
+  "Polk and Northpoint St." : {
+    "facts" : null,
+    "lng" : -122.4236765,
+    "lat" : 37.8052968
+  },
+  "Bush & Kearny" : {
+    "facts" : null,
+    "lng" : -122.4040735,
+    "lat" : 37.7907632
+  },
+  "Chinatown" : {
+    "facts" : "First established in the mid-19th Century, SF's Chinatown is the oldest and largest Chinatown in the US.",
+    "lng" : -73.9970307,
+    "lat" : 40.7157509
+  },
+  "100 Embarcadero Street" : {
+    "facts" : null,
+    "lng" : -122.3927597,
+    "lat" : 37.7933204
+  },
+  "Hall of Justice" : {
+    "facts" : null,
+    "lng" : -84.6618007,
+    "lat" : 32.6619152
+  },
+  "440 Castro St." : {
+    "facts" : null,
+    "lng" : -122.0813237,
+    "lat" : 37.3910306
+  },
+  "500 Cortland Avenue" : {
+    "facts" : null,
+    "lng" : -122.4161319,
+    "lat" : 37.7388503
+  },
+  "Irving St. at 9th Ave." : {
+    "facts" : "continuous driving shots of a taxi going with the flow of existing traffic",
+    "lng" : -122.4663387,
+    "lat" : 37.7640497
+  },
+  "1160 Taylor Street" : {
+    "facts" : null,
+    "lng" : -122.4126356,
+    "lat" : 37.79330059999999
+  },
+  "422 Oak Street at Laguna" : {
+    "facts" : null,
+    "lng" : -122.4259057,
+    "lat" : 37.7746043
+  },
+  "Mason & California Streets (Nob Hill)" : {
+    "facts" : null,
+    "lng" : -122.4108428,
+    "lat" : 37.7918421
+  },
+  "Financial District" : {
+    "facts" : null,
+    "lng" : -74.0112764,
+    "lat" : 40.7074909
+  },
+  "Mission St and 5th St" : {
+    "facts" : null,
+    "lng" : -122.4064925,
+    "lat" : 37.7827319
+  },
+  "Castro Street @ 18th street" : {
+    "facts" : null,
+    "lng" : -122.4350262,
+    "lat" : 37.7608908
+  },
+  "Sam Jordan's Bar and Grill, 4004 3rd St, San Francisco, CA 94124" : {
+    "facts" : "\"Gettin' Jigger With It,\" Named after it's founder who was a light-heavyweight boxing champion, Navy veteran, activist and first African-American to run for Mayor (coming in 3rd out of 8), this was also the first African-American owned bar and received historic landmark status in 2013.",
+    "lng" : -122.3888444,
+    "lat" : 37.7410459
+  },
+  "Market & Church St." : {
+    "facts" : null,
+    "lng" : -74.1892112,
+    "lat" : 42.9387885
+  },
+  "Pier 3 (The Embarcadero)" : {
+    "facts" : null,
+    "lng" : -122.3956572,
+    "lat" : 37.797569
+  },
+  "Columbus and Green" : {
+    "facts" : null,
+    "lng" : -107.7513099,
+    "lat" : 32.2270531
+  },
+  "Davies Symphony Hall (201 Van Ness Ave.)" : {
+    "facts" : null,
+    "lng" : -122.4206135,
+    "lat" : 37.7776149
+  },
+  "Taylor and Union" : {
+    "facts" : null,
+    "lng" : -74.048735,
+    "lat" : 40.1220268
+  },
+  "Vallejo Garage Roof (Vallejo at Powell)" : {
+    "facts" : null,
+    "lng" : -122.2566367,
+    "lat" : 38.1040864
+  },
+  "Ocean Beach" : {
+    "facts" : "On Jan. 25, 1878, the King Philip ship crashed in Ocean Beach. Occasionally, the ship's wreckage may be found on the beach-- most recently it was seen in 2007. ",
+    "lng" : 153.129337,
+    "lat" : -26.8545051
+  },
+  "The Embarcadero/Ferry Building" : {
+    "facts" : "Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.",
+    "lng" : -122.3447119,
+    "lat" : 37.9477189
+  },
+  "Women's Building, 3543 18th St." : {
+    "facts" : "Roma Guy was one of the founders of the Women's Building ",
+    "lng" : 73.7441066,
+    "lat" : 32.9542245
+  },
+  "Ferry Building" : {
+    "facts" : "Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.",
+    "lng" : -122.3447119,
+    "lat" : 37.9477189
+  },
+  "San Francisco Art Institute, 800 Chestnut" : {
+    "facts" : null,
+    "lng" : -122.4194155,
+    "lat" : 37.7749295
+  },
+  "South Park" : {
+    "facts" : null,
+    "lng" : 77.5990561,
+    "lat" : 12.8541965
+  },
+  "Pier 1" : {
+    "facts" : null,
+    "lng" : -71.4845088,
+    "lat" : 41.4322589
+  },
+  "Mirant Energy, LLC (1301 Illinois Street, The Dogpatch)" : {
+    "facts" : null,
+    "lng" : -122.3895378,
+    "lat" : 37.7591221
+  },
+  "Montgomery & Vallejo Streets" : {
+    "facts" : null,
+    "lng" : -122.4040675,
+    "lat" : 37.799174
+  },
+  "600 Octavia Street" : {
+    "facts" : null,
+    "lng" : -122.4247127,
+    "lat" : 37.7778147
+  },
+  "The San Francisco Bay" : {
+    "facts" : null,
+    "lng" : -122.2913078,
+    "lat" : 37.8271784
+  },
+  "312 Fillmore Street" : {
+    "facts" : null,
+    "lng" : -122.4303972,
+    "lat" : 37.772407
+  },
+  "Green and Divisadero" : {
+    "facts" : null,
+    "lng" : -122.4419248,
+    "lat" : 37.7953275
+  },
+  "Near Point Lobos, El Camino Del Mar " : {
+    "facts" : null,
+    "lng" : -82.68077690000001,
+    "lat" : 28.3149629
+  },
+  "Kohl Building (400 Montgomery Street)" : {
+    "facts" : null,
+    "lng" : -111.929341,
+    "lat" : 33.762985
+  },
+  "Maiden Lane" : {
+    "facts" : null,
+    "lng" : -74.0075748,
+    "lat" : 40.7073923
+  },
+  "333 Pacheco St at Lopez Ave." : {
+    "facts" : null,
+    "lng" : -122.4626159,
+    "lat" : 37.7484512
+  },
+  "Hamburger Haven" : {
+    "facts" : null,
+    "lng" : -117.9791846,
+    "lat" : 34.0644811
+  },
+  "2450 Harrison Street" : {
+    "facts" : null,
+    "lng" : -122.412999,
+    "lat" : 37.75820100000001
+  },
+  "970 Geary Street" : {
+    "facts" : null,
+    "lng" : -122.4192927,
+    "lat" : 37.7861363
+  },
+  "The Royal Oak" : {
+    "facts" : null,
+    "lng" : -83.1446485,
+    "lat" : 42.4894801
+  },
+  "The Stud" : {
+    "facts" : null,
+    "lng" : 8.8267417,
+    "lat" : 47.3496563
+  },
+  "Green Valley Restaurant (510 Green Street Near Grant)" : {
+    "facts" : null,
+    "lng" : -110.9937019,
+    "lat" : 31.8542511
+  },
+  "Pine and Leavenworth" : {
+    "facts" : null,
+    "lng" : -122.4155825,
+    "lat" : 37.7902649
+  },
+  "Harvey Milk Plaza" : {
+    "facts" : null,
+    "lng" : -111.9526494,
+    "lat" : 40.7509851
+  },
+  "20th St and Church (3885 20th St)" : {
+    "facts" : null,
+    "lng" : -97.673389,
+    "lat" : 30.625812
+  },
+  "Pier 50- end of the pier" : {
+    "facts" : null,
+    "lng" : -71.459723,
+    "lat" : 41.42338700000001
+  },
+  "Golden Gate & Steiner Streets (Hayes Valley)" : {
+    "facts" : null,
+    "lng" : -122.43362,
+    "lat" : 37.7793624
+  },
+  "Miraloma Mall at Portola Frontage Road" : {
+    "facts" : null,
+    "lng" : -120.4691034,
+    "lat" : 39.8104567
+  },
+  "Lombard & Broderick Streets (Marina District)" : {
+    "facts" : null,
+    "lng" : -122.4443557,
+    "lat" : 37.798857
+  },
+  "2nd St. at Townsend St." : {
+    "facts" : null,
+    "lng" : -99.8234798,
+    "lat" : 39.6258119
+  },
+  "Presidio (Golden Gate National Recreation Area)" : {
+    "facts" : "In 1776, Spain made the Presidio a fortified area. The area was then given to Mexico, but then given to the US in 1848. The 1994 demilitarization of the area in 1994 marked the end of its 219 years of military use. ",
+    "lng" : -122.472438,
+    "lat" : 37.8016839
+  },
+  "California & Larkin Streets (Nob Hill)" : {
+    "facts" : null,
+    "lng" : -122.4190635,
+    "lat" : 37.790797
+  },
+  "Lombard & Laguna Streets (Marina District)" : {
+    "facts" : null,
+    "lng" : -122.4311284,
+    "lat" : 37.8004332
+  },
+  "Lombard Street between Hyde and Leavenworth" : {
+    "facts" : null,
+    "lng" : -94.9224637,
+    "lat" : 39.3111112
+  },
+  "Bush Street at Jones" : {
+    "facts" : null,
+    "lng" : -122.4137511,
+    "lat" : 37.7895396
+  },
+  "Sacramento & Montgomery Streets" : {
+    "facts" : null,
+    "lng" : -122.4029789,
+    "lat" : 37.7937989
+  },
+  "24 Hill St." : {
+    "facts" : null,
+    "lng" : -75.569611,
+    "lat" : 41.4801069
+  },
+  "940 Powell St." : {
+    "facts" : null,
+    "lng" : -122.4092654,
+    "lat" : 37.7934919
+  },
+  "1890 Clay St." : {
+    "facts" : null,
+    "lng" : -122.4240262,
+    "lat" : 37.79219519999999
+  },
+  "Grand View Ave." : {
+    "facts" : "Bicycle chase scene",
+    "lng" : -120.944645,
+    "lat" : 39.0871229
+  },
+  "Jones & Pacific" : {
+    "facts" : null,
+    "lng" : -122.4150305,
+    "lat" : 37.7958902
+  },
+  "Cathedral Hill Hotel (1101 Van Ness Avenue, Civic Center)" : {
+    "facts" : null,
+    "lng" : -122.422312,
+    "lat" : 37.785978
+  },
+  "Ellis and Jones St." : {
+    "facts" : null,
+    "lng" : -122.4128063,
+    "lat" : 37.784875
+  },
+  "California & Hyde Streets" : {
+    "facts" : null,
+    "lng" : -122.4174215,
+    "lat" : 37.7910104
+  },
+  "Belli Building (722 Montgomery Street at Washington)" : {
+    "facts" : null,
+    "lng" : -77.0368707,
+    "lat" : 38.9071923
+  },
+  "Mission Street" : {
+    "facts" : null,
+    "lng" : -122.4239897,
+    "lat" : 37.7386481
+  },
+  "The Ferry Building" : {
+    "facts" : "Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.",
+    "lng" : -122.3447119,
+    "lat" : 37.9477189
+  },
+  "2934 24th St." : {
+    "facts" : null,
+    "lng" : -122.4107026,
+    "lat" : 37.7529414
+  },
+  "Alioto Park" : {
+    "facts" : null,
+    "lng" : -122.4181453,
+    "lat" : 37.7588666
+  },
+  "One Embarcadero Center (Financial District)" : {
+    "facts" : null,
+    "lng" : -122.3994346,
+    "lat" : 37.7949973
+  },
+  "101 Henry Adams Place" : {
+    "facts" : null,
+    "lng" : -122.4033689,
+    "lat" : 37.7681227
+  },
+  "Royan Hotel (405 Valencia Street, Mission District)" : {
+    "facts" : null,
+    "lng" : -122.4218086,
+    "lat" : 37.7664055
+  },
+  "Joice Street at Clay Street" : {
+    "facts" : null,
+    "lng" : -122.4087083,
+    "lat" : 37.7939604
+  },
+  "O'Farrell & Jones Streets" : {
+    "facts" : null,
+    "lng" : -122.4129947,
+    "lat" : 37.7858086
+  },
+  "Mission & Fremont St" : {
+    "facts" : null,
+    "lng" : -122.3967264,
+    "lat" : 37.7904547
+  },
+  "20 Hill Street" : {
+    "facts" : null,
+    "lng" : -75.56955599999999,
+    "lat" : 41.480348
+  },
+  "Alamo Square (Hayes Valley)" : {
+    "facts" : null,
+    "lng" : -122.434819,
+    "lat" : 37.7763694
+  },
+  "Golden Gate Bridge" : {
+    "facts" : "With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",
+    "lng" : -122.4782551,
+    "lat" : 37.8199286
+  },
+  "Sutter Stockton Garage, 444 Stockton" : {
+    "facts" : null,
+    "lng" : -121.2907796,
+    "lat" : 37.9577016
+  },
+  "Park 77 (now called The Lister Bar), 77 Cambon Dr, San Francisco, CA 94132" : {
+    "facts" : "\"Sticky Situation\"",
+    "lng" : -122.4737004,
+    "lat" : 37.7176429
+  },
+  "1125 Guerrero Street" : {
+    "facts" : null,
+    "lng" : -122.4227271,
+    "lat" : 37.7532132
+  },
+  "766 Sutter Street" : {
+    "facts" : null,
+    "lng" : -122.413123,
+    "lat" : 37.788937
+  },
+  "Folsom & Essex Streets" : {
+    "facts" : null,
+    "lng" : -122.3957134,
+    "lat" : 37.7863715
+  },
+  "Fort Baker" : {
+    "facts" : null,
+    "lng" : -122.4788979,
+    "lat" : 37.8360614
+  },
+  "Folsom" : {
+    "facts" : "Driving shots",
+    "lng" : -121.1760583,
+    "lat" : 38.6779591
+  },
+  "Twin Peaks Park" : {
+    "facts" : null,
+    "lng" : -122.4475683,
+    "lat" : 37.7525098
+  },
+  "22nd Avenue & Balboa Street (Richmond District)" : {
+    "facts" : null,
+    "lng" : -122.4812627,
+    "lat" : 37.7764599
+  },
+  "The Embarcadero/ Ferry Building" : {
+    "facts" : "Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.",
+    "lng" : -122.3447119,
+    "lat" : 37.9477189
+  },
+  "18th Street Overpass (Potrero Hill)" : {
+    "facts" : null,
+    "lng" : -122.3965523,
+    "lat" : 37.762585
+  },
+  "Harrison" : {
+    "facts" : "Driving shots",
+    "lng" : -86.17517590000001,
+    "lat" : 38.1701136
+  },
+  "Filbert from Hyde to Leavenworth" : {
+    "facts" : null,
+    "lng" : -94.9224637,
+    "lat" : 39.3111112
+  },
+  "Mt. Davidson Cross, Mt. Davidson" : {
+    "facts" : "The cross sits at the highest point in San Francisco (938 feet). This version of the cross was erected in 1934.Though in Dirty Harry the cross is lit at night, the City stopped this practice in 1990.",
+    "lng" : -122.4547746,
+    "lat" : 37.738346
+  },
+  "Li Po (916 Grant Avenue at Washington, Chinatown)" : {
+    "facts" : null,
+    "lng" : -77.0368707,
+    "lat" : 38.9071923
+  },
+  "100 St. Germain Avenue" : {
+    "facts" : null,
+    "lng" : -122.450526,
+    "lat" : 37.757652
+  },
+  "3122 16th Street" : {
+    "facts" : null,
+    "lng" : -122.422579,
+    "lat" : 37.7650275
+  },
+  "Filbert between Grant and Kearny" : {
+    "facts" : null,
+    "lng" : -74.1454214,
+    "lat" : 40.7684342
+  },
+  "20th & De Haro Streets (Potrero Hill)" : {
+    "facts" : null,
+    "lng" : -122.4011214,
+    "lat" : 37.759741
+  },
+  "2937 24th Street" : {
+    "facts" : null,
+    "lng" : -122.4108485,
+    "lat" : 37.75254
+  },
+  "SF Chronicle Building (901 Mission St)" : {
+    "facts" : null,
+    "lng" : -122.425813,
+    "lat" : 37.7342953
+  },
+  "Fort 1" : {
+    "facts" : null,
+    "lng" : -80.1202248,
+    "lat" : 26.1440057
+  },
+  "2800 Scott Street" : {
+    "facts" : null,
+    "lng" : -122.4400269,
+    "lat" : 37.79574150000001
+  },
+  "San Francisco - Oakland Bay Bridge" : {
+    "facts" : null,
+    "lng" : -122.3778182,
+    "lat" : 37.7982799
+  },
+  "Pine St. & Grant" : {
+    "facts" : null,
+    "lng" : -79.8406456,
+    "lat" : 41.4052493
+  },
+  "San Francisco General Hospital Medical Center (1001 Potrero Avenue, Potrero Hill)" : {
+    "facts" : "SF General Hospital is the only Level I Trauma Center serving San Francisco and northern San Mateo County. ",
+    "lng" : -122.4194155,
+    "lat" : 37.7749295
+  },
+  "San Francisco City Hall" : {
+    "facts" : null,
+    "lng" : -99.13457419999999,
+    "lat" : 31.237473
+  },
+  "2915 16th St." : {
+    "facts" : null,
+    "lng" : -90.5124359,
+    "lat" : 41.48256
+  },
+  "San Francisco Fire Station 38 (2150 California Street, Pacific Heights)" : {
+    "facts" : null,
+    "lng" : -122.4299207,
+    "lat" : 37.789693
+  },
+  "Castro Theatre (429 Castro Street, The Castro)" : {
+    "facts" : "The original Castro Theatre was built in 1910, a few doors down from the current theatre. The original theatre was converted into retail space, and the current theatre was built in the 1920s.",
+    "lng" : -122.4347591,
+    "lat" : 37.7620333
+  },
+  "Golden Gate National Recreation Area" : {
+    "facts" : "The size of the Recreation Area is over two and a half greater than that of the city and county of San Francisco.",
+    "lng" : -122.5047923,
+    "lat" : 37.8345025
+  },
+  "Larkin & Francisco Streets (Russian Hill)" : {
+    "facts" : null,
+    "lng" : -122.4218062,
+    "lat" : 37.80356080000001
+  },
+  "878-898 Chestnut St." : {
+    "facts" : null,
+    "lng" : -122.4181013,
+    "lat" : 37.8033262
+  },
+  "Market & 2nd Streets" : {
+    "facts" : null,
+    "lng" : -95.68864029999999,
+    "lat" : 43.5112309
+  },
+  "Montgomery & Pine Streets (Financial District)" : {
+    "facts" : null,
+    "lng" : -122.4025966,
+    "lat" : 37.7919106
+  },
+  "100 Church Street" : {
+    "facts" : "Jake Shears, lead singer of the band Scissor Sisters, auditioned for the role of Dom.",
+    "lng" : -72.9259866,
+    "lat" : 41.30572859999999
+  },
+  "Park Hill Sanatorium (351 Buena Vista Avenue East)" : {
+    "facts" : "This location is now a condominium complex.",
+    "lng" : -94.9588438,
+    "lat" : 35.8612034
+  },
+  "951 Hudson Avenue" : {
+    "facts" : null,
+    "lng" : -77.59947609999999,
+    "lat" : 43.1825792
+  },
+  "Corbett St." : {
+    "facts" : "Bicycle chase scene, actors dressed as fake officers present",
+    "lng" : -115.2972357,
+    "lat" : 36.2681567
+  },
+  "Higher Grounds Coffee House" : {
+    "facts" : null,
+    "lng" : -89.17566099999999,
+    "lat" : 42.442971
+  },
+  "301 Howard Street" : {
+    "facts" : null,
+    "lng" : -122.3942765,
+    "lat" : 37.789527
+  },
+  "Washington Square" : {
+    "facts" : null,
+    "lng" : -70.8906824,
+    "lat" : 42.5237296
+  },
+  "Lincoln Park" : {
+    "facts" : "The land on which the park stands was a cemetery until the late 1860s. ",
+    "lng" : -122.2297582,
+    "lat" : 37.7576326
+  },
+  "Fort Mason (Golden Gate National Recreation Area)" : {
+    "facts" : "Constructed in 1864 as a coastal defense site, Fort Mason went on to serve as an army post for more than 100 years.",
+    "lng" : -122.4283803,
+    "lat" : 37.8054844
+  },
+  "330 Santa Clara Ave." : {
+    "facts" : null,
+    "lng" : -121.6963251,
+    "lat" : 38.1524581
+  },
+  "Flood Building (870 Market Street)" : {
+    "facts" : null,
+    "lng" : -122.4072784,
+    "lat" : 37.7851667
+  },
+  "3232 Jackson Ave." : {
+    "facts" : null,
+    "lng" : -94.534948,
+    "lat" : 39.066221
+  },
+  "Howard Street at Steuart Street" : {
+    "facts" : null,
+    "lng" : -122.3916688,
+    "lat" : 37.7920034
+  },
+  "Octavia & Hayes Streets (Hayes Valley)" : {
+    "facts" : null,
+    "lng" : -122.4243971,
+    "lat" : 37.7767142
+  },
+  "1200 Washington Street at Taylor Street" : {
+    "facts" : null,
+    "lng" : -70.7720555,
+    "lat" : 42.0618628
+  },
+  "San Francisco Airport" : {
+    "facts" : null,
+    "lng" : -122.3789554,
+    "lat" : 37.6213129
+  },
+  "2090 Jackson Street" : {
+    "facts" : null,
+    "lng" : -122.429428,
+    "lat" : 37.793415
+  },
+  "California Hall (625 Polk Street, Van Ness/Civic Center)" : {
+    "facts" : null,
+    "lng" : -122.4206464,
+    "lat" : 37.7814653
+  },
+  "John Shelley Drive John McLaren Park" : {
+    "facts" : null,
+    "lng" : -122.4193742,
+    "lat" : 37.719309
+  },
+  "Dolores Park" : {
+    "facts" : null,
+    "lng" : -122.427063,
+    "lat" : 37.7597727
+  },
+  "San Bruno and Alameda" : {
+    "facts" : null,
+    "lng" : -122.4057079,
+    "lat" : 37.7684934
+  },
+  "307 Filbert Street" : {
+    "facts" : null,
+    "lng" : -122.4050336,
+    "lat" : 37.8018463
+  },
+  "21st and Collingswood St." : {
+    "facts" : null,
+    "lng" : -122.4357347,
+    "lat" : 37.7563632
+  },
+  "Alta Plaza Park (Steiner Street)" : {
+    "facts" : "The park was originally a rock quarry and served as a campground for many survivors of the 1906 earthquake. The site was converted to a park in 1910.",
+    "lng" : -122.4376241,
+    "lat" : 37.7911417
+  },
+  "901 Valencia Street" : {
+    "facts" : null,
+    "lng" : -122.4210319,
+    "lat" : 37.7583737
+  },
+  "El Camino Del Mar" : {
+    "facts" : null,
+    "lng" : -122.4962368,
+    "lat" : 37.7857877
+  },
+  "The Lexington Club (3464 19th Street at Lexington)" : {
+    "facts" : null,
+    "lng" : -84.5037164,
+    "lat" : 38.0405837
+  },
+  "Powell Street" : {
+    "facts" : null,
+    "lng" : -122.4100932,
+    "lat" : 37.796504
+  },
+  "Pacific Heights Towers (2200 Sacramento Street, Pacific Heights)" : {
+    "facts" : null,
+    "lng" : -122.4294952,
+    "lat" : 37.7906904
+  },
+  "Carl & Cole Streets (Cole Valley)" : {
+    "facts" : null,
+    "lng" : -122.4499855,
+    "lat" : 37.7658058
+  },
+  "2898 Broadway" : {
+    "facts" : null,
+    "lng" : -73.9652464,
+    "lat" : 40.8059868
+  },
+  "1 Market St. Landmark Building" : {
+    "facts" : null,
+    "lng" : -77.9183042,
+    "lat" : 34.237955
+  },
+  "Gibb Street (Chinatown)" : {
+    "facts" : null,
+    "lng" : -122.4042824,
+    "lat" : 37.7960524
+  },
+  "Java House (Pier 40, Embarcadero)" : {
+    "facts" : null,
+    "lng" : -122.3876122,
+    "lat" : 37.7818831
+  },
+  "Heald College" : {
+    "facts" : null,
+    "lng" : -2.2284414,
+    "lat" : 53.4567646
+  },
+  "Crissy Field" : {
+    "facts" : null,
+    "lng" : -122.4640618,
+    "lat" : 37.8039069
+  },
+  "Roaring Twenties Nightclub (555 Broadway at Columbus)" : {
+    "facts" : null,
+    "lng" : -82.99879419999999,
+    "lat" : 39.9611755
+  },
+  "1246 Folsom Street" : {
+    "facts" : null,
+    "lng" : -122.4109901,
+    "lat" : 37.7745943
+  },
+  "745 Treat Ave." : {
+    "facts" : null,
+    "lng" : -122.4130598,
+    "lat" : 37.7582073
+  },
+  "Bayshore Blvd near Cesar Chavez (Bayview)" : {
+    "facts" : null,
+    "lng" : -122.3933932,
+    "lat" : 37.74989
+  },
+  "950 Mason Street" : {
+    "facts" : null,
+    "lng" : -122.4100354,
+    "lat" : 37.7924959
+  },
+  "The Barbary Coast" : {
+    "facts" : "The Barbary Coast was a red-light district that was largely destroyed in the 1906 earthquake. Though some of the establishments were rebuilt after the earthquake, an anti-vice campaign put the establishments out of business.",
+    "lng" : -122.40811,
+    "lat" : 37.784196
+  },
+  "Yerba Buena Gardens" : {
+    "facts" : null,
+    "lng" : -122.4023464,
+    "lat" : 37.7850153
+  },
+  "Conservatory of Flowers, Golden Gate Park" : {
+    "facts" : "The Conservatory, unveiled in 1879, is the oldest public conservatory in the Western Hemisphere.",
+    "lng" : -122.4602482,
+    "lat" : 37.772608
+  },
+  "634 Raycliff Terrace" : {
+    "facts" : null,
+    "lng" : -122.4427541,
+    "lat" : 37.7927872
+  },
+  "Fairmont Hotel" : {
+    "facts" : "The Fairmont Hotel was featured in many films, including The Rock and the TV series Hotel",
+    "lng" : 55.283504,
+    "lat" : 25.227624
+  },
+  "Washington Square Park (Filbert, between Stockton and Powell)" : {
+    "facts" : null,
+    "lng" : -77.0368707,
+    "lat" : 38.9071923
+  },
+  "Japanese Tea Garden, Hagiwara Tea Garden Drive, Golden Gate Park" : {
+    "facts" : "The Japanese Hagiwara family invented \"Chinese\" fortune cookies in the tea-garden",
+    "lng" : -122.4683597,
+    "lat" : 37.770862
+  },
+  "Golden Gate Park Children's Playground " : {
+    "facts" : "Golden Gate Park is similar in shape but 20% larger than New York's Central Park.",
+    "lng" : -117.1466932,
+    "lat" : 32.734595
+  },
+  "Leavenworth at Union" : {
+    "facts" : null,
+    "lng" : -122.4174331,
+    "lat" : 37.7994171
+  },
+  "Port of San Francisco " : {
+    "facts" : null,
+    "lng" : -122.3950767,
+    "lat" : 37.7968374
+  },
+  "2700 Vallejo Street (Pacific Heights)" : {
+    "facts" : null,
+    "lng" : -122.442027,
+    "lat" : 37.794632
+  },
+  "Mansell & University Streets (Visitacion  Valley)" : {
+    "facts" : null,
+    "lng" : -122.4110036,
+    "lat" : 37.7190796
+  },
+  "Clay St. at Taylor" : {
+    "facts" : "3 characters walk down the street. An earthquake shakes the city and stuff starts breaking. One character gets a shard of glass stuck in his leg.",
+    "lng" : -122.4128493,
+    "lat" : 37.7934487
+  },
+  "Embarcadero & Market" : {
+    "facts" : null,
+    "lng" : -122.284548,
+    "lat" : 37.7981483
+  },
+  "Pier 41" : {
+    "facts" : null,
+    "lng" : -157.8903747,
+    "lat" : 21.3191728
+  },
+  "19 Green Street (North Beach)" : {
+    "facts" : null,
+    "lng" : -86.3975413,
+    "lat" : 39.8437158
+  },
+  "18 Urbano" : {
+    "facts" : null,
+    "lng" : -98.4887517,
+    "lat" : 29.3910267
+  },
+  "426 Castro St." : {
+    "facts" : null,
+    "lng" : -122.4354446,
+    "lat" : 37.7620409
+  },
+  "2104 Broadway" : {
+    "facts" : null,
+    "lng" : -73.9815216,
+    "lat" : 40.7798865
+  },
+  "Hang Ah Alley (Chinatown)" : {
+    "facts" : null,
+    "lng" : -122.4075008,
+    "lat" : 37.79392350000001
+  },
+  "California between Kearney and Davis" : {
+    "facts" : "Driving shots",
+    "lng" : -119.4179324,
+    "lat" : 36.778261
+  },
+  "Stockton Tunnel (Stockton Street at Sutter Street)" : {
+    "facts" : "Opened in 1914, the Stockton Tunnel was built to provide North Beach residents access to the thriving downtown area.",
+    "lng" : -121.2907796,
+    "lat" : 37.9577016
+  },
+  "Hunters Point" : {
+    "facts" : "With 23 miles of ladders and 300,000 rivets in each tower, the Golden Gate Bridge was the world's longest span when it opened in 1937.",
+    "lng" : -122.3702611,
+    "lat" : 37.7276095
+  },
+  "Alamo Square" : {
+    "facts" : null,
+    "lng" : -122.4346334,
+    "lat" : 37.77634219999999
+  },
+  "420 Mason St." : {
+    "facts" : null,
+    "lng" : -122.4095949,
+    "lat" : 37.7875663
+  },
+  "1055 Montgomery St." : {
+    "facts" : null,
+    "lng" : -122.404283,
+    "lat" : 37.798888
+  },
+  "900 Block of Grant Avenue (Chinatown)" : {
+    "facts" : null,
+    "lng" : -122.4063847,
+    "lat" : 37.7952716
+  },
+  "Chestnut St. from Larkin to Columbus" : {
+    "facts" : null,
+    "lng" : -82.99879419999999,
+    "lat" : 39.9611755
+  },
+  "California between Leavenworth and Powell" : {
+    "facts" : null,
+    "lng" : -119.4179324,
+    "lat" : 36.778261
+  },
+  "McLaren Lodge" : {
+    "facts" : null,
+    "lng" : -122.4545562,
+    "lat" : 37.7716702
+  },
+  "Pier 38-40, The Embarcadero" : {
+    "facts" : null,
+    "lng" : -122.4008742,
+    "lat" : 37.8033744
+  },
+  "Sutter-Stockton Garage (330 Sutter Street at Stockton)" : {
+    "facts" : "Garage roof serves as a heliport in the movie",
+    "lng" : -121.2907796,
+    "lat" : 37.9577016
+  },
+  "Tonic" : {
+    "facts" : null,
+    "lng" : -91.5649851,
+    "lat" : 47.7669921
+  },
+  "AT&T Stadium" : {
+    "facts" : "two paragliders land on the field of AT&T Park",
+    "lng" : -97.0957095,
+    "lat" : 32.745942
+  },
+  "430 Vallejo Street (Telegraph Hill)" : {
+    "facts" : null,
+    "lng" : -122.404632,
+    "lat" : 37.79928
+  },
+  "Delores Park" : {
+    "facts" : null,
+    "lng" : -122.427063,
+    "lat" : 37.7597727
+  },
+  "Blind Cat, 3050 24th Street, San Francisco" : {
+    "facts" : "Pushing Dead won the Audience Award for  Frameline San Francisco International LGBTQ Film Festival \n2016\n",
+    "lng" : -122.4132496,
+    "lat" : 37.7527903
+  },
+  "Mission Dolores (3321 16th Street, Mission District)" : {
+    "facts" : "Mission Dolores' official name is Mission San Francisco de Assis. It is the oldest building in San Francisco, built in 1791, and has survived two major earthquakes.",
+    "lng" : -122.4275673,
+    "lat" : 37.7643856
+  },
+  "Mission at 1st and 2nd" : {
+    "facts" : null,
+    "lng" : -97.2782409,
+    "lat" : 42.9212001
+  },
+  "Golden Gate Ave & Jones" : {
+    "facts" : null,
+    "lng" : -122.4122427,
+    "lat" : 37.7820851
+  },
+  "2866 24th St." : {
+    "facts" : null,
+    "lng" : -122.4097206,
+    "lat" : 37.7529677
+  },
+  "Marina Green, Marina District" : {
+    "facts" : "Before the 1906 earthquake, the land on which Marina Green sits was a tidal marsh, and rubble from the earthquake was dumped on the site. However, the site was filled in to provide land for the 1915 Panama-Pacific Exhibition. ",
+    "lng" : -122.4393511,
+    "lat" : 37.8069514
+  },
+  "2nd St & Howard" : {
+    "facts" : null,
+    "lng" : -98.4514296,
+    "lat" : 41.213389
+  },
+  "22nd St." : {
+    "facts" : "Driving shots",
+    "lng" : -87.56271989999999,
+    "lat" : 44.1536506
+  },
+  "Leavenworth from Filbert & Francisco St" : {
+    "facts" : null,
+    "lng" : -94.9224637,
+    "lat" : 39.3111112
+  },
+  "California & Powell " : {
+    "facts" : null,
+    "lng" : -82.4612722,
+    "lat" : 28.4919844
+  },
+  "24th St. between Florida and Alabama" : {
+    "facts" : null,
+    "lng" : -86.902298,
+    "lat" : 32.3182314
+  },
+  "180 Manchester Street" : {
+    "facts" : null,
+    "lng" : -71.4982149,
+    "lat" : 43.1873926
+  },
+  "Battery Street (The Embarcadero)" : {
+    "facts" : null,
+    "lng" : -122.4020819,
+    "lat" : 37.8036227
+  },
+  "Bush and Sutter Streets" : {
+    "facts" : null,
+    "lng" : -120.8475832,
+    "lat" : 38.4725926
+  },
+  "San Francisco Drydock (The Dogpatch)" : {
+    "facts" : null,
+    "lng" : -122.3895378,
+    "lat" : 37.7591221
+  },
+  "1 Montgomery Street at Post" : {
+    "facts" : null,
+    "lng" : -122.4020365,
+    "lat" : 37.7891114
+  },
+  "Broadway and Columbus Avenue (North Beach)" : {
+    "facts" : null,
+    "lng" : -122.4067162,
+    "lat" : 37.7978749
+  },
+  "Pier 14" : {
+    "facts" : null,
+    "lng" : -157.8897484,
+    "lat" : 21.3172917
+  },
+  "Kansas St at 17th St." : {
+    "facts" : null,
+    "lng" : -122.4035563,
+    "lat" : 37.7647355
+  },
+  "766 Vallejo Street at Stockton Street (North Beach)" : {
+    "facts" : null,
+    "lng" : -122.4099185,
+    "lat" : 37.7987322
+  },
+  "Treasure Island, Building #1, Ave of the Palms" : {
+    "facts" : "Aerial and exterior shots",
+    "lng" : -122.3710896,
+    "lat" : 37.8171039
+  },
+  "Mason & Sacramento St" : {
+    "facts" : null,
+    "lng" : -122.4110042,
+    "lat" : 37.7927762
+  },
+  "Grant between California and Washington" : {
+    "facts" : null,
+    "lng" : -77.0368707,
+    "lat" : 38.9071923
+  },
+  "St. Elizabeth Apartment House (901 Powell Street at Sacramento)" : {
+    "facts" : null,
+    "lng" : -121.4943996,
+    "lat" : 38.5815719
+  },
+  "Antonio Alley" : {
+    "facts" : null,
+    "lng" : -117.6252424,
+    "lat" : 33.5932406
+  },
+  "Portsmouth Square (Chinatown)" : {
+    "facts" : null,
+    "lng" : -122.4051364,
+    "lat" : 37.7948051
+  },
+  "504 Broadway" : {
+    "facts" : null,
+    "lng" : -73.99919469999999,
+    "lat" : 40.7221377
+  },
+  "Ocean Beach at Lincoln" : {
+    "facts" : null,
+    "lng" : -74.96121,
+    "lat" : 38.974338
+  },
+  "The 500 Club (500 Guerrero Street, Mission District)" : {
+    "facts" : null,
+    "lng" : -122.4242109,
+    "lat" : 37.7630322
+  },
+  "350 Santa Ana Ave." : {
+    "facts" : null,
+    "lng" : -118.1261787,
+    "lat" : 33.7617487
+  },
+  "Regency Building (1290 Sutter Street)" : {
+    "facts" : null,
+    "lng" : -122.3857657,
+    "lat" : 40.5635085
+  },
+  "Larkin & Chestnut Streets (Russian Hill)" : {
+    "facts" : null,
+    "lng" : -122.4214411,
+    "lat" : 37.8027384
+  },
+  "350 Union Street" : {
+    "facts" : null,
+    "lng" : -122.4052792,
+    "lat" : 37.8010954
+  },
+  "82 & 67 Rico Way (Marina District)" : {
+    "facts" : null,
+    "lng" : -122.439794,
+    "lat" : 37.804986
+  },
+  "222 Mason St. " : {
+    "facts" : null,
+    "lng" : -122.4092577,
+    "lat" : 37.7857933
+  },
+  "California at Grant" : {
+    "facts" : null,
+    "lng" : -122.405954,
+    "lat" : 37.7924638
+  },
+  "Victoria Theatre" : {
+    "facts" : null,
+    "lng" : -73.9925476,
+    "lat" : 40.73580889999999
+  },
+  "Pier 43" : {
+    "facts" : "Bystanders watch as a tsunami crashes over them",
+    "lng" : -157.8904867,
+    "lat" : 21.319388
+  },
+  "San Francisco Public Library Main Branch (100 Larkin Street)" : {
+    "facts" : null,
+    "lng" : -122.4194155,
+    "lat" : 37.7749295
+  },
+  "Claude Lane at Bush Street" : {
+    "facts" : null,
+    "lng" : -122.4044457,
+    "lat" : 37.7907052
+  },
+  "305 Hugo Street" : {
+    "facts" : null,
+    "lng" : -122.4613058,
+    "lat" : 37.7651889
+  },
+  "724 Brazil Avenue" : {
+    "facts" : null,
+    "lng" : -122.428894,
+    "lat" : 37.721611
+  },
+  "Balmy Street (Mission District)" : {
+    "facts" : null,
+    "lng" : -122.4124888,
+    "lat" : 37.75261
+  },
+  "24th Between Portrero & Alabama" : {
+    "facts" : null,
+    "lng" : -86.902298,
+    "lat" : 32.3182314
+  },
+  "Mario's Café, 566 Columbus" : {
+    "facts" : null,
+    "lng" : -82.99879419999999,
+    "lat" : 39.9611755
+  },
+  "1018 Tennessee St." : {
+    "facts" : null,
+    "lng" : -80.04973489999999,
+    "lat" : 37.2816433
+  },
+  "Hyatt Fisherman's Wharf (555 Northpoint Street)" : {
+    "facts" : null,
+    "lng" : -122.4162944,
+    "lat" : 37.8060216
+  },
+  "The Music Concourse (Martin Luther King, Jr. Drive, Golden Gate Park)" : {
+    "facts" : "Golden Gate Park is similar in shape but 20% larger than New York's Central Park.",
+    "lng" : -121.245106,
+    "lat" : 37.9559875
+  },
+  "0-100 block Halleck Street" : {
+    "facts" : null,
+    "lng" : -73.8778887,
+    "lat" : 40.8024543
+  },
+  "Golden Gate Park" : {
+    "facts" : "Golden Gate Park is similar in shape but 20% larger than New York's Central Park.",
+    "lng" : -122.4835193,
+    "lat" : 37.76904
+  },
+  "Sutro Baths  " : {
+    "facts" : null,
+    "lng" : -122.5131468,
+    "lat" : 37.7810825
+  },
+  "Forest Hill Station- MUNI" : {
+    "facts" : null,
+    "lng" : 29.6314231,
+    "lat" : -31.4316412
+  },
+  "Embarcadero & Washington" : {
+    "facts" : null,
+    "lng" : -122.3956093,
+    "lat" : 37.7966899
+  },
+  "1375 Haight St." : {
+    "facts" : null,
+    "lng" : -122.4447426,
+    "lat" : 37.7698938
+  },
+  "Columbus between Bay and Washington" : {
+    "facts" : "Driving shots",
+    "lng" : -77.0368707,
+    "lat" : 38.9071923
+  },
+  "770 Haight St." : {
+    "facts" : null,
+    "lng" : -122.43489,
+    "lat" : 37.771831
+  },
+  "253 4th Ave." : {
+    "facts" : null,
+    "lng" : -74.0411331,
+    "lat" : 40.9822195
+  },
+  "Mama's Restaurant (1701 Stockton)" : {
+    "facts" : null,
+    "lng" : -121.2907796,
+    "lat" : 37.9577016
+  },
+  "901 Missouri Street" : {
+    "facts" : null,
+    "lng" : -122.3955818,
+    "lat" : 37.7548219
+  },
+  "3650 21st Street" : {
+    "facts" : null,
+    "lng" : -122.429073,
+    "lat" : 37.756667
+  },
+  "550 El Camino Del Mar (Seacliff)" : {
+    "facts" : null,
+    "lng" : -122.489924,
+    "lat" : 37.787534
+  },
+  "387 Fair Oaks at 25th Street" : {
+    "facts" : null,
+    "lng" : -122.4238578,
+    "lat" : 37.750313
+  },
+  "Intersection of Fulton & 6th Streets (Chinatown)" : {
+    "facts" : null,
+    "lng" : -75.1529925,
+    "lat" : 39.9390318
+  },
+  "2000 Folsom" : {
+    "facts" : null,
+    "lng" : -122.415715,
+    "lat" : 37.765015
+  },
+  "Mark Hopkins Intercontinental Hotel (1 Nob Hill Circle, Nob Hill)" : {
+    "facts" : "The Top of the Mark lounge and restaurant at the top of the hotel was formerly a penthouse suite.",
+    "lng" : -122.4101888,
+    "lat" : 37.7914046
+  },
+  "Pier 50" : {
+    "facts" : null,
+    "lng" : -157.8909064,
+    "lat" : 21.3199095
+  },
+  "Underground SF, 424 Haight St." : {
+    "facts" : null,
+    "lng" : -122.4294548,
+    "lat" : 37.7724563
+  },
+  "The Café at 2369 Market St." : {
+    "facts" : null,
+    "lng" : -87.8637971,
+    "lat" : 38.3542154
+  },
+  "1958 Valencia St." : {
+    "facts" : null,
+    "lng" : -117.8812772,
+    "lat" : 33.9828854
+  },
+  "304 Lily St." : {
+    "facts" : null,
+    "lng" : -82.45774,
+    "lat" : 34.87354
+  },
+  "Alcoa Building (1 Maritime Plaza)" : {
+    "facts" : "A partially-above ground parking structure near the building made it necessary for architects to make the Alcoa Building's diagonal bracing visible, instead of placing it inside and drastically reducing the amount usable interior space. ",
+    "lng" : -83.9614465,
+    "lat" : 35.9043618
+  },
+  "Market & Castro Street" : {
+    "facts" : "From 1910-1920 the Castro was called \"Little Scandinavia\" because of its high concentration of residents of Scandinavian ancestry.",
+    "lng" : -122.4352084,
+    "lat" : 37.762738
+  },
+  "Sacramento & Front St." : {
+    "facts" : null,
+    "lng" : -122.3989876,
+    "lat" : 37.7942967
+  },
+  "Koshland Park" : {
+    "facts" : null,
+    "lng" : -122.4267285,
+    "lat" : 37.77327760000001
+  },
+  "2100 Pacific Ave at Laguna St" : {
+    "facts" : null,
+    "lng" : -122.4298258,
+    "lat" : 37.7939885
+  },
+  "West Harbor, Marina District" : {
+    "facts" : null,
+    "lng" : -122.5014159,
+    "lat" : 37.8664183
+  },
+  "42 Walter Street" : {
+    "facts" : null,
+    "lng" : -122.432663,
+    "lat" : 37.768422
+  },
+  "St. Francis Fountain" : {
+    "facts" : null,
+    "lng" : -90.60840669999999,
+    "lat" : 34.5360197
+  },
+  "435 23rd Street at Illinois" : {
+    "facts" : null,
+    "lng" : -122.38709,
+    "lat" : 37.7554393
+  },
+  "California at Larkin" : {
+    "facts" : null,
+    "lng" : -122.4190635,
+    "lat" : 37.790797
+  },
+  "24th and Church St. " : {
+    "facts" : null,
+    "lng" : -122.4273821,
+    "lat" : 37.7517076
+  },
+  "Point Lobos Avenue" : {
+    "facts" : null,
+    "lng" : -122.5089571,
+    "lat" : 37.7798893
+  },
+  "15-17 Fresno Street" : {
+    "facts" : null,
+    "lng" : -119.8125926,
+    "lat" : 36.7215481
+  },
+  "Washington Square Bar & Grill (1707 Powell)" : {
+    "facts" : null,
+    "lng" : -77.0368707,
+    "lat" : 38.9071923
+  },
+  "200 block Market Street" : {
+    "facts" : null,
+    "lng" : -122.3965605,
+    "lat" : 37.7931322
+  },
+  "Montgomery & Vallejo Streets (Telegraph Hill)" : {
+    "facts" : null,
+    "lng" : -122.4040675,
+    "lat" : 37.799174
+  },
+  "3033 24th Street" : {
+    "facts" : null,
+    "lng" : -122.412587,
+    "lat" : 37.7524177
+  },
+  "Intersection of Columbus & Kearney Streets" : {
+    "facts" : null,
+    "lng" : -122.4053194,
+    "lat" : 37.7969361
+  },
+  "Green St. & Grant Ave." : {
+    "facts" : null,
+    "lng" : -122.4074155,
+    "lat" : 37.79971219999999
+  },
+  "Ferry Plaza" : {
+    "facts" : "Every hour and half-hour, the clock bell atop the Ferry Building chimes portions of the Westminster Quarters.",
+    "lng" : -74.0130195,
+    "lat" : 40.7011445
+  },
+  "Market & Steuart Streets (Financial District)" : {
+    "facts" : null,
+    "lng" : -122.3947991,
+    "lat" : 37.7944659
+  },
+  "391 Pennsylvania Avenue at 19th Street" : {
+    "facts" : null,
+    "lng" : -122.3935108,
+    "lat" : 37.7614837
+  },
+  "Bank of America (1455 Stockton Street)" : {
+    "facts" : null,
+    "lng" : -81.68849349999999,
+    "lat" : 30.3124046
+  },
+  "2413 Harrison St." : {
+    "facts" : null,
+    "lng" : -122.4121794,
+    "lat" : 37.7585811
+  },
+  "720 Steiner Street (Hayes Valley)" : {
+    "facts" : null,
+    "lng" : -122.432742,
+    "lat" : 37.776381
+  },
+  "Montgomery & Market Streets" : {
+    "facts" : null,
+    "lng" : -87.13476299999999,
+    "lat" : 32.9397623
+  },
+  "819 Mason Street at Pine" : {
+    "facts" : null,
+    "lng" : -122.4106552,
+    "lat" : 37.7908979
+  },
+  "Pier 24" : {
+    "facts" : null,
+    "lng" : -157.8896852,
+    "lat" : 21.3176505
+  },
+  "1158-70 Montgomery Street" : {
+    "facts" : null,
+    "lng" : -122.403972,
+    "lat" : 37.799987
+  },
+  "Grant St. at Bush St." : {
+    "facts" : "Characters walk down street and it's totally wrecked from a massive earthquake",
+    "lng" : -84.9211634,
+    "lat" : 40.821463
+  },
+  "California @ Montgomery" : {
+    "facts" : null,
+    "lng" : -123.38861,
+    "lat" : 39.23361
+  },
+  "Jefferson Square Park" : {
+    "facts" : null,
+    "lng" : -105.659952,
+    "lat" : 39.1659689
+  },
+  "Terry A. Francois Blvd. " : {
+    "facts" : null,
+    "lng" : -122.3864105,
+    "lat" : 37.7701426
+  },
+  "198 Gough Street" : {
+    "facts" : null,
+    "lng" : -122.4223777,
+    "lat" : 37.7748761
+  },
+  "Ina Coolbrith Park (1700 Taylor Street)" : {
+    "facts" : null,
+    "lng" : -122.4134525,
+    "lat" : 37.7982629
+  },
+  "Mr. S Leather" : {
+    "facts" : null,
+    "lng" : -80.26659029999999,
+    "lat" : 27.135457
+  },
+  "Powell St. at Market St." : {
+    "facts" : null,
+    "lng" : -122.4073408,
+    "lat" : 37.7845959
+  },
+  "1 Post Street" : {
+    "facts" : null,
+    "lng" : -122.4026656,
+    "lat" : 37.7887748
+  },
+  "Chinatown Gate" : {
+    "facts" : "Designed in 1970, the Chinatown Gate (aka the Dragon Gate) is based on ceremonial gates found in Chinese villages. ",
+    "lng" : -97.1378706,
+    "lat" : 49.9017125
+  },
+  "Postcard Row (Alamo Square, Hayes Valley)" : {
+    "facts" : "The 6 Victorian homes across from Alamo Square Park are among the few Victorians to survive the Great Fire.",
+    "lng" : -122.4245247,
+    "lat" : 37.7759073
+  },
+  "424 Sansome Street" : {
+    "facts" : null,
+    "lng" : -122.4013979,
+    "lat" : 37.7943253
+  },
+  "Conservatory of Flowers (Golden Gate Park)" : {
+    "facts" : "The Conservatory, unveiled in 1879, is the oldest public conservatory in the Western Hemisphere.",
+    "lng" : -122.4602482,
+    "lat" : 37.772608
+  },
+  "510 Noe Street & 18th St." : {
+    "facts" : null,
+    "lng" : -122.4328117,
+    "lat" : 37.7610313
+  },
+  "Green & Laguna Streets" : {
+    "facts" : null,
+    "lng" : -122.430393,
+    "lat" : 37.7967926
+  },
+  "Mission St., Embarcadero, and Front between Clay and Market" : {
+    "facts" : null,
+    "lng" : -122.3929075,
+    "lat" : 37.7934694
+  },
+  "Treasure Island" : {
+    "facts" : "An artificial island, Treasure Island was created for the 1939 Golden Gate International Exposition, and is named after the novel by Robert Louis Stevenson, a one-time San Francisco resident.",
+    "lng" : -82.7689906,
+    "lat" : 27.7691937
+  },
+  "67 Deming Street" : {
+    "facts" : null,
+    "lng" : -72.5224916,
+    "lat" : 41.8121422
+  },
+  "68 Division Street" : {
+    "facts" : null,
+    "lng" : -94.21562039999999,
+    "lat" : 45.5533284
+  },
+  "Sacramento & Washington Streets" : {
+    "facts" : null,
+    "lng" : -121.0781552,
+    "lat" : 38.8954329
+  },
+  "1890 Clay Street" : {
+    "facts" : null,
+    "lng" : -122.4240262,
+    "lat" : 37.79219519999999
+  },
+  "North Beach" : {
+    "facts" : null,
+    "lng" : -76.5310669,
+    "lat" : 38.70734059999999
+  },
+  "Embarcadero Freeway" : {
+    "facts" : "demolished",
+    "lng" : -122.3928481,
+    "lat" : 37.7489402
+  },
+  "California Academy of Sciences (Golden Gate Park)" : {
+    "facts" : "Founded in 1853, 3 years after California joined the United States, the Academy was originally named the California Academy of Natural Sciences and was the first institution of its kind in the United States.",
+    "lng" : -122.4660851,
+    "lat" : 37.770743
+  },
+  "835-865 Market Street at 5th Street" : {
+    "facts" : "The Emporium, a department store, stood in this location. Bloomingdale's is now located here. ",
+    "lng" : -122.408092,
+    "lat" : 37.7840081
+  },
+  "651 Brannan Street" : {
+    "facts" : null,
+    "lng" : -122.3996581,
+    "lat" : 37.7752365
+  },
+  "1954 Mason Street (North Beach)" : {
+    "facts" : null,
+    "lng" : -122.4127017,
+    "lat" : 37.8017281
+  },
+  "Pine St. & Davis St" : {
+    "facts" : null,
+    "lng" : -92.10949600000001,
+    "lat" : 37.134219
+  },
+  "303-305 S. Van Ness" : {
+    "facts" : null,
+    "lng" : -122.4176369,
+    "lat" : 37.7682683
+  },
+  "Powell and Geary Streets (Union Square)" : {
+    "facts" : "The pet shop featured in the film does not exist, but was based on the now-closed Robison's House of Pets formerly located on Maiden Lane.",
+    "lng" : -122.4082412,
+    "lat" : 37.7873819
+  },
+  "Lyon at Chestnut St." : {
+    "facts" : null,
+    "lng" : -122.4475098,
+    "lat" : 37.7993888
+  },
+  "53 Potomac St" : {
+    "facts" : null,
+    "lng" : -77.652183,
+    "lat" : 43.15377669999999
+  },
+  "California Street between Sansome & Davis" : {
+    "facts" : null,
+    "lng" : -119.4179324,
+    "lat" : 36.778261
+  },
+  "Cameron House (920 Sacramento Street)" : {
+    "facts" : null,
+    "lng" : -97.57516919999999,
+    "lat" : 25.9576762
+  },
+  "314 11th Street" : {
+    "facts" : null,
+    "lng" : -73.987933,
+    "lat" : 40.668029
+  },
+  "Columbus & Lombard Streets (North Beach)" : {
+    "facts" : null,
+    "lng" : -122.413728,
+    "lat" : 37.8027549
+  },
+  "Vallejo Street Garage; 766 Vallejo St." : {
+    "facts" : "dialogue scene on top of a garage roof",
+    "lng" : -122.2566367,
+    "lat" : 38.1040864
+  },
+  "Red's Java House (Pier 30-32, The Embarcadero)" : {
+    "facts" : null,
+    "lng" : -122.3976732,
+    "lat" : 37.7992627
+  },
+  "York & 24th St." : {
+    "facts" : null,
+    "lng" : -122.408214,
+    "lat" : 37.7528607
+  },
+  "2633 Vallejo Street" : {
+    "facts" : null,
+    "lng" : -122.4406953,
+    "lat" : 37.7945153
+  },
+  "200 Block of Sansome Street (Financial District)" : {
+    "facts" : null,
+    "lng" : -122.4007051,
+    "lat" : 37.7922626
+  },
+  "Bank of America Building (555 California Street, Financial District)" : {
+    "facts" : "The Bank of America Building was the tallest building on the West Coast from 1969-1972, when it was surpassed by the TransAmerica Pyramid. Today, the Bank of America building is the 5th tallest building on the West Coast.",
+    "lng" : -122.4016318,
+    "lat" : 37.79330059999999
+  },
+  "369 Embarcadero" : {
+    "facts" : null,
+    "lng" : -122.3893587,
+    "lat" : 37.7907979
+  },
+  "Manor West (750 Harrison St.)" : {
+    "facts" : null,
+    "lng" : -97.09582689999999,
+    "lat" : 31.80997619999999
+  },
+  "1007 Gough Street" : {
+    "facts" : "Tennis courts now sit on the site; in the movie the structure was Carlota Valdes' home.",
+    "lng" : -122.4241571,
+    "lat" : 37.782545
+  },
+  "11 San Jacinto Ave." : {
+    "facts" : null,
+    "lng" : -117.2280077,
+    "lat" : 33.7865715
+  },
+  "Bank of America Building (555 California Street)" : {
+    "facts" : "The Bank of America Building was the tallest building on the West Coast from 1969-1972, when it was surpassed by the TransAmerica Pyramid. Today, the Bank of America building is the 5th tallest building on the West Coast.",
+    "lng" : -71.2104239,
+    "lat" : 42.360951
+  },
+  "731 Grant Avenue" : {
+    "facts" : null,
+    "lng" : -122.4063094,
+    "lat" : 37.7937592
+  },
+  "Buena Vista Park (Haight Street at Buena Vista)" : {
+    "facts" : "Established in 1867, Buena Vista Park is the oldest official park in San Francisco.",
+    "lng" : -122.4403874,
+    "lat" : 37.7708518
+  },
+  "601 Buena Vista Ave West at Java St." : {
+    "facts" : null,
+    "lng" : -122.4437247,
+    "lat" : 37.7669436
+  },
+  "20th and Folsom Streets" : {
+    "facts" : null,
+    "lng" : -122.4147198,
+    "lat" : 37.7589107
+  },
+  "100 Alemany Blvd." : {
+    "facts" : null,
+    "lng" : -122.4099429,
+    "lat" : 37.7357188
+  },
+  "Spofford between Washington and Clay" : {
+    "facts" : null,
+    "lng" : -100.4136881,
+    "lat" : 29.1752389
+  },
+  "Edinburgh Castle (950 Geary Street)" : {
+    "facts" : null,
+    "lng" : -3.188267,
+    "lat" : 55.953252
+  },
+  "Moose's Restaurant (1652 Stockton)" : {
+    "facts" : null,
+    "lng" : -121.2907796,
+    "lat" : 37.9577016
+  },
+  "Westin St. Francis" : {
+    "facts" : null,
+    "lng" : -71.2456643,
+    "lat" : 42.3786397
+  },
+  "Grant Avenue between Sacramento and Washington" : {
+    "facts" : null,
+    "lng" : -77.0368707,
+    "lat" : 38.9071923
+  },
+  "3563 20th St." : {
+    "facts" : null,
+    "lng" : -122.420399,
+    "lat" : 37.7584616
+  },
+  "Montgomery Street at Union Street" : {
+    "facts" : null,
+    "lng" : -122.4044855,
+    "lat" : 37.8010394
+  },
+  "22nd and Carolina Streets (Potrero Hill)" : {
+    "facts" : null,
+    "lng" : -122.400008,
+    "lat" : 37.75724700000001
+  },
+  "Z Space Studios; 450 Florida St." : {
+    "facts" : "Filming of the \"Fresh Meat\" Festival",
+    "lng" : -82.45668529999999,
+    "lat" : 27.68679
+  },
+  "Broadway and Kearney" : {
+    "facts" : null,
+    "lng" : -122.4823065,
+    "lat" : 48.7639758
+  },
+  "Bimbo's 365 Club (1025 Columbus Avenue, North Beach)" : {
+    "facts" : null,
+    "lng" : -122.4155764,
+    "lat" : 37.8037215
+  },
+  "Presidio, Golden Gate National Recreation Area" : {
+    "facts" : "In 1776, Spain made the Presidio a fortified area. The area was then given to Mexico, but then given to the US in 1848. The 1994 demilitarization of the area in 1994 marked the end of its 219 years of military use. ",
+    "lng" : -122.472438,
+    "lat" : 37.8016839
+  },
+  "60 Spear Street" : {
+    "facts" : null,
+    "lng" : -122.3945751,
+    "lat" : 37.7925749
+  },
+  "Tosca Café (242 Columbus Avenue, North Beach)" : {
+    "facts" : null,
+    "lng" : -122.4058736,
+    "lat" : 37.7976266
+  },
+  "TransAmerica Pyramid (600 Montgomery Street)" : {
+    "facts" : null,
+    "lng" : -122.4027282,
+    "lat" : 37.7951616
+  },
+  "22nd & Wisconsin Streets (Potrero Hill)" : {
+    "facts" : null,
+    "lng" : -122.3989451,
+    "lat" : 37.7573061
+  },
+  "375 Laguna Honda Blvd." : {
+    "facts" : null,
+    "lng" : -122.4592484,
+    "lat" : 37.7472906
+  },
+  "Washington Square (North Beach)" : {
+    "facts" : "Washington Square Park is not actually a square, as it has 5 sides. North Beach is not a beach.",
+    "lng" : -77.0446154,
+    "lat" : 38.9518062
+  },
+  "Mason Street at Jackson" : {
+    "facts" : null,
+    "lng" : -84.3030162,
+    "lat" : 42.55586
+  },
+  "Embarcadero from Broadway to Folsom" : {
+    "facts" : null,
+    "lng" : -121.1760583,
+    "lat" : 38.6779591
+  },
+  "Embarcadero Street Station- BART " : {
+    "facts" : null,
+    "lng" : -122.3976732,
+    "lat" : 37.7992627
+  },
+  "50 California Street" : {
+    "facts" : null,
+    "lng" : -122.3973981,
+    "lat" : 37.7939839
+  },
+  "Fior d' Italia (601 Union Street at Stockton)" : {
+    "facts" : null,
+    "lng" : -121.2907796,
+    "lat" : 37.9577016
+  },
+  "544 Natoma (SOMA)" : {
+    "facts" : null,
+    "lng" : -122.4088012,
+    "lat" : 37.779535
+  },
+  "San Francisco Art Institute (800 Chestnut Street)" : {
+    "facts" : null,
+    "lng" : -122.4194155,
+    "lat" : 37.7749295
+  },
+  "1536 Noe St." : {
+    "facts" : null,
+    "lng" : -122.431527,
+    "lat" : 37.74447
+  },
+  "S.S. Jeremiah O'Brien" : {
+    "facts" : null,
+    "lng" : -122.4181442,
+    "lat" : 37.8110638
+  },
+  "Washington Square Park (North Beach)" : {
+    "facts" : "Washington Square Park is not actually a square, as it has 5 sides. North Beach is not a beach. The statue in the Park is Ben Franklin, not George Washington.",
+    "lng" : -80.26281159999999,
+    "lat" : 40.1522248
+  },
+  "700 Kansas St." : {
+    "facts" : null,
+    "lng" : -122.403468,
+    "lat" : 37.76075
+  },
+  "Filbert and Kearny Steps" : {
+    "facts" : null,
+    "lng" : -122.4062152,
+    "lat" : 37.8016977
+  },
+  "Hobart Building (582 Market Street)" : {
+    "facts" : null,
+    "lng" : -122.401621,
+    "lat" : 37.7894639
+  },
+  "Bayview Police Station, 201 Williams Ave." : {
+    "facts" : null,
+    "lng" : -116.5601971,
+    "lat" : 47.9801793
+  },
+  "Romolo Place @ Fresno St." : {
+    "facts" : null,
+    "lng" : -122.4063965,
+    "lat" : 37.7986013
+  },
+  "100 Block of Union Street (Cow Hollow)" : {
+    "facts" : null,
+    "lng" : -122.4355125,
+    "lat" : 37.7970944
+  },
+  "Marina Green" : {
+    "facts" : null,
+    "lng" : -98.2326533,
+    "lat" : 29.9012061
+  },
+  "Huntington Park (California & Taylor Streets, Nob Hill)" : {
+    "facts" : "The mansion of Arabella Huntington, widow of railroad magnate Collis P. Huntington, was destroyed in the 1906 earthquake and fire. Mrs. Huntington the donated the land on which the park now stands to the city.",
+    "lng" : -81.01544489999999,
+    "lat" : 29.1068548
+  },
+  "Bernal Heights Park" : {
+    "facts" : null,
+    "lng" : -122.4133908,
+    "lat" : 37.7429227
+  },
+  "Grant & Washington St." : {
+    "facts" : null,
+    "lng" : -70.67589130000002,
+    "lat" : 42.6224796
+  },
+  "Grant Avenue & Union Street" : {
+    "facts" : null,
+    "lng" : -122.4076143,
+    "lat" : 37.8006445
+  },
+  "1541 Grove Street" : {
+    "facts" : null,
+    "lng" : -122.442046,
+    "lat" : 37.775158
+  },
+  "Punjab" : {
+    "facts" : null,
+    "lng" : 72.7097161,
+    "lat" : 31.1704063
+  },
+  "1901 Ocean Ave. at Ashton Ave." : {
+    "facts" : null,
+    "lng" : -122.4623164,
+    "lat" : 37.7253123
+  },
+  "601 Buena Vista West" : {
+    "facts" : null,
+    "lng" : -94.4627812,
+    "lat" : 38.7991624
+  },
+  "Folsom Street & Embarcadero" : {
+    "facts" : null,
+    "lng" : -122.3901449,
+    "lat" : 37.7907507
+  },
+  "19th and Kansas St." : {
+    "facts" : null,
+    "lng" : -122.4031849,
+    "lat" : 37.76090970000001
+  },
+  "Haight St. at Central" : {
+    "facts" : null,
+    "lng" : -122.4436739,
+    "lat" : 37.7704404
+  },
+  "Castle Street @ Green Street" : {
+    "facts" : null,
+    "lng" : -122.4050755,
+    "lat" : 37.8000109
+  },
+  "67-69 Deming St." : {
+    "facts" : null,
+    "lng" : -72.5224916,
+    "lat" : 41.8121422
+  },
+  "373 Columbus Avenue" : {
+    "facts" : null,
+    "lng" : -73.9763044,
+    "lat" : 40.7807967
+  },
+  "Lafayette Park (Pacific Heights)" : {
+    "facts" : null,
+    "lng" : -122.4276133,
+    "lat" : 37.7916146
+  },
+  "Lower Haight Street" : {
+    "facts" : null,
+    "lng" : -122.4337525,
+    "lat" : 37.7716959
+  },
+  "Spring Valley School (1451 Jackson Street)" : {
+    "facts" : null,
+    "lng" : -89.2698751,
+    "lat" : 41.3604474
+  },
+  "1111 California Street" : {
+    "facts" : null,
+    "lng" : -122.4129675,
+    "lat" : 37.7912078
+  },
+  "1101 Filbert St. " : {
+    "facts" : null,
+    "lng" : -122.4178309,
+    "lat" : 37.8002042
+  },
+  "Eddy & Taylor St." : {
+    "facts" : null,
+    "lng" : -122.4109767,
+    "lat" : 37.7841527
+  },
+  "Geary & 27th Ave" : {
+    "facts" : null,
+    "lng" : -122.4869012,
+    "lat" : 37.7800493
+  },
+  "16th and Utah" : {
+    "facts" : "Helicopter flies over Utah St. from 16th, rises up before freeway",
+    "lng" : -96.5201029,
+    "lat" : 39.6968807
+  },
+  "Broadway at Osgood Street (North Beach)" : {
+    "facts" : null,
+    "lng" : -122.4030955,
+    "lat" : 37.7983316
+  },
+  "Castagnola's Restaurant (Fisherman's Wharf)" : {
+    "facts" : null,
+    "lng" : -122.4177434,
+    "lat" : 37.8079996
+  },
+  "City Lights Bookstore (261 Columbus)" : {
+    "facts" : "One of the country's earliest bookstores, City Lights was founded by, and still owned by beat poet Lawrence Ferlinghetti. The bookstore was often frequented by Beat writers like Allen Ginsberg and Jack Kerouac.",
+    "lng" : -82.99879419999999,
+    "lat" : 39.9611755
+  },
+  "War Memorial Building (401 Van Ness Avenue)" : {
+    "facts" : null,
+    "lng" : -122.4209167,
+    "lat" : 37.7785899
+  },
+  "Cordova Market, 301 Rolph Street, San Francisco" : {
+    "facts" : null,
+    "lng" : -122.43627,
+    "lat" : 37.71361900000001
+  },
+  "157 Commonwealth" : {
+    "facts" : null,
+    "lng" : -74.41368899999999,
+    "lat" : 41.463781
+  },
+  "Buena Vista East & Duboce; Buena Vista East & Haight" : {
+    "facts" : null,
+    "lng" : -122.4383774,
+    "lat" : 37.7690523
+  },
+  "Montgomery and Union St." : {
+    "facts" : null,
+    "lng" : -74.24487239999999,
+    "lat" : 41.51941250000001
+  },
+  "Potrero Hill" : {
+    "facts" : "The most crooked street in San Francisco is actually Potrero Hill's Vermont Street between 20th St & 22nd St.",
+    "lng" : -122.400869,
+    "lat" : 37.7604929
+  },
+  "3050 24th Street" : {
+    "facts" : null,
+    "lng" : -122.4132496,
+    "lat" : 37.7527903
+  },
+  "2 Rowland" : {
+    "facts" : null,
+    "lng" : -90.5308268,
+    "lat" : 33.3236277
+  },
+  "Mason and Pacific" : {
+    "facts" : null,
+    "lng" : -122.4117426,
+    "lat" : 37.796296
+  },
+  "679 Madrid St" : {
+    "facts" : null,
+    "lng" : -122.434653,
+    "lat" : 37.718722
+  },
+  "Broadway & Sansome" : {
+    "facts" : null,
+    "lng" : -122.4022479,
+    "lat" : 37.7984385
+  },
+  "Intersection of Columbus & Mason Streets" : {
+    "facts" : null,
+    "lng" : -122.4129622,
+    "lat" : 37.8022669
+  },
+  "Pier 7 (The Embarcadero)" : {
+    "facts" : null,
+    "lng" : -122.3955956,
+    "lat" : 37.7993901
+  },
+  "McLaren Park (Visitacion  Valley)" : {
+    "facts" : "McLaren Park is the 2nd largest park in San Francisco, after Golden Gate Park.",
+    "lng" : -122.4193742,
+    "lat" : 37.719309
+  },
+  "2417 Franklin Street" : {
+    "facts" : null,
+    "lng" : -104.9687012,
+    "lat" : 39.7523821
+  },
+  "Alamo Square " : {
+    "facts" : null,
+    "lng" : -122.4346334,
+    "lat" : 37.77634219999999
+  },
+  "770 Haight Street" : {
+    "facts" : null,
+    "lng" : -122.43489,
+    "lat" : 37.771831
+  },
+  "Lombard Street" : {
+    "facts" : "Lombard Street is not actually the most crooked in SF. That honor goes to Potrero Hill's Vermont Street between 22nd and 23rd.",
+    "lng" : -122.4262049,
+    "lat" : 37.8010553
+  },
+  "Balboa at 22nd Avenue" : {
+    "facts" : null,
+    "lng" : -122.4812627,
+    "lat" : 37.7764599
+  },
+  "Corona Heights Park" : {
+    "facts" : null,
+    "lng" : -122.4385846,
+    "lat" : 37.7653122
+  },
+  "901/909Tennessee St." : {
+    "facts" : null,
+    "lng" : -122.2478742,
+    "lat" : 38.1097001
+  },
+  "Spofford between Clay and Washington" : {
+    "facts" : null,
+    "lng" : -77.0368707,
+    "lat" : 38.9071923
+  },
+  "Sutter-Stockton Garage (444  Stockton)" : {
+    "facts" : null,
+    "lng" : -121.2907796,
+    "lat" : 37.9577016
+  },
+  "601 Buena Vista Ave West" : {
+    "facts" : null,
+    "lng" : -122.4439685,
+    "lat" : 37.7669535
+  },
+  "411 Shrader St." : {
+    "facts" : null,
+    "lng" : -122.452475,
+    "lat" : 37.770807
+  },
+  "Valencia St. from 16th to 17th" : {
+    "facts" : null,
+    "lng" : -0.3762881,
+    "lat" : 39.4699075
+  },
+  "Epic Roasthouse (399 Embarcadero)" : {
+    "facts" : null,
+    "lng" : -122.3976732,
+    "lat" : 37.7992627
+  },
+  "Yerba Buena Island" : {
+    "facts" : null,
+    "lng" : -122.3668348,
+    "lat" : 37.8108709
+  },
+  "140 Maiden Lane" : {
+    "facts" : null,
+    "lng" : -74.0058227,
+    "lat" : 40.7059825
+  },
+  "California & Grant Streets" : {
+    "facts" : null,
+    "lng" : -122.405954,
+    "lat" : 37.7924638
+  },
+  "Albert S. Samuels Clock (856 Market Street between Powell and Stockton)" : {
+    "facts" : null,
+    "lng" : -121.2907796,
+    "lat" : 37.9577016
+  },
+  "Mission & Beal" : {
+    "facts" : null,
+    "lng" : -122.3958262,
+    "lat" : 37.7911592
+  },
+  "790 Ulloa " : {
+    "facts" : null,
+    "lng" : -122.4646626,
+    "lat" : 37.7408258
+  },
+  "Telegraph Hill" : {
+    "facts" : "Largely untouched by the 1906 earthquake, Telegraph Hill has the most pre-1870 buildings in the city.",
+    "lng" : -122.4056674,
+    "lat" : 37.8013407
+  },
+  "700 Block of Jackson Street (Chinatown)" : {
+    "facts" : null,
+    "lng" : -122.4066797,
+    "lat" : 37.7960502
+  },
+  "3079 16th Street" : {
+    "facts" : null,
+    "lng" : -122.4212802,
+    "lat" : 37.7646893
+  },
+  "Musee Mecanique, Fisherman's Wharf" : {
+    "facts" : "An interactive museum consisting of 20th century penny arcade games and artifacts. ",
+    "lng" : -122.4177434,
+    "lat" : 37.8079996
+  },
+  "San Francisco Hilton (333 O'Farrell Street)" : {
+    "facts" : null,
+    "lng" : -122.4194155,
+    "lat" : 37.7749295
+  },
+  "Van Ness and 12th St." : {
+    "facts" : "A couple reminisces on the moment they first fell in love",
+    "lng" : -122.4184882,
+    "lat" : 37.7722723
+  },
+  "Farley's Café (1315 18th Street Near Missouri)" : {
+    "facts" : null,
+    "lng" : -91.8318334,
+    "lat" : 37.9642529
+  },
+  "Steinhart Aquarium (California Academy of Sciences, Golden Gate Park)" : {
+    "facts" : "The Steinhart Aquarium is home to over 38,000 animals, which represent more than 900 species. ",
+    "lng" : -122.4835193,
+    "lat" : 37.76904
+  },
+  "Bush and Sansome St." : {
+    "facts" : null,
+    "lng" : -122.4007825,
+    "lat" : 37.7911874
+  },
+  "4100 20th St" : {
+    "facts" : null,
+    "lng" : -80.4281381,
+    "lat" : 27.638902
+  },
+  "Stockton & Clay St" : {
+    "facts" : null,
+    "lng" : -122.4079215,
+    "lat" : 37.7940644
+  },
+  "1059 Texas Street" : {
+    "facts" : null,
+    "lng" : -95.3617708,
+    "lat" : 29.7595188
+  },
+  "Urban Flowers" : {
+    "facts" : null,
+    "lng" : -82.3297164,
+    "lat" : 28.6936942
+  },
+  "Geary & 20th Ave" : {
+    "facts" : null,
+    "lng" : -122.479395,
+    "lat" : 37.7802754
+  },
+  "Filbert St. from Hyde to Leavenworth" : {
+    "facts" : null,
+    "lng" : -94.9224637,
+    "lat" : 39.3111112
+  },
+  "Ross Alley (Chinatown)" : {
+    "facts" : "Ross Alley is the oldest alley in San Francisco. ",
+    "lng" : -122.407378,
+    "lat" : 37.7955378
+  },
+  "2898 Vallejo Street" : {
+    "facts" : null,
+    "lng" : -122.444878,
+    "lat" : 37.794231
+  },
+  "Mason Street @ Vallejo " : {
+    "facts" : null,
+    "lng" : -122.412118,
+    "lat" : 37.7981761
+  },
+  "Sutter & Buchannan Streets" : {
+    "facts" : null,
+    "lng" : -122.4299902,
+    "lat" : 37.786514
+  },
+  "Filbert & Leavenworth Streets" : {
+    "facts" : null,
+    "lng" : -122.4176339,
+    "lat" : 37.8003487
+  },
+  "Lucky Street" : {
+    "facts" : null,
+    "lng" : -95.4236681,
+    "lat" : 29.8700048
+  },
+  "5th and Beale Streets" : {
+    "facts" : null,
+    "lng" : -75.91581769999999,
+    "lat" : 39.9566202
+  },
+  "75 California Street" : {
+    "facts" : null,
+    "lng" : -122.3973319,
+    "lat" : 37.7935486
+  },
+  "Pine St. between Market and Kearny" : {
+    "facts" : null,
+    "lng" : -74.1454214,
+    "lat" : 40.7684342
+  },
+  "23rd & Iowa Streets (Dogpatch)" : {
+    "facts" : null,
+    "lng" : -122.3918784,
+    "lat" : 37.7551696
+  },
+  "S. Van Ness" : {
+    "facts" : "Driving shots",
+    "lng" : -122.4172224,
+    "lat" : 37.7621605
+  },
+  "1400 16th Street" : {
+    "facts" : null,
+    "lng" : -122.4013094,
+    "lat" : 37.7668295
+  },
+  "4015 21st St" : {
+    "facts" : null,
+    "lng" : -103.1580139,
+    "lat" : 34.4193622
+  },
+  "Jones Street at Bush" : {
+    "facts" : null,
+    "lng" : -122.4137511,
+    "lat" : 37.7895396
+  },
+  "Columbus Avenue at Green & Stockton" : {
+    "facts" : null,
+    "lng" : -122.40891,
+    "lat" : 37.7994642
+  },
+  "372/374 Pennsylvania Avenue " : {
+    "facts" : null,
+    "lng" : -73.8949859,
+    "lat" : 40.6683639
+  },
+  "Bowles Franklin Galleries (765 Beach Street, Fisherman's Wharf)" : {
+    "facts" : null,
+    "lng" : -122.4214883,
+    "lat" : 37.8062684
+  },
+  "Clay St. at Sansome" : {
+    "facts" : null,
+    "lng" : -122.4015234,
+    "lat" : 37.7948472
+  },
+  "555 Market St." : {
+    "facts" : null,
+    "lng" : -122.3999088,
+    "lat" : 37.78999900000001
+  },
+  "Intersection of Grant & Fresno Streets (North Beach)" : {
+    "facts" : null,
+    "lng" : -122.4071906,
+    "lat" : 37.79850589999999
+  },
+  "280 Freeway at Pennsylvania and Mariposa Streets" : {
+    "facts" : null,
+    "lng" : -77.1945247,
+    "lat" : 41.2033216
+  },
+  "Motel Capri" : {
+    "facts" : null,
+    "lng" : -123.3891766,
+    "lat" : 48.4436234
+  },
+  "San Francisco Bay" : {
+    "facts" : null,
+    "lng" : -122.2913078,
+    "lat" : 37.8271784
+  },
+  "Van Ness between Fell and Lombard" : {
+    "facts" : null,
+    "lng" : -88.00784349999999,
+    "lat" : 41.8800296
+  },
+  "Webster Street" : {
+    "facts" : null,
+    "lng" : -122.2648948,
+    "lat" : 37.8132923
+  },
+  "Bernal Heights Boulevard" : {
+    "facts" : null,
+    "lng" : -122.412627,
+    "lat" : 37.742249
+  },
+  "3639 Taraval St" : {
+    "facts" : null,
+    "lng" : -122.5053758,
+    "lat" : 37.7415828
+  },
+  "Cow Palace" : {
+    "facts" : "Supposedly, the Cow Palace's name derives from a newspaper editorial in which the writer wonders whether the soon-to-be-built structure for livestock was a \"palace for cows\". ",
+    "lng" : 148.7750796,
+    "lat" : -30.7577083
+  },
+  "Lusty Lady Bar (North Beach)" : {
+    "facts" : null,
+    "lng" : -76.5310669,
+    "lat" : 38.70734059999999
+  },
+  "McAllister & Scott Streets (Hayes Valley)" : {
+    "facts" : null,
+    "lng" : -122.4367039,
+    "lat" : 37.77800939999999
+  },
+  "145 Barlett St." : {
+    "facts" : null,
+    "lng" : -77.62840829999999,
+    "lat" : 43.1426087
+  },
+  "Bernal Heights Neighborhood" : {
+    "facts" : "Jake Shears, lead singer of the band Scissor Sisters, auditioned for the role of Dom.",
+    "lng" : -122.4152169,
+    "lat" : 37.7430814
+  },
+  "Barbary Coast" : {
+    "facts" : "The Barbary Coast was a red-light district that was largely destroyed in the 1906 earthquake. Though some of the establishments were rebuilt after the earthquake, an anti-vice campaign put the establishments out of business.",
+    "lng" : -122.40811,
+    "lat" : 37.784196
+  },
+  "Fort Funston" : {
+    "facts" : null,
+    "lng" : -122.5025354,
+    "lat" : 37.7163014
+  },
+  "20th" : {
+    "facts" : "Driving shots",
+    "lng" : -121.820992,
+    "lat" : 44.98741099999999
+  },
+  "Folsom Street (SOMA)" : {
+    "facts" : null,
+    "lng" : -122.4034164,
+    "lat" : 37.7802841
+  },
+  "M.H. de Young Memorial Museum (Golden Gate Park)" : {
+    "facts" : null,
+    "lng" : -122.4835193,
+    "lat" : 37.76904
+  },
+  "Embarcadero Street" : {
+    "facts" : null,
+    "lng" : -83.3564686,
+    "lat" : 42.6937737
+  },
+  "Broadway & Taylor" : {
+    "facts" : null,
+    "lng" : -71.042628,
+    "lat" : 42.4238413
+  },
+  "2179 48th Ave" : {
+    "facts" : null,
+    "lng" : -122.507258,
+    "lat" : 37.745553
+  },
+  "Grace Cathedral, 1100 California St." : {
+    "facts" : "Martin Luther King, Jr. gave a sermon at the cathedral to celebrate the completion and consecration of the church in 1964.",
+    "lng" : -122.4133435,
+    "lat" : 37.7918345
+  },
+  "343 Union Street" : {
+    "facts" : null,
+    "lng" : -122.4050774,
+    "lat" : 37.8008025
+  },
+  "St. Mary's Square Park" : {
+    "facts" : null,
+    "lng" : -78.62732299999999,
+    "lat" : 35.6970863
+  },
+  "2178 Palou Ave." : {
+    "facts" : null,
+    "lng" : -122.4015231,
+    "lat" : 37.7406288
+  },
+  "534 Hyde Street" : {
+    "facts" : null,
+    "lng" : -122.4161084,
+    "lat" : 37.7859698
+  },
+  "Lombard & Fillmore Streets (Marina District)" : {
+    "facts" : null,
+    "lng" : -122.4360847,
+    "lat" : 37.7998947
+  },
+  "Grant Street at Pacific Avenue" : {
+    "facts" : null,
+    "lng" : -122.4068577,
+    "lat" : 37.79690970000001
+  },
+  "Jackson St. at Spruce" : {
+    "facts" : null,
+    "lng" : -94.9338932,
+    "lat" : 39.3103305
+  },
+  "Hyde at Union" : {
+    "facts" : null,
+    "lng" : -122.4190807,
+    "lat" : 37.79920730000001
+  },
+  "755 Vallejo Street" : {
+    "facts" : null,
+    "lng" : -122.4097893,
+    "lat" : 37.7984561
+  },
+  "722 Steiner Street" : {
+    "facts" : null,
+    "lng" : -122.4327849,
+    "lat" : 37.77647109999999
+  },
+  "City Hall " : {
+    "facts" : null,
+    "lng" : 11.9688029,
+    "lat" : 51.4969802
+  },
+  "Bay Bridge" : {
+    "facts" : null,
+    "lng" : -77.5337201,
+    "lat" : 43.2117641
+  },
+  "915 Naples, San Francisco" : {
+    "facts" : null,
+    "lng" : -122.435255,
+    "lat" : 37.715034
+  },
+  "83 Watchman Way" : {
+    "facts" : null,
+    "lng" : -122.3953494,
+    "lat" : 37.7547843
+  },
+  "Sutter & Webster Streets" : {
+    "facts" : null,
+    "lng" : -122.4316575,
+    "lat" : 37.78629919999999
+  },
+  "Sacramento & Hyde Streets (Nob Hill)" : {
+    "facts" : null,
+    "lng" : -122.4176076,
+    "lat" : 37.791938
+  },
+  "2190 Washington Street (Pacific Heights)" : {
+    "facts" : null,
+    "lng" : -122.429151,
+    "lat" : 37.792541
+  },
+  "Montgomery/Green" : {
+    "facts" : null,
+    "lng" : -85.45508559999999,
+    "lat" : 31.2765941
+  },
+  "24th Street Mini Park (Mission District)" : {
+    "facts" : null,
+    "lng" : -122.4082022,
+    "lat" : 37.7528654
+  },
+  "2930 3rd Street" : {
+    "facts" : null,
+    "lng" : -122.3879709,
+    "lat" : 37.7519723
+  },
+  "Mel's Drive-In (Corner of Van Ness & Mission Street, Mission District)" : {
+    "facts" : "This restaurant location was demolished; however another Mel's was reopened in 1986 on 3355 Geary Blvd. ",
+    "lng" : -122.4191262,
+    "lat" : 37.7591301
+  },
+  "Caffe Trieste" : {
+    "facts" : null,
+    "lng" : 14.2489337,
+    "lat" : 40.8370522
+  },
+  "Cesar Chavez & Mission Street (Mission)" : {
+    "facts" : null,
+    "lng" : -122.4182139,
+    "lat" : 37.7482293
+  },
+  "2100 Green Street" : {
+    "facts" : null,
+    "lng" : -122.4339368,
+    "lat" : 37.7965625
+  },
+  "Alamo Square Park" : {
+    "facts" : null,
+    "lng" : -115.1712359,
+    "lat" : 37.3735611
+  },
+  "Kearny Street between Broadway and Pacific Avenue" : {
+    "facts" : null,
+    "lng" : -74.1454214,
+    "lat" : 40.7684342
+  },
+  "500 Club (500 Guerrero)" : {
+    "facts" : null,
+    "lng" : -99.8905817,
+    "lat" : 16.8661996
+  },
+  "887 De Haro Street" : {
+    "facts" : null,
+    "lng" : -122.400695,
+    "lat" : 37.758626
+  },
+  "800 Bay Street" : {
+    "facts" : null,
+    "lng" : -122.420441,
+    "lat" : 37.804891
+  },
+  "San Francisco General Hospital" : {
+    "facts" : null,
+    "lng" : -122.4067099,
+    "lat" : 37.7551805
+  },
+  "Hayes Valley Care (601 Laguna Street, Hayes Valley)" : {
+    "facts" : null,
+    "lng" : -122.4266889,
+    "lat" : 37.7768864
+  },
+  "Ocean Beach @ Balboa" : {
+    "facts" : null,
+    "lng" : -80.11448,
+    "lat" : 26.0513254
+  },
+  "Hall of Justice (850 Bryant Street)" : {
+    "facts" : null,
+    "lng" : -78.90575749999999,
+    "lat" : 35.739949
+  },
+  "Twin Peaks" : {
+    "facts" : "The 2nd highest point in SF after Mt. Davidson, Twin Peaks sit at the geographic center of SF. The native Ohlone people called the area \"called the area “Los Pechos de la Chola” or \"Breasts of the Indian Maiden,\" but in the 19th Century when America took over the area, it was renamed \"Twin Peaks\".",
+    "lng" : -117.2358006,
+    "lat" : 34.2384241
+  },
+  "The Drew School, 2901 California" : {
+    "facts" : null,
+    "lng" : -119.4179324,
+    "lat" : 36.778261
+  },
+  "812 22nd St. and Tennessee" : {
+    "facts" : null,
+    "lng" : -83.9390748,
+    "lat" : 35.9538736
+  },
+  "1227 Montgomery Street" : {
+    "facts" : null,
+    "lng" : -122.4045297,
+    "lat" : 37.8004708
+  },
+  "Intersection of California & Grant Streets (Richmond District)" : {
+    "facts" : null,
+    "lng" : -120.5114041,
+    "lat" : 34.7982255
+  },
+  "North Beach Video (1398 Grant Avenue at Green)" : {
+    "facts" : "The video store has since moved to an adjacent location. ",
+    "lng" : -76.5310669,
+    "lat" : 38.70734059999999
+  },
+  "710 Steiner Street (Hayes Valley)" : {
+    "facts" : null,
+    "lng" : -122.432661,
+    "lat" : 37.776068
+  },
+  "770 Haight St" : {
+    "facts" : null,
+    "lng" : -122.43489,
+    "lat" : 37.771831
+  },
+  "The Embarcadero" : {
+    "facts" : null,
+    "lng" : -122.3976732,
+    "lat" : 37.7992627
+  },
+  "United Nations Plaza" : {
+    "facts" : null,
+    "lng" : -73.96925879999999,
+    "lat" : 40.749548
+  },
+  "Pier 45" : {
+    "facts" : "The famous Musee Mecanique is located on Pier 45",
+    "lng" : -157.8899019,
+    "lat" : 21.3185238
+  },
+  "Ghirardelli Square (900 North Point Street, Fisherman's Wharf)" : {
+    "facts" : "In 1893, chocolatier Domingo Ghirardelli bought an entire city block to house the headquarters of Ghirardelli Chocolates.",
+    "lng" : -122.4229471,
+    "lat" : 37.8055762
+  },
+  "1462 Grant Avenue, at Union Street" : {
+    "facts" : null,
+    "lng" : -122.4076143,
+    "lat" : 37.8006445
+  },
+  "1122 Folsom Street" : {
+    "facts" : null,
+    "lng" : -122.4087109,
+    "lat" : 37.7764013
+  },
+  "Potrero &San Bruno" : {
+    "facts" : null,
+    "lng" : -122.405173,
+    "lat" : 37.761398
+  },
+  "Stevenson Alley" : {
+    "facts" : null,
+    "lng" : -78.9930815,
+    "lat" : 40.9404226
+  },
+  "California Street between Front and Davis" : {
+    "facts" : null,
+    "lng" : -119.4179324,
+    "lat" : 36.778261
+  },
+  "AT&T Park" : {
+    "facts" : null,
+    "lng" : -74.13861419999999,
+    "lat" : 40.3969926
+  },
+  "Nam Yuen Restaurant (740 Washington Street, Chinatown)" : {
+    "facts" : null,
+    "lng" : 105.0791228,
+    "lat" : 14.4010715
+  },
+  "1627 Haight Street" : {
+    "facts" : null,
+    "lng" : -122.4492201,
+    "lat" : 37.769716
+  },
+  "15th St. between Vermont and Kansas" : {
+    "facts" : null,
+    "lng" : -98.4842465,
+    "lat" : 39.011902
+  },
+  "Cliffhouse, 1090 Point Lobos Ave." : {
+    "facts" : null,
+    "lng" : -108.6228863,
+    "lat" : 32.970382
+  },
+  "2017 23rd Street" : {
+    "facts" : null,
+    "lng" : -119.0254388,
+    "lat" : 35.3798686
+  },
+  "Broadway @ Jones Streets" : {
+    "facts" : null,
+    "lng" : -122.4152099,
+    "lat" : 37.7968072
+  },
+  "1119 Alabama Street" : {
+    "facts" : null,
+    "lng" : -122.4108745,
+    "lat" : 37.7536766
+  },
+  "Hyde Street & Lombard Street" : {
+    "facts" : null,
+    "lng" : -122.419635,
+    "lat" : 37.8020051
+  },
+  "Market St. at Embarcadero area" : {
+    "facts" : null,
+    "lng" : -122.284548,
+    "lat" : 37.7981483
+  },
+  "Mission Dolores Park (Mission District)" : {
+    "facts" : "The two land plots that comprise the Park were used as a Jewish cemetery until 1894 when San Francisco prohibited all burials within city limits. The graves were moved to Colma, CA.",
+    "lng" : -122.427063,
+    "lat" : 37.7597727
+  },
+  "Water work in SF Bay" : {
+    "facts" : "Characters drive in a high speed picture boat to see different views of the city.",
+    "lng" : -122.4194155,
+    "lat" : 37.7749295
+  },
+  "1227 Montgomery Street (Telegraph Hill)" : {
+    "facts" : null,
+    "lng" : -122.4045297,
+    "lat" : 37.8004708
+  },
+  "California St. from Jones St. to Mason St." : {
+    "facts" : null,
+    "lng" : -119.4179324,
+    "lat" : 36.778261
+  },
+  "9 Calhoun Terrace" : {
+    "facts" : null,
+    "lng" : -122.4038203,
+    "lat" : 37.80080950000001
+  },
+  "20th & Connecticut Streets (Potrero Hill)" : {
+    "facts" : null,
+    "lng" : -122.3972755,
+    "lat" : 37.7599753
+  },
+  "F Train" : {
+    "facts" : null,
+    "lng" : -87.6211275,
+    "lat" : 41.8946401
+  },
+  "1641 York Street" : {
+    "facts" : null,
+    "lng" : -104.959812,
+    "lat" : 39.7424447
+  },
+  "San Francisco National Military Cemetery (Lincoln Blvd., The Presidio, Golden Gate National Recreation Center)" : {
+    "facts" : null,
+    "lng" : -122.4194155,
+    "lat" : 37.7749295
+  },
+  "16th St." : {
+    "facts" : "Driving shots",
+    "lng" : -77.0380473,
+    "lat" : 38.9978628
+  },
+  "Waverly Pl between Washington and Sacramento" : {
+    "facts" : null,
+    "lng" : -121.4943996,
+    "lat" : 38.5815719
+  },
+  "Mission Dolores Park, 19th St. & Dolores St." : {
+    "facts" : "After the devastating earthquake of 1906, the park served as a refugee camp for more than 1600 families who lost their home in the disaster.",
+    "lng" : -122.4258739,
+    "lat" : 37.7598327
+  },
+  "Taylor & Vallejo Streets (Russian Hill)" : {
+    "facts" : null,
+    "lng" : -122.4137454,
+    "lat" : 37.79797569999999
+  },
+  "1243 19th Street" : {
+    "facts" : null,
+    "lng" : -122.395233,
+    "lat" : 37.761136
+  },
+  "Telegraph Hill Blvd (Telegraph Hill)" : {
+    "facts" : null,
+    "lng" : -122.4060487,
+    "lat" : 37.8027862
+  },
+  "119 Utah" : {
+    "facts" : null,
+    "lng" : -111.9982353,
+    "lat" : 38.7744623
+  },
+  "Filbert Steps, Filbert Street" : {
+    "facts" : null,
+    "lng" : -122.4034342,
+    "lat" : 37.80212849999999
+  },
+  "Sue Bierman Park" : {
+    "facts" : null,
+    "lng" : -122.3959833,
+    "lat" : 37.7959705
+  },
+  "2230 Sacramento Street" : {
+    "facts" : "Called \"1001 Franklin\" in the film.",
+    "lng" : -122.4306059,
+    "lat" : 37.7905319
+  },
+  "Broadway and Taylor St Intersection" : {
+    "facts" : null,
+    "lng" : -71.042628,
+    "lat" : 42.4238413
+  },
+  "1138 Alabama St" : {
+    "facts" : null,
+    "lng" : -122.4112992,
+    "lat" : 37.75367
+  },
+  "Grace Cathedral Episcopal Church (1100 California Street)" : {
+    "facts" : "Grace Cathedral Episcopal Church is the West Coast's largest Episcopalian cathedral.",
+    "lng" : -122.4133435,
+    "lat" : 37.7918345
+  },
+  "Various locations in San Francisco during driving scene" : {
+    "facts" : null,
+    "lng" : -122.4194155,
+    "lat" : 37.7749295
+  },
+  "Huntington Park" : {
+    "facts" : null,
+    "lng" : -118.2250725,
+    "lat" : 33.9816812
+  },
+  "1167 Alabama Street" : {
+    "facts" : null,
+    "lng" : -122.4108202,
+    "lat" : 37.7532723
+  },
+  "Kezar Stadium, Golden Gate Park" : {
+    "facts" : "The stadium was demolished and completely rebuilt after sustaining damages in the 1898 Loma Prieta earthquake.",
+    "lng" : -122.4835193,
+    "lat" : 37.76904
+  },
+  "The Sea Captain's Chest (Fisherman's Wharf)" : {
+    "facts" : null,
+    "lng" : -122.4177434,
+    "lat" : 37.8079996
+  },
+  "Harriet Alley" : {
+    "facts" : null,
+    "lng" : -98.226035,
+    "lat" : 29.8552322
+  },
+  "Pleasant Street at Taylor" : {
+    "facts" : null,
+    "lng" : -118.3108465,
+    "lat" : 46.0621692
+  },
+  "Alco Plaza" : {
+    "facts" : null,
+    "lng" : -81.53426900000001,
+    "lat" : 29.141799
+  },
+  "California St. between Drumm St. and Kearny St." : {
+    "facts" : null,
+    "lng" : -119.4179324,
+    "lat" : 36.778261
+  },
+  "Intersection of Columbus and Kearny" : {
+    "facts" : null,
+    "lng" : -122.4053194,
+    "lat" : 37.7969361
+  },
+  "Broadway (North Beach)" : {
+    "facts" : null,
+    "lng" : -73.86235649999999,
+    "lat" : 41.0652124
+  },
+  "Filbert St. & Leavenworth" : {
+    "facts" : null,
+    "lng" : -122.4176339,
+    "lat" : 37.8003487
+  },
+  "Columbus & Pacific Ave" : {
+    "facts" : null,
+    "lng" : -122.4055576,
+    "lat" : 37.7970734
+  },
+  "City Hall" : {
+    "facts" : "Exterior scenes include re-creating the White Night Riots on May 21, 1979 and the Gay Freedom March. Interior scenes included the wedding ceremony for Roma and Diane which had a few Board of Supervisors in the ceremony. The current Clerk for the Board of Supervisors played herself in one of the scenes filmed in the Chambers.",
+    "lng" : 11.9688029,
+    "lat" : 51.4969802
+  },
+  "Alta Plaza Park" : {
+    "facts" : "The park was originally a rock quarry and served as a campground for many survivors of the 1906 earthquake. The site was converted to a park in 1910.",
+    "lng" : -122.132818,
+    "lat" : 37.4228523
+  },
+  "Spreckels Mansion (2080 Washington Street, Pacific Heights)" : {
+    "facts" : null,
+    "lng" : -122.427541,
+    "lat" : 37.792733
+  },
+  "La Bodega (1332 Grant Avenue at Vallejo)" : {
+    "facts" : null,
+    "lng" : -122.2566367,
+    "lat" : 38.1040864
+  },
+  "Filbert & Taylor Streets (Russian Hill)" : {
+    "facts" : null,
+    "lng" : -122.414327,
+    "lat" : 37.8007601
+  },
+  "883 42nd Ave." : {
+    "facts" : null,
+    "lng" : -122.502706,
+    "lat" : 37.772081
+  },
+  "435 Broadway" : {
+    "facts" : null,
+    "lng" : -74.00130399999999,
+    "lat" : 40.7201087
+  },
+  "Candlestick Park (602 Jamestown Ave.)" : {
+    "facts" : "Then Vice President Richard Nixon threw out the first pitch when Candlestick opened in 1960. On August 29, 1966, The Beatles played their last concert for paying fans at Candlestick Park.",
+    "lng" : -122.3861392,
+    "lat" : 37.7135308
+  },
+  "Stanyan & Belgrave" : {
+    "facts" : null,
+    "lng" : -122.4515737,
+    "lat" : 37.7594733
+  },
+  "20th & Vermont Streets (Potrero Hill)" : {
+    "facts" : "The most crooked street in San Francisco is actually Potrero Hill's Vermont Street between 20th St & 22nd St.",
+    "lng" : -122.4040259,
+    "lat" : 37.759572
+  },
+  "610 Rhode Island Street (Potrero Hill)" : {
+    "facts" : null,
+    "lng" : -122.4025652,
+    "lat" : 37.7619709
+  },
+  "2340 Francisco Street" : {
+    "facts" : null,
+    "lng" : -122.4438717,
+    "lat" : 37.80107090000001
+  },
+  "Brocklebank Apartments (1000 Mason Street)" : {
+    "facts" : null,
+    "lng" : -122.4105791,
+    "lat" : 37.7931691
+  },
+  "Kearney & Pine St." : {
+    "facts" : null,
+    "lng" : -122.473529,
+    "lat" : 38.5046361
+  },
+  "Duboce Park" : {
+    "facts" : null,
+    "lng" : -122.4324905,
+    "lat" : 37.7695613
+  },
+  "433 Baker Street, " : {
+    "facts" : null,
+    "lng" : -122.441662,
+    "lat" : 37.775023
+  },
+  "Washington Square, North Beach" : {
+    "facts" : null,
+    "lng" : -77.0446154,
+    "lat" : 38.9518062
+  },
+  "Gough Street & Clay Street" : {
+    "facts" : null,
+    "lng" : -122.4260016,
+    "lat" : 37.79176959999999
+  },
+  "Belgravia Apartments (795 Sutter Street at Jones)" : {
+    "facts" : null,
+    "lng" : -0.1535489,
+    "lat" : 51.4982272
+  },
+  "Patricia's Green" : {
+    "facts" : null,
+    "lng" : -122.4244228,
+    "lat" : 37.776225
+  },
+  "923 Vermont St." : {
+    "facts" : null,
+    "lng" : -122.403544,
+    "lat" : 37.757972
+  },
+  "Hayes & Polk Streets (Civic Center)" : {
+    "facts" : null,
+    "lng" : -122.4180647,
+    "lat" : 37.7775135
+  },
+  "Ocean Park Motel" : {
+    "facts" : null,
+    "lng" : -124.0473129,
+    "lat" : 46.4899206
+  },
+  "Hyde Street Pier" : {
+    "facts" : null,
+    "lng" : -122.4218364,
+    "lat" : 37.8094721
+  },
+  "535 Octavia Street" : {
+    "facts" : null,
+    "lng" : -122.4250075,
+    "lat" : 37.7772013
+  },
+  "901 Union Street" : {
+    "facts" : null,
+    "lng" : -122.41434,
+    "lat" : 37.79961900000001
+  },
+  "Lombard & Divisadero Streets (Marina District)" : {
+    "facts" : null,
+    "lng" : -122.4426451,
+    "lat" : 37.7989556
+  },
+  "Market St. overpass" : {
+    "facts" : "Bicycle chase scene",
+    "lng" : -85.30942859999999,
+    "lat" : 35.0458196
+  },
+  "Postcard Row, Alamo Square, Hayes Valley" : {
+    "facts" : "The 6 Victorian homes across from Alamo Square Park are among the few Victorians to survive the Great Fire.",
+    "lng" : -122.4245247,
+    "lat" : 37.7759073
+  },
+  "Hyde St. at Greenwich and Hyde St. at Lombard" : {
+    "facts" : "Characters walk to get a vantage point for Coit tower. 250 actors walking \"fleeing\" the city after earthquake",
+    "lng" : -88.00784349999999,
+    "lat" : 41.8800296
+  },
+  "500 Grove Street" : {
+    "facts" : null,
+    "lng" : -74.195696,
+    "lat" : 40.838826
+  },
+  "1 Urbano" : {
+    "facts" : null,
+    "lng" : -80.16598789999999,
+    "lat" : 40.457345
+  },
+  "United Nations Plaza (Civic Center)" : {
+    "facts" : "United Nations Plaza was built in 1975 and across its walkways are white lines into which the preamble to the preamble of the UN charter is carved.",
+    "lng" : -122.4137276,
+    "lat" : 37.7799923
+  },
+  "Vallejo Street Garage" : {
+    "facts" : null,
+    "lng" : -122.2566367,
+    "lat" : 38.1040864
+  },
+  "Nobles Alley" : {
+    "facts" : null,
+    "lng" : -122.4071519,
+    "lat" : 37.8010161
+  },
+  "Chestnut & Divisadero Streets (Marina District)" : {
+    "facts" : null,
+    "lng" : -122.44287,
+    "lat" : 37.7999844
+  },
+  "War Memorial Opera House (401 Van Ness Avenue)" : {
+    "facts" : "In 1945 the United Nations had its first conference at The War Memorial Opera House.",
+    "lng" : -122.4209167,
+    "lat" : 37.7785899
+  },
+  "SF City Hall Polk Street Steps" : {
+    "facts" : null,
+    "lng" : -122.4194155,
+    "lat" : 37.7749295
+  },
+  "520-522A Green Street at Grant Street" : {
+    "facts" : null,
+    "lng" : -122.4074155,
+    "lat" : 37.79971219999999
+  },
+  "1521 Masonic Avenue at Piedmont Street" : {
+    "facts" : null,
+    "lng" : -122.4441981,
+    "lat" : 37.7659828
+  },
+  "Randall Museum" : {
+    "facts" : null,
+    "lng" : -75.18637129999999,
+    "lat" : 39.9539719
+  },
+  "Texas & 19th Streets (Potrero Hill)" : {
+    "facts" : null,
+    "lng" : -122.3954666,
+    "lat" : 37.7613708
+  },
+  "The Castro" : {
+    "facts" : "From 1910-1920 the Castro was called \"Little Scandinavia\" because of its high concentration of residents of Scandinavian ancestry.",
+    "lng" : -122.4350043,
+    "lat" : 37.7609082
+  },
+  "Lombard at Hyde" : {
+    "facts" : null,
+    "lng" : -122.419635,
+    "lat" : 37.8020051
+  },
+  "24th and Castro Streets (Noe Valley)" : {
+    "facts" : null,
+    "lng" : -122.4341091,
+    "lat" : 37.7513079
+  },
+  "520 Castro St." : {
+    "facts" : null,
+    "lng" : -122.4351507,
+    "lat" : 37.7604765
+  },
+  "San Francisco City Hall, 1 Dr. Carlton B. Goodlett Pl." : {
+    "facts" : "Many films have shot scene in and around the building including Raiders of the Lost Ark, Invasion of the Body Snatchers, Dirty Harry, The Towering Inferno, A View to a Kill and most recently, Milk. The Christmas party scene for this show was shot in the Rotunda. ",
+    "lng" : -122.4192647,
+    "lat" : 37.7792597
+  },
+  "Fisherman's Wharf" : {
+    "facts" : "Supposedly, Mikhail S. Gorbachev has said that his favorite part of visiting America was touring Fisherman's Wharf.",
+    "lng" : -122.4177434,
+    "lat" : 37.8079996
+  }
+}

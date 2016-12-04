@@ -1,0 +1,1162 @@
+{
+  "Mother" : {
+    "locations" : [ "Golden Gate Bridge", "Fairmont Hotel (950 Mason Street, Nob Hill)" ],
+    "year" : "1996",
+    "director" : "Albert Brooks"
+  },
+  "Final Analysis" : {
+    "locations" : [ "Presidio, Golden Gate National Recreation Area", "City Hall" ],
+    "year" : "1992",
+    "director" : "Phil Joanou"
+  },
+  "Americana" : {
+    "locations" : [ "Romolo Place @ Fresno St.", "John Shelley Drive John McLaren Park", "Treasure Island", "33 Spruce St", "Bernal Heights Park", "Jackson St. at Spruce", "679 Madrid St", "3232 Jackson Ave." ],
+    "year" : "2015",
+    "director" : "Zachary Shedd"
+  },
+  "On the Road" : {
+    "locations" : [ "Bay Bridge", "Sacramento & Montgomery Streets", "2017 23rd Street", "Filbert & Leavenworth Streets" ],
+    "year" : "2012",
+    "director" : "Walter Salles"
+  },
+  "The Lineup" : {
+    "locations" : [ "War Memorial Opera House (401 Van Ness Avenue)", "The Embarcadero", "Steinhart Aquarium (California Academy of Sciences, Golden Gate Park)", "Pier 41", "Mark Hopkins Intercontinental Hotel (1 Nob Hill Circle, Nob Hill)", "2090 Jackson Street" ],
+    "year" : "1958",
+    "director" : "Don Siegel"
+  },
+  "180" : {
+    "locations" : [ "Epic Roasthouse (399 Embarcadero)", "Mason & California Streets (Nob Hill)", "200 block Market Street", "City Hall", "Randall Museum", "555 Market St." ],
+    "year" : "2011",
+    "director" : "Jayendra"
+  },
+  "The Fan" : {
+    "locations" : [ "Candlestick Park (602 Jamestown Ave.)" ],
+    "year" : "1996",
+    "director" : "Tony Scott"
+  },
+  "GirlBoss" : {
+    "locations" : [ "Mission Dolores Park, 19th St. & Dolores St.", "Green and Divisadero", "1375 Haight St.", "Fillmore and Waller", "Clayton Post Office, 554 Clayton St.", "Taylor and Union", "Filbert between Grant and Kearny", "Filbert and Kearny Steps", "Grant between California and Washington", "Musee Mecanique, Fisherman's Wharf", "Underground SF, 424 Haight St." ],
+    "year" : "2017",
+    "director" : "Jamie Babbit, Amanda Brotchie, Steven K. Tsuchida, Christian Ditter, John Riggi"
+  },
+  "Star Trek II : The Wrath of Khan" : {
+    "locations" : [ "Golden Gate Park" ],
+    "year" : "1982",
+    "director" : "Nicholas Meyer"
+  },
+  "The Caine Mutiny" : {
+    "locations" : [ "The Embarcadero", "Golden Gate Bridge" ],
+    "year" : "1954",
+    "director" : "Edward Dmytryk"
+  },
+  "Stigmata" : {
+    "locations" : [ "19th and Kansas St." ],
+    "year" : "1999",
+    "director" : "Rupert Wainwright"
+  },
+  "Dream with the Fishes" : {
+    "locations" : [ "Bay Bridge" ],
+    "year" : "1997",
+    "director" : "Finn Taylor"
+  },
+  "Looking Season 2 ep 210" : {
+    "locations" : [ "8 Octavia Street", "67 Deming Street", "Twin Peaks Park", "SF City Hall Polk Street Steps", "Mission Street @ 22nd Street" ],
+    "year" : "2015",
+    "director" : "Andrew Haigh"
+  },
+  "Foul Play" : {
+    "locations" : [ "War Memorial Opera House (401 Van Ness Avenue)", "Sutter & Buchannan Streets", "Sutter & Baker Streets", "Sacramento & Hyde Streets (Nob Hill)", "Postcard Row (Alamo Square, Hayes Valley)", "Octavia & Hayes Streets (Hayes Valley)", "Montgomery & Pine Streets (Financial District)", "Laguna & Sacramento Streets (Pacific Heights)", "Hayes Valley Care (601 Laguna Street, Hayes Valley)", "Golden Gate & Steiner Streets (Hayes Valley)", "Fort Point, Presidio", "Fort Mason (Golden Gate National Recreation Area)", "Flood Building (870 Market Street)", "City Hall", "California & Larkin Streets (Nob Hill)", "430 Vallejo Street (Telegraph Hill)", "24th and Castro Streets (Noe Valley)" ],
+    "year" : "1978",
+    "director" : "Colin Higgins"
+  },
+  "Big Sur" : {
+    "locations" : [ "Tosca Café (242 Columbus Avenue, North Beach)" ],
+    "year" : "2013",
+    "director" : "Michael Polish"
+  },
+  "The Diary of a Teenage Girl" : {
+    "locations" : [ "Victoria Theatre", "700 Kansas St.", "The Royal Oak", "Tonic", "Polk and Northpoint St.", "770 Haight St.", "Tank Hill Park", "Hamburger Haven", "Higher Grounds Coffee House", "304 Lily St.", "Yerba Buena Island" ],
+    "year" : "2015",
+    "director" : "Marielle Heller"
+  },
+  "Midnight Lace" : {
+    "locations" : [ "Fairmont Hotel (950 Mason Street, Nob Hill)" ],
+    "year" : "1960",
+    "director" : "David Miller"
+  },
+  "When a Man Loves a Woman" : {
+    "locations" : [ "Spring Valley School (1451 Jackson Street)", "Grant Street at Pacific Avenue", "766 Vallejo Street at Stockton Street (North Beach)", "1521 Masonic Avenue at Piedmont Street" ],
+    "year" : "1994",
+    "director" : "Luis Mandoki"
+  },
+  "The Wedding Planner" : {
+    "locations" : [ "City Hall", "Grace Cathedral Episcopal Church (1100 California Street)", "The Music Concourse (Martin Luther King, Jr. Drive, Golden Gate Park)", "Pleasant Street at Taylor", "Pier 7 (The Embarcadero)", "Montgomery Street at Union Street", "Lincoln Park", "Japanese Tea Garden (Hagiwara Tea Garden Drive, Golden Gate Park)" ],
+    "year" : "2001",
+    "director" : "Adam Shankman"
+  },
+  "Serial" : {
+    "locations" : [ "Ferry Building" ],
+    "year" : "1980",
+    "director" : "Bill Persky"
+  },
+  "Junior" : {
+    "locations" : [ "2552 Hyde Street", "United Nations Plaza (Civic Center)", "Postcard Row (Alamo Square, Hayes Valley)", "Hyatt Fisherman's Wharf (555 Northpoint Street)", "Fairmont Hotel (950 Mason Street, Nob Hill)", "Chinatown Gate", "722 Steiner Street" ],
+    "year" : "1994",
+    "director" : "Ivan Reitman"
+  },
+  "I Am Michael" : {
+    "locations" : [ "F Train", "Flint & 16th (Castro)", "Ocean Beach @ Balboa", "4100 20th St", "Harvey Milk Plaza" ],
+    "year" : "2015",
+    "director" : "Justin Kelly"
+  },
+  "Bar Rescue" : {
+    "locations" : [ "Fort 1" ],
+    "year" : "2016",
+    "director" : null
+  },
+  "Steve Jobs" : {
+    "locations" : [ "War Memorial Opera House (401 Van Ness Avenue)", "Davies Symphony Hall (201 Van Ness Ave.)", "Sutter-Stockton Garage (444  Stockton)", "California St. from Jones St. to Mason St.", "Intersection of Columbus and Kearny", "Mission St and 5th St", "21st and Collingswood St.", "21st and Sanchez St" ],
+    "year" : "2015",
+    "director" : "Danny Boyle"
+  },
+  "Under the Tuscan Sun" : {
+    "locations" : [ "Mecca Restaurant (2029 Market Street)" ],
+    "year" : "2003",
+    "director" : "Audrey Wells"
+  },
+  "When We Rise" : {
+    "locations" : [ "Women's Building, 3543 18th St.", "City Hall", "United Nations Plaza", "520 Castro St.", "440 Castro St.", "Bay Bridge", "24th St. between Florida and Alabama", "Buena Vista Park", "Haight St. at Central", "426 Castro St.", "Powell St. at Market St." ],
+    "year" : "2017",
+    "director" : "Gus Van Sant"
+  },
+  "San Andreas" : {
+    "locations" : [ "2nd St. at Townsend St.", "Jefferson St. at Powell St.", "Grant St. at Bush St.", "Vallejo Garage Roof (Vallejo at Powell)", "Clay St. at Taylor", "Bay St. at Polk", "Intersection of Lombard and Hyde", "555 California", "Broadway and Kearney", "Coit Tower", "TransAmerica Pyramid (600 Montgomery Street)", "Washington Square", "Battery Spencer", "Pier 43", "Vallejo St. Garage, 766 Vallejo St.", "Fort Baker", "AT&T Stadium", "AT&T Stadium", "Water work in SF Bay", "Hyde St. at Greenwich and Hyde St. at Lombard" ],
+    "year" : "2015",
+    "director" : "Brad Peyton"
+  },
+  "Harold and Maude" : {
+    "locations" : [ "Conservatory of Flowers (Golden Gate Park)", "Golden Gate Park" ],
+    "year" : "1971",
+    "director" : "Hal Ashby"
+  },
+  "Mission (aka City of Bars)" : {
+    "locations" : [ "The 500 Club (500 Guerrero Street, Mission District)", "Mission Dolores Park (Mission District)" ],
+    "year" : "2001",
+    "director" : "Loren Marsh"
+  },
+  "Alexander's Ragtime Band" : {
+    "locations" : [ "Cliff House (1090 Point Lobos Avenue)", "San Francisco Bay", "Fairmont Hotel (950 Mason Street, Nob Hill)" ],
+    "year" : "1938",
+    "director" : "Henry King"
+  },
+  "My Reality" : {
+    "locations" : [ "3122 16th Street", "500 Club (500 Guerrero)", "O'Farrell & Jones Streets", "Grant Avenue & Union Street" ],
+    "year" : "2011",
+    "director" : "Marcia Kimpton"
+  },
+  "Ant-Man" : {
+    "locations" : [ "420 Jones St. at Ellis St.", "Lombard at Hyde", "601 Buena Vista Ave West at Java St.", "Columbus between Bay and Washington", "California between Kearney and Davis", "Intersection of Broadway at Kearney", "Intersection of California at Polk", "Treasure Island, Building #1, Ave of the Palms" ],
+    "year" : "2015",
+    "director" : "Peyton Reed"
+  },
+  "Experiment in Terror" : {
+    "locations" : [ "The Sea Captain's Chest (Fisherman's Wharf)", "Roaring Twenties Nightclub (555 Broadway at Columbus)", "Candlestick Park", "2632 Larkin Street at Lombard", "100 St. Germain Avenue", "1 Montgomery Street at Post" ],
+    "year" : "1962",
+    "director" : "Blake Edwards"
+  },
+  "Superman" : {
+    "locations" : [ "Golden Gate Bridge" ],
+    "year" : "1978",
+    "director" : "Richard Donner"
+  },
+  "Groove" : {
+    "locations" : [ "435 23rd Street at Illinois", "435 23rd Street at Illinois", "435 23rd Street at Illinois" ],
+    "year" : "2000",
+    "director" : "Greg Harrison"
+  },
+  "Dirty Harry" : {
+    "locations" : [ "Marina Green, Marina District", "Washington Square, North Beach", "The Embarcadero", "San Francisco Drydock (20th and Illinois Streets)", "Portsmouth Square (Chinatown)", "Mt. Davidson Cross, Mt. Davidson", "Mission Dolores Park (Mission District)", "Kezar Stadium, Golden Gate Park", "Hall of Justice (850 Bryant Street)", "Forest Hill Station- MUNI", "California Hall (625 Polk Street, Van Ness/Civic Center)", "Bank of America Building (555 California Street)" ],
+    "year" : "1971",
+    "director" : "Don Siegel"
+  },
+  "High Crimes" : {
+    "locations" : [ "Bank of America Building (555 California Street)", "391 Pennsylvania Avenue at 19th Street", "Union Square", "Maiden Lane" ],
+    "year" : "2002",
+    "director" : "Mel Brooks"
+  },
+  "A View to a Kill" : {
+    "locations" : [ "City Hall", "Port of San Francisco ", "Golden Gate Bridge", "Embarcadero Freeway", "Potrero Hill", "City Hall", "Chinatown", "Van Ness Avenue", "Taylor and Jefferson Streets (Fisherman's Wharf)" ],
+    "year" : "1985",
+    "director" : "John Glen"
+  },
+  "Shadow of the Thin Man" : {
+    "locations" : [ "Bay Bridge" ],
+    "year" : "1941",
+    "director" : "W.S. Van Dyke"
+  },
+  "Patty Hearst" : {
+    "locations" : [ "Postcard Row (Alamo Square, Hayes Valley)" ],
+    "year" : "1988",
+    "director" : "Paul Schrader"
+  },
+  "The Pursuit of Happyness" : {
+    "locations" : [ "Candlestick Park (602 Jamestown Ave.)", "Golden Gate Park Children's Playground " ],
+    "year" : "2006",
+    "director" : "Steven Conrad"
+  },
+  "Godzilla" : {
+    "locations" : [ "Kearney & Pine St.", "California & Davis St", "Pine St. & Davis St", "Sacramento & Front St.", "Broadway & Sansome", "Broadway & Columbus", "Post & Jones St.", "Stockton & Clay St", "Bush & Kearny", "Mission & Fremont St", "Eddy & Taylor St.", "Pier 7 (The Embarcadero)", "Pier 1", "Embarcadero & Washington", "Mission & Beal", "Potrero &San Bruno" ],
+    "year" : "2014",
+    "director" : "Gareth Edwards"
+  },
+  "Sweet November" : {
+    "locations" : [ "Farley's Café (1315 18th Street Near Missouri)", "Chrissy Field", "Mission Dolores Park (Mission District)" ],
+    "year" : "2001",
+    "director" : "Pat O'Connor"
+  },
+  "Nora Prentiss" : {
+    "locations" : [ "Belgravia Apartments (795 Sutter Street at Jones)" ],
+    "year" : "1947",
+    "director" : "Vincent Sherman"
+  },
+  "Murder in the First, Season 2" : {
+    "locations" : [ "Potrero Hill Recreation Center (801 Arkansas Street)", "1243 19th Street", "372/374 Pennsylvania Avenue ", "Stevenson Alley", "901 Missouri Street", "83 Watchman Way", "1059 Texas Street", "Sue Bierman Park", "Embarcadero Street at Washington Street", "Treasure Island", "Pier 50", "435 Broadway", "1400 16th Street", "Pennsylvania Avenue at 19th Street" ],
+    "year" : "2015",
+    "director" : "Steven Bochcho"
+  },
+  "Need For Speed" : {
+    "locations" : [ "Embarcadero from Broadway to Folsom", "California St from Taylor to Powell", "Mason St from Pine to Sacramento", "Powell St. from Geary to Sacramento" ],
+    "year" : "2014",
+    "director" : "Scott Waugh"
+  },
+  "Looking Season 2 ep 202" : {
+    "locations" : [ "901 Valencia Street", "314 11th Street", "1246 Folsom Street", "Eddy @ Polk Street", "Church @ Duboce Street", "100 Church Street", "770 Haight Street", "651 Brannan Street", "1400 16th Street", "601 Buena Vista Ave West" ],
+    "year" : "2015",
+    "director" : "Andrew Haigh"
+  },
+  "Time After Time" : {
+    "locations" : [ "100 Block of Union Street (Cow Hollow)", "Lombard & Laguna Streets (Marina District)", "Lombard & Fillmore Streets (Marina District)", "Lombard & Divisadero Streets (Marina District)", "Lombard & Broderick Streets (Marina District)", "Intersection of Fulton & 6th Streets (Chinatown)", "Intersection of California & Grant Streets (Richmond District)", "Huntington Park (California & Taylor Streets, Nob Hill)", "Golden Gate Park", "Golden Gate Bridge", "Ghirardelli Square (900 North Point Street, Fisherman's Wharf)", "Chestnut & Divisadero Streets (Marina District)", "California Academy of Sciences (Golden Gate Park)", "Broadway at Osgood Street (North Beach)", "2340 Francisco Street", "United Nations Plaza (Civic Center)", "SF General Hospital Center (1001 Potrero Avenue, Potrero Hill)", "One Embarcadero Center (Financial District)", "Marina Green (Marina District)" ],
+    "year" : "1979",
+    "director" : "Nicholas Meyer"
+  },
+  "The Conversation" : {
+    "locations" : [ "Alta Plaza Park (Steiner Street)", "Alcoa Building (1 Maritime Plaza)", "Alamo Square (Hayes Valley)", "Union Square", "One Embarcadero Center (Financial District)", "Financial District", "Cathedral Hill Hotel (1101 Van Ness Avenue, Civic Center)" ],
+    "year" : "1974",
+    "director" : "Francis Ford Coppola"
+  },
+  "Dim Sum: A Little Bit of Heart" : {
+    "locations" : [ "San Francisco International Airport", "Li Po (916 Grant Avenue at Washington, Chinatown)", "Chinatown" ],
+    "year" : "1985",
+    "director" : "Wayne Wang"
+  },
+  "Chance- Season 1 ep110" : {
+    "locations" : [ "San Francisco General Hospital", "1901 Ocean Ave. at Ashton Ave.", "1 Urbano", "18 Urbano", "Ocean Park Motel", "Cliffhouse, 1090 Point Lobos Ave." ],
+    "year" : "2016",
+    "director" : "Alexandra Cunningham and Kem Nunn"
+  },
+  "Cardinal X" : {
+    "locations" : [ "3639 Taraval St", "1458 33rd Ave.", "Lyon at Chestnut St.", "1601 Lane St.", "420 Mason St.", "119 Utah", "100 Alemany Blvd.", "812 22nd St. and Tennessee" ],
+    "year" : "2015",
+    "director" : "Annie Wang"
+  },
+  "The Woman In Red" : {
+    "locations" : [ "Postcard Row (Alamo Square, Hayes Valley)", "Brocklebank Apartments (1000 Mason Street)", "Montgomery Street at Union Street" ],
+    "year" : "1984",
+    "director" : "Gene Wilder"
+  },
+  "Copycat" : {
+    "locations" : [ "Treasure Island", "Twin Peaks", "Java House (Pier 40, Embarcadero)", "Alta Plaza Park", "82 & 67 Rico Way (Marina District)" ],
+    "year" : "1995",
+    "director" : "Jon Amiel"
+  },
+  "The House on Telegraph Hill" : {
+    "locations" : [ "Telegraph Hill", "Market Street", "Coit Tower", "1227 Montgomery Street" ],
+    "year" : "1951",
+    "director" : "Robert Wise"
+  },
+  "Live Nude Girls Unite" : {
+    "locations" : [ "Lusty Lady Bar (North Beach)" ],
+    "year" : "2000",
+    "director" : "Vicky Funari"
+  },
+  "Star Trek VI: The Undiscovered Country" : {
+    "locations" : [ "Golden Gate Bridge" ],
+    "year" : "1991",
+    "director" : "Nicholas Meyer"
+  },
+  "Alcatraz" : {
+    "locations" : [ "Leavenworth from Filbert & Francisco St", "Chestnut St. from Larkin to Columbus" ],
+    "year" : "2012",
+    "director" : "J.J. Abrams"
+  },
+  "Hulk" : {
+    "locations" : [ "Telegraph Hill", "Vallejo Street at Sansome", "Golden Gate Bridge", "Treasure Island" ],
+    "year" : "2003",
+    "director" : "Ang Lee"
+  },
+  "The Bachelor" : {
+    "locations" : [ "Washington Square Park (North Beach)", "Sutter-Stockton Garage (330 Sutter Street at Stockton)", "Stockton Tunnel (Stockton Street at Sutter Street)", "Steinhart Aquarium (California Academy of Sciences, Golden Gate Park)", "Moose's Restaurant (1652 Stockton)", "Mama's Restaurant (1701 Stockton)", "Columbus Avenue at Green & Stockton" ],
+    "year" : "1999",
+    "director" : "Gary Sinyor"
+  },
+  "Bar Rescue - Season 4 Ep 18" : {
+    "locations" : [ "The Holding Company (now called Patriot House Pub), 2 Embarcadero Ctr, San Francisco, CA 94111" ],
+    "year" : "2015",
+    "director" : null
+  },
+  "Invasion of the Body Snatchers" : {
+    "locations" : [ "United Nations Plaza (Civic Center)", "San Francisco Drydock (20th and Illinois Streets)", "Postcard Row (Alamo Square, Hayes Valley)", "Lafayette Park (Pacific Heights)", "City Hall", "Chinatown", "Bimbo's 365 Club (1025 Columbus Avenue, North Beach)", "720 Steiner Street (Hayes Valley)", "32 Napier Lane", "1227 Montgomery Street (Telegraph Hill)" ],
+    "year" : "1978",
+    "director" : "Philip Kaufman"
+  },
+  "The Assassination of Richard Nixon" : {
+    "locations" : [ "Tosca Café (242 Columbus Avenue, North Beach)", "766 Sutter Street" ],
+    "year" : "2004",
+    "director" : "Niels Mueller"
+  },
+  "Looking Season 2 ep 204" : {
+    "locations" : [ "1890 Clay Street", "Castro Street @ 18th street", "601 Buena Vista Ave West", "3650 21st Street", "Dolores Park, San Francisco", "970 Geary Street", "534 Hyde Street" ],
+    "year" : "2015",
+    "director" : "Andrew Haigh"
+  },
+  "Looking Season 2 ep 208" : {
+    "locations" : [ "2450 Harrison Street", "1246 Folsom Street", "1111 California Street", "950 Mason Street" ],
+    "year" : "2015",
+    "director" : "Andrew Haigh"
+  },
+  "Chance- Season 1 ep108" : {
+    "locations" : [ "Huntington Park", "Fairmont Hotel", "1000 Mason St.", "St. Mary's Square Park" ],
+    "year" : "2016",
+    "director" : "Peter Elkoff and Victoria Morrow"
+  },
+  "Birdman of Alcatraz" : {
+    "locations" : [ "Alcatraz Island" ],
+    "year" : "1962",
+    "director" : "John Frankenheimer"
+  },
+  "Quitters" : {
+    "locations" : [ "1536 Noe St.", "24 Hill St.", "21st St & Sanchez", "4015 21st St", "Tank Hill Park", "Yerba Buena Gardens", "McLaren Lodge", "923 Vermont St." ],
+    "year" : "2015",
+    "director" : "Noah Pritzker"
+  },
+  "About a Boy" : {
+    "locations" : [ "Crissy Field" ],
+    "year" : "2014",
+    "director" : "Mark J. Kunerth"
+  },
+  "The Rock" : {
+    "locations" : [ "The San Francisco Bay", "Fairmont Hotel (950 Mason Street, Nob Hill)", "Coit Tower", "City Hall", "Alcatraz Island" ],
+    "year" : "1996",
+    "director" : "Michael Bay"
+  },
+  "Fat Man and Little Boy" : {
+    "locations" : [ "Postcard Row (Alamo Square, Hayes Valley)" ],
+    "year" : "1989",
+    "director" : "Roland Joffe"
+  },
+  "Dark Passage" : {
+    "locations" : [ "Golden Gate Bridge", "Filbert Steps, Filbert Street" ],
+    "year" : "1947",
+    "director" : "Delmer Daves"
+  },
+  "The Dead Pool" : {
+    "locations" : [ "San Francisco Drydock (The Dogpatch)", "Washington Square Park (North Beach)", "The Cannery (281 Leavenworth Street, Fisherman's Wharf)", "Portsmouth Square (Chinatown)", "Pierce St. & Golden Gate Avenue (Hayes Valley)", "Pierce & California Streets (Pacific Heights)", "Pier 3 (The Embarcadero)", "Nam Yuen Restaurant (740 Washington Street, Chinatown)", "Mirant Energy, LLC (1301 Illinois Street, The Dogpatch)", "McAllister & Scott Streets (Hayes Valley)", "Hall of Justice (850 Bryant Street)", "San Francisco National Military Cemetery (Lincoln Blvd., The Presidio, Golden Gate National Recreation Center)", "Folsom & Essex Streets", "Clementina & Sumner Streets", "Carl & Cole Streets (Cole Valley)", "710 Steiner Street (Hayes Valley)", "550 El Camino Del Mar (Seacliff)", "23rd & Iowa Streets (Dogpatch)", "22nd & Wisconsin Streets (Potrero Hill)", "20th & De Haro Streets (Potrero Hill)", "1954 Mason Street (North Beach)", "San Francisco General Hospital Medical Center (1001 Potrero Avenue, Potrero Hill)" ],
+    "year" : "1988",
+    "director" : "Buddy Van Horn"
+  },
+  "Big Eyes" : {
+    "locations" : [ "Nobles Alley", "Caffe Trieste", "1101 Filbert St. ", "Saints Peter & Paul Church", "Green St. & Grant Ave.", "Filbert St. & Leavenworth", "Pine St. & Grant" ],
+    "year" : "2014",
+    "director" : "Tim Burton"
+  },
+  "Milk" : {
+    "locations" : [ "Duboce Park", "City Hall", "Chinatown", "424 Sansome Street", "29th and Dolores Street", "El Camino Del Mar", "Treasure Island", "Market & Castro Street", "Lower Haight Street", "Grace Cathedral Episcopal Church (1100 California Street)", "Golden Gate Bridge" ],
+    "year" : "2008",
+    "director" : "Gus Van Sant"
+  },
+  "Pleasure of His Company" : {
+    "locations" : [ "Grace Cathedral Episcopal Church (1100 California Street)", "2700 Vallejo Street (Pacific Heights)" ],
+    "year" : "1961",
+    "director" : "George Seaton"
+  },
+  "What's Up Doc?" : {
+    "locations" : [ "San Francisco Hilton (333 O'Farrell Street)", "Lombard Street between Hyde and Leavenworth", "Hyde Street Pier", "Chinatown", "Alta Plaza Park (Steiner Street)", "22nd Avenue & Balboa Street (Richmond District)" ],
+    "year" : "1972",
+    "director" : "Peter Bogdanovich"
+  },
+  "Sister Act" : {
+    "locations" : [ "St. Paul's Church (Church Street, Noe Valley)" ],
+    "year" : "1992",
+    "director" : "Emile Ardolino"
+  },
+  "Burglar" : {
+    "locations" : [ "California Academy of Sciences (Golden Gate Park)", "Green Valley Restaurant (510 Green Street Near Grant)", "1627 Haight Street", "1400 18th Street" ],
+    "year" : "1987",
+    "director" : "Hugh Wilson"
+  },
+  "The Right Stuff" : {
+    "locations" : [ "Cow Palace", "City Hall", "Financial District" ],
+    "year" : "1983",
+    "director" : "Philip Kaufman"
+  },
+  "Bar Rescue - Season 5 Ep 8" : {
+    "locations" : [ "Sam Jordan's Bar and Grill, 4004 3rd St, San Francisco, CA 94124" ],
+    "year" : "2016",
+    "director" : null
+  },
+  "Doctor Dolittle" : {
+    "locations" : [ "Webster Street", "Telegraph Hill Blvd (Telegraph Hill)", "Coit Tower", "2107 Union Street", "2100 Green Street" ],
+    "year" : "1998",
+    "director" : "Betty Thomas"
+  },
+  "The Graduate" : {
+    "locations" : [ "Bay Bridge" ],
+    "year" : "1967",
+    "director" : "Mike Nichols"
+  },
+  "Nine Months" : {
+    "locations" : [ "San Francisco General Hospital Medical Center (1001 Potrero Avenue, Potrero Hill)", "Montgomery & Vallejo Streets", "Jones Street at Bush", "Chrissy Field", "Belli Building (722 Montgomery Street at Washington)", "Alamo Square", "60 Spear Street", "101 Henry Adams Place, 4th Floor" ],
+    "year" : "1995",
+    "director" : "Chris Columbus"
+  },
+  "Memoirs of an Invisible Man" : {
+    "locations" : [ "St. Elizabeth Apartment House (901 Powell Street at Sacramento)" ],
+    "year" : "1992",
+    "director" : "John Carpenter"
+  },
+  "Pacific Heights" : {
+    "locations" : [ "Texas & 19th Streets (Potrero Hill)", "Financial District", "Chinatown" ],
+    "year" : "1990",
+    "director" : "John Schlesinger"
+  },
+  "Sphere" : {
+    "locations" : [ "S.S. Jeremiah O'Brien" ],
+    "year" : "1998",
+    "director" : "Barry Levinson"
+  },
+  "The Birds" : {
+    "locations" : [ "Powell and Geary Streets (Union Square)" ],
+    "year" : "1963",
+    "director" : "Alfred Hitchcock"
+  },
+  "The Love Bug" : {
+    "locations" : [ "Golden Gate Bridge", "100 Block of Lombard Street" ],
+    "year" : "1968",
+    "director" : "Robert Stevenson"
+  },
+  "Flubber" : {
+    "locations" : [ "Treasure Island" ],
+    "year" : "1997",
+    "director" : "Les Mayfield"
+  },
+  "Murder in the First, Season 1" : {
+    "locations" : [ "Dolores Park", "1821 Alabama Street", "Hall of Justice (850 Bryant Street)", "Cameron House (920 Sacramento Street)", "504 Broadway", "9 Calhoun Terrace", "AT&T Park", "Kearny Street between Broadway and Pacific Avenue", "731 Grant Avenue", "Joice Street at Clay Street", "800 Bay Street", "1201 Columbus Avenue", "Pier 45", "369 Embarcadero", "13 Lucky Street", "1541 Grove Street", "Alamo Square Park", "50 California Street", "373 Columbus Avenue", "350 Union Street" ],
+    "year" : "2014",
+    "director" : "Steven Bochcho"
+  },
+  "Bar Rescue - Season 4 Ep 21" : {
+    "locations" : [ "Park 77 (now called The Lister Bar), 77 Cambon Dr, San Francisco, CA 94132" ],
+    "year" : "2015",
+    "director" : null
+  },
+  "Hereafter" : {
+    "locations" : [ "Hobart Building (582 Market Street)", "1160 Taylor Street" ],
+    "year" : "2010",
+    "director" : "Clint Eastwood"
+  },
+  "Rent" : {
+    "locations" : [ "Treasure Island" ],
+    "year" : "2005",
+    "director" : "Chris Columbus"
+  },
+  "The Sweetest Thing" : {
+    "locations" : [ "Golden Gate National Recreation Area" ],
+    "year" : "2002",
+    "director" : "Roger Kumble"
+  },
+  "A Smile Like Yours" : {
+    "locations" : [ "75 California Street" ],
+    "year" : "1997",
+    "director" : "Keith Samples"
+  },
+  "Boys and Girls" : {
+    "locations" : [ "1122 Folsom Street", "Golden Gate Bridge", "Fisherman's Wharf", "Ferry Building", "Coit Tower", "City Hall", "Lombard Street", "Chinatown", "Aquatic Park (Jefferson Street)", "Alcatraz Island", "628 Cole Street" ],
+    "year" : "2000",
+    "director" : "Robert Iscove"
+  },
+  "Blue Jasmine" : {
+    "locations" : [ "Jones & Pacific", "Pacific & Divisadero", "Lombard & Hyde", "5546 Geary Ave", "2898 Broadway", "Motel Capri", "Marina Green", "Ocean Beach at Lincoln", "Heald College", "330 Santa Clara Ave.", "200 Post St. ", "2179 48th Ave", "303-305 S. Van Ness", "3563 20th St.", "Taylor & Green St.", "Grant & Washington St.", "2934 24th St.", "1138 Alabama St", "South Park", "2915 16th St.", "790 Ulloa ", "2178 Palou Ave." ],
+    "year" : "2013",
+    "director" : "Woody Allen"
+  },
+  "Patch Adams" : {
+    "locations" : [ "Treasure Island", "Presidio (Golden Gate National Recreation Area)" ],
+    "year" : "1998",
+    "director" : "Tom Shadyac"
+  },
+  "A Night Full of Rain" : {
+    "locations" : [ "Embarcadero Freeway", "Fairmont Hotel (950 Mason Street, Nob Hill)", "Broadway (North Beach)" ],
+    "year" : "1978",
+    "director" : "Lina Wertmuller"
+  },
+  "Seven Girlfriends" : {
+    "locations" : [ "Golden Gate Bridge" ],
+    "year" : "1999",
+    "director" : "Paul Lazarus"
+  },
+  "Sudden Fear" : {
+    "locations" : [ "Lombard Street", "Brocklebank Apartments (1000 Mason Street)", "2800 Scott Street" ],
+    "year" : "1952",
+    "director" : "David Miller"
+  },
+  "San Francisco" : {
+    "locations" : [ "The Barbary Coast", "City Hall" ],
+    "year" : "1936",
+    "director" : "W.S. Van Dyke"
+  },
+  "Birth of the Dragon" : {
+    "locations" : [ "Leavenworth at Green", "Leavenworth at Union", "Hyde at Union", "California at Grant", "California at Mason", "Spofford between Clay and Washington", "Twin Peaks Blvd.", "Waverly Pl between Washington and Sacramento" ],
+    "year" : "2016",
+    "director" : "George Nolfi "
+  },
+  "Fearless" : {
+    "locations" : [ "400 Montgomery Street", "Folsom Street & Embarcadero", "San Francisco General Hospital Medical Center (1001 Potrero Avenue, Potrero Hill)", "Kohl Building (400 Montgomery Street)", "Bank of America Building (555 California Street)", "90 Gold Street", "5th and Beale Streets" ],
+    "year" : "1993",
+    "director" : "Peter Weir"
+  },
+  "Jagged Edge" : {
+    "locations" : [ "Golden Gate Bridge", "City Hall" ],
+    "year" : "1985",
+    "director" : "Richard Marquand"
+  },
+  "Chan is Missing" : {
+    "locations" : [ "Li Po (916 Grant Avenue at Washington, Chinatown)" ],
+    "year" : "1982",
+    "director" : "Wayne Wang"
+  },
+  "Looking Season 2 ep 207" : {
+    "locations" : [ "770 Haight Street", "Delores Park" ],
+    "year" : "2015",
+    "director" : "Andrew Haigh"
+  },
+  "It Came From Beneath the Sea" : {
+    "locations" : [ "Hunters Point", "Chrissy Field", "Golden Gate Bridge" ],
+    "year" : "1955",
+    "director" : "Robert Gordon"
+  },
+  "After the Thin Man" : {
+    "locations" : [ "Coit Tower" ],
+    "year" : "1936",
+    "director" : "W.S. Van Dyke"
+  },
+  "So I Married an Axe Murderer" : {
+    "locations" : [ "Edinburgh Castle (950 Geary Street)", "Alcatraz Island", "305 Hugo Street", "1462 Grant Avenue, at Union Street" ],
+    "year" : "1993",
+    "director" : "Thomas Schlamme"
+  },
+  "Summertime" : {
+    "locations" : [ "53 Potomac St", "Fisherman's Wharf pier near Chapel (Port Walk #19)", "Broadway and Taylor St Intersection", "Buena Vista East & Duboce; Buena Vista East & Haight", "Alamo Square ", "Stanyan & Belgrave", "20th St and Church (3885 20th St)", "Duboce Park" ],
+    "year" : "2015",
+    "director" : "Gabriele Muccino"
+  },
+  "Mrs. Doubtfire" : {
+    "locations" : [ "1200 Washington Street at Taylor Street", "Chrissy Field", "520-522A Green Street at Grant Street", "516 Green Street", "100 Embarcadero Street" ],
+    "year" : "1993",
+    "director" : "Chris Columbus"
+  },
+  "Edtv" : {
+    "locations" : [ "Moose's Restaurant (1652 Stockton)", "Castro Theatre (429 Castro Street, The Castro)", "20th & Connecticut Streets (Potrero Hill)", "19 Green Street (North Beach)", "1138 Filbert Street", "North Beach Video (1398 Grant Avenue at Green)" ],
+    "year" : "1999",
+    "director" : "Ron Howard"
+  },
+  "Woman on the Run" : {
+    "locations" : [ "Former Hall of Justice (750 Kearny Street at Washington)", "835-865 Market Street at 5th Street", "819 Mason Street at Pine", "772 Commercial Street at Kearney", "1801 Laguna at Bush" ],
+    "year" : "1950",
+    "director" : "Norman Foster"
+  },
+  "Magnum Force" : {
+    "locations" : [ "Vermont Street between 20th and 22nd Streets", "San Francisco International Airport", "San Francisco Drydock (20th and Illinois Streets)", "Pacific Heights Towers (2200 Sacramento Street, Pacific Heights)", "Hall of Justice (850 Bryant Street)", "Golden Gate Bridge", "Fairmont Hotel (950 Mason Street, Nob Hill)", "Embarcadero Freeway", "City Hall", "280 Freeway at Pennsylvania and Mariposa Streets", "2190 Washington Street (Pacific Heights)", "18th Street Overpass (Potrero Hill)" ],
+    "year" : "1973",
+    "director" : "Ted Post"
+  },
+  "Etruscan Smile" : {
+    "locations" : [ "Treasure Island", "Broadway @ Jones Streets", "343 Union Street", "Pier 14 San Francisco", "Chaya / Perry's 132 Embarcadero", "Castle Street @ Green Street", "1227 Montgomery Street", "San Francisco City Hall", "San Francisco Airport", "California Street between Front and Davis", "Jones @ Broadway", "Turk Street between Mason & Leavenworth", "California Street between Sansome & Davis", "Mason Street @ Vallejo ", "225 California Street" ],
+    "year" : "2017",
+    "director" : "Oded Binnun/ Michel Brezis"
+  },
+  "Smile Again, Jenny Lee" : {
+    "locations" : [ "333 Pacheco St at Lopez Ave.", "Manor West (750 Harrison St.)", "475 Diamond St.", "Fairmont Hotel (950 Mason Street, Nob Hill)", "411 Shrader St.", "883 42nd Ave.", "Mason & Sacramento St", "Huntington Park (California & Taylor Streets, Nob Hill)", "1328 Portola", "Clay St. at Sansome", "Montgomery Street at Post Street", "87 Cervantes Blvd (beach)", "510 Noe Street & 18th St.", "Kansas St at 17th St.", "City Hall ", "Greenwich St at Battery St", "2100 Pacific Ave at Laguna St" ],
+    "year" : "2015",
+    "director" : "Carlo Caldana"
+  },
+  "Chance- Season 1 ep109" : {
+    "locations" : [ "Terry A. Francois Blvd. ", "2 Rowland", "Ocean Park Motel", "Cliffhouse, 1090 Point Lobos Ave.", "60 Leavenworth St." ],
+    "year" : "2016",
+    "director" : "Sara Gran and Pete Begler"
+  },
+  "God is a Communist?* (show me heart universe)" : {
+    "locations" : [ "Sacramento & Washington Streets" ],
+    "year" : "2010",
+    "director" : "Jon Poznanter"
+  },
+  "The Princess Diaries" : {
+    "locations" : [ "724 Brazil Avenue", "Fisherman's Wharf", "Cliff House (1090 Point Lobos Avenue)", "Baker Beach", "2601 Lyon Street" ],
+    "year" : "2001",
+    "director" : "Garry Marshall"
+  },
+  "City of Angels" : {
+    "locations" : [ "San Francisco Public Library Main Branch (100 Larkin Street)" ],
+    "year" : "1998",
+    "director" : "Brad Silberling"
+  },
+  "Golden Gate" : {
+    "locations" : [ "Ross Alley (Chinatown)", "Buena Vista Park (Haight Street at Buena Vista)", "Golden Gate Bridge" ],
+    "year" : "1994",
+    "director" : "John Madden"
+  },
+  "Woman on Top" : {
+    "locations" : [ "312 Fillmore Street" ],
+    "year" : "2000",
+    "director" : "Fina Torres"
+  },
+  "Pal Joey" : {
+    "locations" : [ "Spreckels Mansion (2080 Washington Street, Pacific Heights)", "Coit Tower", "Barbary Coast" ],
+    "year" : "1957",
+    "director" : "George Sidney"
+  },
+  "Sense8 - Season 2" : {
+    "locations" : [ "67-69 Deming St.", "The Women's Building, 3543 18th St.", "Grace Cathedral, 1100 California St.", "San Francisco City Hall, 1 Dr. Carlton B. Goodlett Pl.", "Washington between Stockton and Kearny", "Spofford between Washington and Clay" ],
+    "year" : "2016",
+    "director" : "Wachowski Siblings"
+  },
+  "The Lady from Shanghai" : {
+    "locations" : [ "Steinhart Aquarium (California Academy of Sciences, Golden Gate Park)", "Golden Gate Park", "Former Hall of Justice (750 Kearny Street at Washington)" ],
+    "year" : "1947",
+    "director" : "Orson Welles"
+  },
+  "I Remember Mama" : {
+    "locations" : [ "Fairmont Hotel (950 Mason Street, Nob Hill)", "The Ferry Building", "Grant Avenue (North Beach)" ],
+    "year" : "1948",
+    "director" : "George Stevens"
+  },
+  "Greed" : {
+    "locations" : [ "Cliff House (1090 Point Lobos Avenue)", "Bush and Sutter Streets", "Hayes Street at Laguna" ],
+    "year" : "1924",
+    "director" : "Eric von Stroheim "
+  },
+  "Chance - Season 1 ep105" : {
+    "locations" : [ "The Drew School, 2901 California", "State Garage, 818 Leavenworth", "60 Leavenworth St." ],
+    "year" : "2016",
+    "director" : "Victoria Morrow"
+  },
+  "What the Bleep Do We Know" : {
+    "locations" : [ "Golden Gate National Recreation Area" ],
+    "year" : "2004",
+    "director" : "William Arntz"
+  },
+  "Pushing Dead" : {
+    "locations" : [ "5th Ave @ Fulton Street in Golden Gate Park", "Blind Cat, 3050 24th Street, San Francisco", "Cordova Market, 301 Rolph Street, San Francisco", "915 Naples, San Francisco", "42 Walter Street", "433 Baker Street, ", "1069 Tennessee Street", "2930 3rd Street", "Octavia at Grove Street", "Koshland Park" ],
+    "year" : "2016",
+    "director" : "Tom Brown"
+  },
+  "Escape From Alcatraz" : {
+    "locations" : [ "Alcatraz Island" ],
+    "year" : "1979",
+    "director" : "Donald Siegel"
+  },
+  "Chance- Season 1 ep106" : {
+    "locations" : [ "Washington Square Park", "60 Leavenworth St.", "Treasure Island", "2 Rowland" ],
+    "year" : "2016",
+    "director" : "Sara Gran"
+  },
+  "Shoot the Moon" : {
+    "locations" : [ "Fairmont Hotel (950 Mason Street, Nob Hill)" ],
+    "year" : "1982",
+    "director" : "Alan Parker"
+  },
+  "Point Blank" : {
+    "locations" : [ "Alcatraz Island" ],
+    "year" : "1967",
+    "director" : "John Boorman"
+  },
+  "Chance - Season 1ep105" : {
+    "locations" : [ "Private alley along 20th St. between Tennessee and Minnesota" ],
+    "year" : "2016",
+    "director" : "Victoria Morrow"
+  },
+  "Parks and Recreation" : {
+    "locations" : [ "Filbert from Hyde to Leavenworth", "Columbus and Green", "Larkin & Fulton", "Embarcadero & Market" ],
+    "year" : "2014",
+    "director" : "Dean Holland"
+  },
+  "Knife Fight" : {
+    "locations" : [ "Green & Laguna Streets", "California & Hyde Streets", "City Hall" ],
+    "year" : "2013",
+    "director" : "Bill Guttentag"
+  },
+  "Good NeighborSam" : {
+    "locations" : [ "Various locations in San Francisco during driving scene" ],
+    "year" : "1964",
+    "director" : "David Swift"
+  },
+  "Looking" : {
+    "locations" : [ "222 Mason St. ", "Golden Gate Bridge", "Tiburon Hiking Trail, Tiburon, CA", "Fort Funston", "The Stud", "Mr. S Leather", "2866 24th St.", "24th and Church St. ", "St. Francis Fountain", "Sutro Baths  ", "Golden Gate Park", "Market & Church St.", "Urban Flowers", "770 Haight St", "Eros", "Union Square", "The Café at 2369 Market St.", "Bay Bridge", "Treasure Island", "1890 Clay St.", "2000 Folsom", "Mission Arts Center", "2413 Harrison St.", "Valencia St. from 16th to 17th", "601 Buena Vista West", "Dolores Park", "Punjab" ],
+    "year" : "2014",
+    "director" : "Andrew Haigh"
+  },
+  "Flower Drum Song" : {
+    "locations" : [ "Golden Gate Bridge", "Chinatown" ],
+    "year" : "1961",
+    "director" : "Henry Koster"
+  },
+  "D.O.A" : {
+    "locations" : [ "Powell & California Streets", "The Embarcadero/ Ferry Building", "Union Square", "Market & Steuart Streets (Financial District)" ],
+    "year" : "1950",
+    "director" : "Rudolph Mate"
+  },
+  "The Competition" : {
+    "locations" : [ "California Academy of Sciences (Golden Gate Park)" ],
+    "year" : "1980",
+    "director" : "Joel Oliansky"
+  },
+  "Sense8" : {
+    "locations" : [ "Harrison & 20th", "Folsom", "16th St.", "S. Van Ness", "22nd St.", "Harrison", "20th", "Z Space Studios; 450 Florida St.", "Corbett St.", "Romain St.", "Market St. overpass", "Grand View Ave.", "Vallejo Street Garage; 766 Vallejo St.", "Irving St. at 9th Ave.", "Van Ness and 12th St." ],
+    "year" : "2015",
+    "director" : "The Wachowskis"
+  },
+  "Family Plot" : {
+    "locations" : [ "Grace Cathedral Episcopal Church (1100 California Street)", "Fairmont Hotel (950 Mason Street, Nob Hill)", "2230 Sacramento Street", "Nob Hill" ],
+    "year" : "1976",
+    "director" : "Alfred Hitchcock"
+  },
+  "Nine to Five" : {
+    "locations" : [ "Albert S. Samuels Clock (856 Market Street between Powell and Stockton)" ],
+    "year" : "1980",
+    "director" : "Colin Higgins"
+  },
+  "Cherish" : {
+    "locations" : [ "387 Fair Oaks at 25th Street" ],
+    "year" : "2002",
+    "director" : "Finn Taylor"
+  },
+  "Chance- Season 1 ep103" : {
+    "locations" : [ "60 Leavenworth St.", "San Francisco Art Institute, 800 Chestnut", "350 Santa Ana Ave.", "878-898 Chestnut St.", "60 Potomac", "The Drew School, 2901 California", "San Bruno and Alameda", "17th and Arkansas" ],
+    "year" : "2016",
+    "director" : "Michael Lehmann"
+  },
+  "Chu Chu and the Philly Flash" : {
+    "locations" : [ "Fairmont Hotel (950 Mason Street, Nob Hill)", "22nd and Carolina Streets (Potrero Hill)" ],
+    "year" : "1981",
+    "director" : "David Lowell Rich"
+  },
+  "Until the End of the World" : {
+    "locations" : [ "Tosca Café (242 Columbus Avenue, North Beach)" ],
+    "year" : "1991",
+    "director" : "Wim Wenders"
+  },
+  "The Game" : {
+    "locations" : [ "Washington Street & Waverly Place (Chinatown)", "Stockton Tunnel Southern Approach Overhang (Bush & Stockton Streets, Chinatown)", "Presidio (Golden Gate National Recreation Area)", "Merchant Exchange Building", "Mason & California Streets (Nob Hill)", "Harrison Street (The Embarcadero)", "Bay Bridge", "Bank of America Building (555 California Street)", "301 Howard Street", "1 Bush Street" ],
+    "year" : "1997",
+    "director" : "David Fincher"
+  },
+  "What Dreams May Come" : {
+    "locations" : [ "Treasure Island" ],
+    "year" : "1998",
+    "director" : "Vincent Ward"
+  },
+  "Guess Who's Coming to Dinner" : {
+    "locations" : [ "San Francisco International Airport", "634 Raycliff Terrace" ],
+    "year" : "1967",
+    "director" : "Stanley Kramer"
+  },
+  "Sneakers" : {
+    "locations" : [ "The Embarcadero" ],
+    "year" : "1992",
+    "director" : "Phil Alden Robinson"
+  },
+  "Twisted" : {
+    "locations" : [ "Red's Java House (Pier 30-32, The Embarcadero)", "Piers 30-32", "Pier 24", "La Bodega (1332 Grant Avenue at Vallejo)" ],
+    "year" : "2004",
+    "director" : "Philip Kaufman"
+  },
+  "Phenomenon" : {
+    "locations" : [ "Treasure Island" ],
+    "year" : "1996",
+    "director" : "Jon Turteltaub"
+  },
+  "Innerspace" : {
+    "locations" : [ "Mark Hopkins Intercontinental Hotel (1 Nob Hill Circle, Nob Hill)", "Telegraph Hill", "Golden Gate Bridge" ],
+    "year" : "1987",
+    "director" : "Joe Dante"
+  },
+  "Looking Season 2 ep 209" : {
+    "locations" : [ "SF Zoo, 2945 Sloat Blvd", "1246 Folsom Street", "68 Division Street", "8 Octavia Street", "1890 Clay Street" ],
+    "year" : "2015",
+    "director" : "Andrew Haigh"
+  },
+  "Looking Season 2 ep 205" : {
+    "locations" : [ "534 Hyde Street", "24th Between Portrero & Alabama", "745 Treat Ave", "160 Church Street", "1119 Alabama Street" ],
+    "year" : "2015",
+    "director" : "Andrew Haigh"
+  },
+  "Take the Money and Run" : {
+    "locations" : [ "Mission Street", "Golden Gate Park", "Bank of America (1455 Stockton Street)" ],
+    "year" : "1969",
+    "director" : "Woody Allen"
+  },
+  "40 Days and 40 Nights" : {
+    "locations" : [ "Café Trieste (609 Vallejo)" ],
+    "year" : "2002",
+    "director" : "Michael Lehmann"
+  },
+  "The Internship" : {
+    "locations" : [ "Montgomery and Union St." ],
+    "year" : "2013",
+    "director" : "Shawn Levy"
+  },
+  "Bullitt" : {
+    "locations" : [ "Bayshore Blvd near Cesar Chavez (Bayview)", "Taylor & Vallejo Streets (Russian Hill)", "SF General Hospital Center (1001 Potrero Avenue, Potrero Hill)", "McLaren Park (Visitacion  Valley)", "Marina Green (Marina District)", "Mansell & University Streets (Visitacion  Valley)", "Larkin & Francisco Streets (Russian Hill)", "Larkin & Chestnut Streets (Russian Hill)", "Intersection of York & Peralta (Bernal Heights)", "Filbert & Taylor Streets (Russian Hill)", "Columbus & Lombard Streets (North Beach)", "Cesar Chavez & Mission Street (Mission)", "Brocklebank Apartments (1000 Mason Street)", "Bay Bridge", "2700 Vallejo Street (Pacific Heights)", "20th & Vermont Streets (Potrero Hill)", "1153-57 Taylor Street" ],
+    "year" : "1968",
+    "director" : "Peter Yates"
+  },
+  "Can't Stop the Music" : {
+    "locations" : [ "101 Henry Adams Place" ],
+    "year" : "1980",
+    "director" : "Nancy Walker"
+  },
+  "Maxie" : {
+    "locations" : [ "Grace Cathedral Episcopal Church (1100 California Street)", "722 Steiner Street (Postcard Row, Alamo Square, Hayes Valley)" ],
+    "year" : "1985",
+    "director" : "Paul Aaron"
+  },
+  "Getting Even with Dad" : {
+    "locations" : [ "California & Grant Streets", "War Memorial Building (401 Van Ness Avenue)", "140 Maiden Lane", "Mason Street at Jackson", "M.H. de Young Memorial Museum (Golden Gate Park)", "Embarcadero Street Station- BART ", "Candlestick Park (602 Jamestown Ave.)" ],
+    "year" : "1994",
+    "director" : "Howard Deutch"
+  },
+  "Zodiac" : {
+    "locations" : [ "SF Chronicle Building (901 Mission St)" ],
+    "year" : "2007",
+    "director" : "David Fincher"
+  },
+  "By Hook or By Crook" : {
+    "locations" : [ "The Lexington Club (3464 19th Street at Lexington)", "Royan Hotel (405 Valencia Street, Mission District)" ],
+    "year" : "2001",
+    "director" : "Harriet Dodge & Silas Howard"
+  },
+  "A Jitney Elopement" : {
+    "locations" : [ "20th and Folsom Streets", "Golden Gate Park" ],
+    "year" : "1915",
+    "director" : "Charles Chaplin"
+  },
+  "Age of Adaline" : {
+    "locations" : [ "Pier 50- end of the pier", "California @ Montgomery", "Montgomery/Green" ],
+    "year" : "2015",
+    "director" : "Lee Toland Krieger"
+  },
+  "Murder in the First, Season 3" : {
+    "locations" : [ "Golden Gate Park", "Civic Center Plaza", "500 Grove Street", "600 Octavia Street", "535 Octavia Street", "Patricia's Green", "Hall of Justice (850 Bryant Street)", "Harriet Alley", "Howard Street at Steuart Street", "887 De Haro Street", "Pier 96", "2633 Vallejo Street" ],
+    "year" : "2016",
+    "director" : "Steven Bochcho"
+  },
+  "The Towering Inferno" : {
+    "locations" : [ "Bank of America Building (555 California Street, Financial District)", "San Francisco Fire Station 38 (2150 California Street, Pacific Heights)", "Grace Cathedral Episcopal Church (1100 California Street)", "Fairmont Hotel (950 Mason Street, Nob Hill)", "2898 Vallejo Street" ],
+    "year" : "1974",
+    "director" : "John Guillermin"
+  },
+  "Broken-A Modern Love Story " : {
+    "locations" : [ "Ina Coolbrith Park (1700 Taylor Street)", "0-100 block Halleck Street" ],
+    "year" : "2010",
+    "director" : "Ryan K. Whiting"
+  },
+  "American Graffiti" : {
+    "locations" : [ "Mel's Drive-In (Corner of Van Ness & Mission Street, Mission District)", "3355 Geary Blvd." ],
+    "year" : "1973",
+    "director" : "George Lucas"
+  },
+  "Looking Season 2 ep 206" : {
+    "locations" : [ "745 Treat Ave.", "1890 Clay Street", "770 Haight Street" ],
+    "year" : "2015",
+    "director" : "Andrew Haigh"
+  },
+  "Interview With The Vampire" : {
+    "locations" : [ "Ferry Building", "Golden Gate Bridge", "100 Market Street at 6th Street" ],
+    "year" : "1994",
+    "director" : "Neil Jordan"
+  },
+  "Gentleman Jim" : {
+    "locations" : [ "The Barbary Coast" ],
+    "year" : "1942",
+    "director" : "Raoul Walsh"
+  },
+  "Romeo Must Die" : {
+    "locations" : [ "Chinatown", "Embarcadero Street" ],
+    "year" : "2000",
+    "director" : "Andrzej Bartkowiak"
+  },
+  "The Times of Harvey Milk" : {
+    "locations" : [ "The Castro" ],
+    "year" : "1984",
+    "director" : "Rob Epstein"
+  },
+  "Heart Beat" : {
+    "locations" : [ "San Francisco Art Institute (800 Chestnut Street)", "Washington Square Bar & Grill (1707 Powell)", "City Lights Bookstore (261 Columbus)" ],
+    "year" : "1980",
+    "director" : "John Byrum"
+  },
+  "High Anxiety" : {
+    "locations" : [ "Conservatory of Flowers, Golden Gate Park" ],
+    "year" : "1977",
+    "director" : "Mel Brooks"
+  },
+  "Tucker: The Man and His Dream" : {
+    "locations" : [ "City Hall" ],
+    "year" : "1988",
+    "director" : "Francis Ford Coppola"
+  },
+  "George of the Jungle" : {
+    "locations" : [ "755 Vallejo Street", "Bay Bridge" ],
+    "year" : "1997",
+    "director" : "Sam Weisman"
+  },
+  "Swingin' Along" : {
+    "locations" : [ "Powell Street" ],
+    "year" : "1961",
+    "director" : "Charles Barton"
+  },
+  "Dawn of the Planet of the Apes" : {
+    "locations" : [ "Filbert St. from Hyde to Leavenworth", "California St from Mason to Kearny", "City Hall", "Alioto Park", "California & Powell ", "Columbus & Pacific Ave" ],
+    "year" : "2014",
+    "director" : "Matt Reeves"
+  },
+  "I's" : {
+    "locations" : [ "1 Post Street" ],
+    "year" : "2011",
+    "director" : "Chris Edgette"
+  },
+  "Freebie and the Bean" : {
+    "locations" : [ "Alco Plaza", "Twin Peaks", "TransAmerica Pyramid (600 Montgomery Street)", "Stockton Tunnel (Stockton Street at Sutter Street)", "Steinhart Aquarium (California Academy of Sciences, Golden Gate Park)", "Potrero Hill", "Nob Hill", "Folsom Street (SOMA)", "Fairmont Hotel (950 Mason Street, Nob Hill)", "Embarcadero Freeway", "Candlestick Park (602 Jamestown Ave.)", "Broadway and Columbus Avenue (North Beach)" ],
+    "year" : "1974",
+    "director" : "Richard Rush"
+  },
+  "Joy Luck Club" : {
+    "locations" : [ "Hang Ah Alley (Chinatown)", "901 Union Street", "610 Rhode Island Street (Potrero Hill)", "375 Laguna Honda Blvd.", "180 Manchester Street" ],
+    "year" : "1993",
+    "director" : "Wayne Wang"
+  },
+  "The Bridge" : {
+    "locations" : [ "Golden Gate Bridge" ],
+    "year" : "2006",
+    "director" : "Eric Steel"
+  },
+  "Chance- Season 1 ep102" : {
+    "locations" : [ "Mason and Pacific", "Westin St. Francis", "Sutter Stockton Garage, 444 Stockton", "Potomac and Waller", "State Garage, 818 Leavenworth" ],
+    "year" : "2016",
+    "director" : "Lenny Abrahamson"
+  },
+  "Common Threads: Stories From the Quilt" : {
+    "locations" : [ "The Castro" ],
+    "year" : "1989",
+    "director" : "Rob Epstein"
+  },
+  "Red Widow" : {
+    "locations" : [ "York & 24th St.", "2nd St & Howard", "Montgomery & Market Streets", "Broadway & Taylor", "Mason & Sacramento St", "Geary & 27th Ave", "Geary & 20th Ave", "Vallejo Street Garage", "California & Davis St", "Golden Gate Ave & Jones" ],
+    "year" : "2013",
+    "director" : "Alon Aranya"
+  },
+  "Never Die Twice" : {
+    "locations" : [ "Postcard Row (Alamo Square, Hayes Valley)" ],
+    "year" : "2001",
+    "director" : "Sean A.F. Scott"
+  },
+  "Swing" : {
+    "locations" : [ "Regency Building (1290 Sutter Street)" ],
+    "year" : "2003",
+    "director" : "Martin Guigui"
+  },
+  "Just One Night" : {
+    "locations" : [ "Ferry Building" ],
+    "year" : "2000",
+    "director" : "Alan Jacobs"
+  },
+  "Dream for an Insomniac" : {
+    "locations" : [ "Baker Beach" ],
+    "year" : "1996",
+    "director" : "Tiffanie DeBartolo"
+  },
+  "The Enforcer" : {
+    "locations" : [ "Sutter & Webster Streets", "Hall of Justice", "Coit Tower", "City Hall", "Balmy Street (Mission District)", "Alcatraz Island", "24th Street Mini Park (Mission District)", "23rd & Capp Streets (Mission District)" ],
+    "year" : "1976",
+    "director" : "James Fargo"
+  },
+  "Sudden Impact" : {
+    "locations" : [ "Near Point Lobos, El Camino Del Mar ", "Mt. Davidson", "Mark Hopkins Intercontinental Hotel (1 Nob Hill Circle, Nob Hill)", "Hall of Justice (850 Bryant Street)", "Ferry Plaza", "Fairmont Hotel (950 Mason Street, Nob Hill)", "Civic Center Plaza", "The Embarcadero/Ferry Building", "Bowles Franklin Galleries (765 Beach Street, Fisherman's Wharf)", "Pier 38-40, The Embarcadero" ],
+    "year" : "1983",
+    "director" : "Clint Eastwood"
+  },
+  "Sister Act 2: Back in the Habit" : {
+    "locations" : [ "Maritime Museum, Building 201 (Fort Mason)", "Coit Tower" ],
+    "year" : "1993",
+    "director" : "Bill Duke"
+  },
+  "Playing Mona Lisa" : {
+    "locations" : [ "Conservatory of Flowers (Golden Gate Park)" ],
+    "year" : "2000",
+    "director" : "Matthew Huffman"
+  },
+  "Basic Instinct" : {
+    "locations" : [ "Steinhart Aquarium (California Academy of Sciences, Golden Gate Park)", "Pier 7 (The Embarcadero)", "Kearney Street (Telegraph Hill)", "Hall of Justice (850 Bryant Street)", "2930 Vallejo Street", "Chinatown", "Gibb Street (Chinatown)", "1158-70 Montgomery Street", "2104 Broadway" ],
+    "year" : "1992",
+    "director" : "Paul Verhoeven"
+  },
+  "Vertigo" : {
+    "locations" : [ "York Hotel (940 Sutter Street)", "San Francisco Drydock (20th and Illinois Streets)", "Park Hill Sanatorium (351 Buena Vista Avenue East)", "Mission Dolores (3321 16th Street, Mission District)", "Gough & Eddy Streets (Western Addition)", "Fairmont Hotel (950 Mason Street, Nob Hill)", "Conservatory of Flowers (Golden Gate Park)", "Claude Lane at Bush Street", "California Palace of the Legion of Honor (34th Avenue & Clement, Lincoln Park)", "Brocklebank Apartments (1000 Mason Street)", "900 Lombard Street", "1007 Gough Street" ],
+    "year" : "1958",
+    "director" : "Alfred Hitchcock"
+  },
+  "Sausalito" : {
+    "locations" : [ "The Castro" ],
+    "year" : "2000",
+    "director" : "Andrew Lau"
+  },
+  "Play it Again, Sam" : {
+    "locations" : [ "Balboa at 22nd Avenue", "The Music Concourse (Martin Luther King, Jr. Drive, Golden Gate Park)", "Aquatic Park (Jefferson Street)", "15-17 Fresno Street" ],
+    "year" : "1972",
+    "director" : "Herbert Ross"
+  },
+  "The Maltese Falcon" : {
+    "locations" : [ "Golden Gate Bridge", "Ferry Building" ],
+    "year" : "1941",
+    "director" : "John Huston"
+  },
+  "Budding Prospects, Pilot" : {
+    "locations" : [ "3050 24th Street", "3033 24th Street", "2937 24th Street", "1167 Alabama Street", "1641 York Street", "Bernal Heights Boulevard", "40 Prentiss Street", "500 Cortland Avenue", "Lucky Street", "1125 Guerrero Street", "Gough Street & Clay Street", "2007 Franklin Street", "951 Hudson Avenue" ],
+    "year" : "2017",
+    "director" : "Terry Zwigoff"
+  },
+  "The Core" : {
+    "locations" : [ "Golden Gate Bridge" ],
+    "year" : "2003",
+    "director" : "John Amiel"
+  },
+  "Herbie Rides Again" : {
+    "locations" : [ "Castagnola's Restaurant (Fisherman's Wharf)", "Golden Gate Bridge" ],
+    "year" : "1974",
+    "director" : "Robert Stevenson"
+  },
+  "Chance- Season 1 ep107" : {
+    "locations" : [ "60 Potomac", "157 Commonwealth", "1461 Page St.", "1958 Valencia St.", "145 Barlett St." ],
+    "year" : "2016",
+    "director" : "Alexandra Cunningham and Kem Nunn"
+  },
+  "Vegas in Space" : {
+    "locations" : [ "544 Natoma (SOMA)", "Corona Heights Park", "422 Oak Street at Laguna", "3567 18th Street" ],
+    "year" : "1992",
+    "director" : "Phillip R. Ford"
+  },
+  "Star Trek IV: The Voyage Home" : {
+    "locations" : [ "West Harbor, Marina District", "North Beach", "Marina Green, Marina District", "Kearny & Pacific Streets", "Intersection of Grant & Fresno Streets (North Beach)", "Intersection of Columbus & Mason Streets", "Intersection of Columbus & Kearney Streets", "Golden Gate Park", "Golden Gate Bridge", "500 Block of Pacific Avenue (Chinatown)" ],
+    "year" : "1986",
+    "director" : "Leonard Nimoy"
+  },
+  "Petulia" : {
+    "locations" : [ "Japanese Tea Garden, Hagiwara Tea Garden Drive, Golden Gate Park", "Fairmont Hotel (950 Mason Street, Nob Hill)", "307 Filbert Street", "2417 Franklin Street" ],
+    "year" : "1968",
+    "director" : "Richard Lester"
+  },
+  "Bedazzled" : {
+    "locations" : [ "1155 Filbert Street at Hyde", "Washington Square Park (Filbert, between Stockton and Powell)", "Montgomery & Market Streets", "City Hall" ],
+    "year" : "2000",
+    "director" : "Harold Ramis"
+  },
+  "Looking \"Special\"" : {
+    "locations" : [ "1080 Natoma Street", "1246 Folsom Street", "San Francisco City Hall", "Grant Avenue between Sacramento and Washington", "The End Up, 401 6th Streeet", "17th & Market Street", "Point Lobos Avenue", "Bernal Heights Neighborhood", "3079 16th Street", "Fisherman's Wharf" ],
+    "year" : "2016",
+    "director" : "Andrew Haigh"
+  },
+  "Chance - Season 1 Pilot" : {
+    "locations" : [ "66 Potomac", "Mario's Café, 566 Columbus", "Washington Square Park", "1055 Montgomery St.", "60 Leavenworth St.", "Jefferson Square Park", "940 Powell St.", "Ellis and Jones St.", "State Garage, 818 Leavenworth", "Antonio Alley", "253 4th Ave." ],
+    "year" : "2016",
+    "director" : "Lenny Abrahamson"
+  },
+  "The Master" : {
+    "locations" : [ "Pier 7/ Embarcadero" ],
+    "year" : "2012",
+    "director" : "Paul Thomas Anderson"
+  },
+  "A Smile Like Yours " : {
+    "locations" : [ "Grace Cathedral Episcopal Church (1100 California Street)", "San Francisco International Airport" ],
+    "year" : "1997",
+    "director" : "Keith Samples"
+  },
+  "Heart and Souls" : {
+    "locations" : [ "Stockton Tunnel (Stockton Street at Sutter Street)", "2810 Pacific Avenue", "War Memorial Opera House (401 Van Ness Avenue)", "Conservatory of Flowers (Golden Gate Park)" ],
+    "year" : "1993",
+    "director" : "Tomas Gislason"
+  },
+  "The Presidio" : {
+    "locations" : [ "Washington Street & Waverly Place (Chinatown)", "Sansome Street (The Embarcadero)", "Presidio (Golden Gate National Recreation Area)", "Montgomery & Vallejo Streets (Telegraph Hill)", "Market & 2nd Streets", "Hayes & Polk Streets (Civic Center)", "Golden Gate Bridge", "Ferry Building", "Coit Tower", "Civic Center Plaza", "Battery Street (The Embarcadero)", "900 Block of Grant Avenue (Chinatown)", "700 Block of Jackson Street (Chinatown)", "200 Block of Sansome Street (Financial District)" ],
+    "year" : "1988",
+    "director" : "Peter Hyams"
+  },
+  "Jade" : {
+    "locations" : [ "Japanese Tea Garden (Hagiwara Tea Garden Drive, Golden Gate Park)", "Fior d' Italia (601 Union Street at Stockton)", "Fairmont Hotel (950 Mason Street, Nob Hill)", "Lombard & Hyde Streets", "Hall of Justice (850 Bryant Street)", "Washington Square (North Beach)", "War Memorial Opera House (401 Van Ness Avenue)" ],
+    "year" : "1995",
+    "director" : "William Friedkin"
+  },
+  "The Net" : {
+    "locations" : [ "Montgomery & Market Streets" ],
+    "year" : "1995",
+    "director" : "Irwin Winkler"
+  },
+  "Class Action" : {
+    "locations" : [ "Mission Dolores (3321 16th Street, Mission District)", "City Hall" ],
+    "year" : "1991",
+    "director" : "Michael Apted"
+  },
+  "Love & Taxes" : {
+    "locations" : [ "20 Hill Street", "198 Gough Street" ],
+    "year" : "2014",
+    "director" : "Jacob Kornbluth"
+  },
+  "Dr. Dolittle 2" : {
+    "locations" : [ "Sacramento St., Between Pierce & Broderick Streets ", "Hyde Street & Lombard Street", "Building 924, Presidio (Golden Gate National Recreation Area)" ],
+    "year" : "2001",
+    "director" : "Steve Carr"
+  },
+  "Around the Fire" : {
+    "locations" : [ "Ocean Beach" ],
+    "year" : "1998",
+    "director" : "John Jacobsen"
+  },
+  "Looking Season 2 ep 203" : {
+    "locations" : [ "770 Haight Street" ],
+    "year" : "2015",
+    "director" : "Andrew Haigh"
+  },
+  "Hard to Hold" : {
+    "locations" : [ "Fairmont Hotel (950 Mason Street, Nob Hill)" ],
+    "year" : "1984",
+    "director" : "Larry Peerce"
+  },
+  "Terminator - Genisys" : {
+    "locations" : [ "16th and Utah", "Van Ness between Fell and Lombard", "California between Leavenworth and Powell", "Mission at 1st and 2nd", "Market at Mason", "California at Larkin", "California at Jones", "Pine and Leavenworth", "California St. between Drumm St. and Kearny St.", "Market St. at Embarcadero area", "Pine St. between Market and Kearny", "Union Square", "San Francisco - Oakland Bay Bridge", "Mission St., Embarcadero, and Front between Clay and Market", "Bush St. at Stockton St.", "Powell St at Geary St", "1 Market St. Landmark Building", "Embarcadero between Pier 2 and Harrison", "Pier 14" ],
+    "year" : "2015",
+    "director" : "Alan Taylor"
+  },
+  "Metro" : {
+    "locations" : [ "Bush Street at Jones" ],
+    "year" : "1997",
+    "director" : "Thomas Carter"
+  },
+  "Bicentennial Man" : {
+    "locations" : [ "City Hall", "Golden Gate Bridge", "Treasure Island", "Postcard Row, Alamo Square, Hayes Valley", "Grace Cathedral Episcopal Church (1100 California Street)" ],
+    "year" : "1999",
+    "director" : "Chris Columbus"
+  },
+  "Chance- Season 1 ep104" : {
+    "locations" : [ "11 San Jacinto Ave.", "Bush and Sansome St.", "Bayview Police Station, 201 Williams Ave.", "Miraloma Mall at Portola Frontage Road", "1018 Tennessee St.", "901/909Tennessee St.", "200 Kansas St.", "15th St. between Vermont and Kansas" ],
+    "year" : "2016",
+    "director" : "Carl Franklin"
+  }
+}
