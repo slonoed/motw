@@ -7,8 +7,8 @@
             [motw.utils :as u]
             [motw.maps :as m]))
 
-(defn- filter-movie
-  "Check is movie match search query."
+(defn- filter-item
+  "Check is item match search query."
   [search {title :title :as z}]
   (str/includes? (str/lower-case title) (str/lower-case search)))
 
@@ -98,7 +98,7 @@
   (let [movies (vals m)
         [checked unchecked] (split movies)
         sorter (partial sort-by :title)
-        search-filter (partial filter-movie (or s ""))
+        search-filter (partial filter-item (or s ""))
         unchecked' (filter search-filter unchecked)
         +movie' (with-title-key +movie)
         checked-count (count checked) ]
